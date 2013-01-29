@@ -1,0 +1,6279 @@
+FN ISI Export Format
+VR 1.0
+PT J
+AU BOYD, DK
+   PLETSCHER, DH
+   BREWSTER, WG
+TI EVIDENCE OF WOLVES, CANIS-LUPUS, BURYING DEAD WOLF PUPS
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE WOLF; CANIS-LUPUS; BURYING; PUPS; GLACIER-NATIONAL-PARK; MONTANA
+AB We report an observation of a Wolf or Wolves, (Canis lupus) probably
+   burying at least two dead Wolf pups in Glacier National Park, Montana.
+   No previous literature reports have been found of a Wolf caching or
+   burying a dead Wolf.
+C1 UNIV MONTANA,SCH FORESTRY,MISSOULA,MT 59812.
+NR 0
+TC 1
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD APR-JUN
+PY 1993
+VL 107
+IS 2
+BP 230
+EP 231
+PG 2
+SC Biodiversity Conservation; Ecology
+GA NQ376
+UT ISI:A1993NQ37600016
+ER
+
+PT J
+AU NELSON, ME
+   MECH, LD
+TI PREY ESCAPING WOLVES, CANIS-LUPUS, DESPITE CLOSE PROXIMITY
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE WOLF; CANIS-LUPUS; MOOSE; ALCES-ALCES; WHITE-TAILED DEER;
+   ODOCOILEUS-VIRGININANUS; PREDATION; PREDATOR-PREY RELATIONS
+AB We describe attacks by Wolf, (Canis lupus) packs in Minnesota on a
+   White-tailed Deer (Odocoileus virginianus) and a Moose (Alces alces) in
+   which Wolves were within contact distance of the prey but in which the
+   prey escaped.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+NR 0
+TC 6
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD APR-JUN
+PY 1993
+VL 107
+IS 2
+BP 245
+EP 246
+PG 2
+SC Biodiversity Conservation; Ecology
+GA NQ376
+UT ISI:A1993NQ37600023
+ER
+
+PT J
+AU FESTABIANCHET, M
+   URQUHART, M
+   SMITH, KG
+TI MOUNTAIN GOAT RECRUITMENT - KID PRODUCTION AND SURVIVAL TO BREEDING AGE
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID WHITE-TAILED DEER; FEMALE RED DEER; DALL SHEEP; BIGHORN SHEEP;
+   SOUTHWEST YUKON; POPULATION; REPRODUCTION; DEMOGRAPHY; MORTALITY;
+   DENSITY
+AB During a 5-year study of a marked population of mountain goats
+   (Oreamnos americanus) in west-central Alberta, 5 of 17 females produced
+   their first kid at 4 years of age, while most females did not reproduce
+   until 5 years of age. Twinning accounted for 2% of births. Survival of
+   kids to 1 year averaged 60%, and survival of females from 1 to 4 years
+   of age was 52%. Most deaths of kids occurred in September-November and
+   appeared due to predation by wolves (Canis lupus), cougars (Felis
+   concolor), and grizzly bears (UI sw arctos). At least half of the
+   yearlings lost from the population were preyed upon, but losses of
+   2-year-olds were concentrated in the summer, suggesting emigration.
+   Survival rates of young goats were not different according to sex. We
+   suggest that nutrient availability limits the reproductive performance
+   of the goats by retarding their growth, while predation on young goats
+   is a major source of mortality.
+C1 ALBERTA FISH & WILDLIFE DIV,EDSON T7E 1T2,AB,CANADA.
+RP FESTABIANCHET, M, UNIV SHERBROOKE,DEPT BIOL,RECH ECOL NUTR & ENERGET
+   GRP,SHERBROOKE J1K 2R1,PQ,CANADA.
+NR 48
+TC 34
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD JAN
+PY 1994
+VL 72
+IS 1
+BP 22
+EP 27
+PG 6
+SC Zoology
+GA NK851
+UT ISI:A1994NK85100004
+ER
+
+PT J
+AU JOHNSON, MR
+   BOYD, DK
+   PLETSCHER, DH
+TI SEROLOGIC INVESTIGATIONS OF CANINE PARVOVIRUS AND CANINE-DISTEMPER IN
+   RELATION TO WOLF (CANIS-LUPUS) PUP MORTALITIES
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Note
+DE SEROLOGY; WOLVES; CANIS LUPUS; CANINE PARVOVIRUS; CANINE DISTEMPER
+ID WOLVES; MINNESOTA
+AB Twenty-one serum samples from 18 wolves (Canis lupus) were collected
+   from 1985 to 1990 from northwestern Montana (USA) and southeastern
+   British Columbia, Canada, and evaluated for antibodies to canine
+   parvovirus (CPV), canine distemper (CD), infectious canine hepatitis,
+   and Lyme disease; we found prevalences of 13 (65%) of 19, five (29%) of
+   17, seven (36%) of 19, and 0 of 20 wolves for these diseases,
+   respectively. Pups died or disappeared in three of the eight packs
+   studied. In these three packs, adult pack members had CPV titers
+   greater than or equal to 1,600 or CD titers greater than or equal to
+   1,250. In packs that successfully raised pups, CPV and CD titers were
+   low. We propose that CPV or CD may have caused some pup mortalities.
+C1 UNIV MONTANA,SCH FORESTRY,MISSOULA,MT 59812.
+   UNIV MONTANA,MONTANA COOPERAT WILDLIFE RES UNIT,MISSOULA,MT 59812.
+RP JOHNSON, MR, NATL PK SERV,YELLOWSTONE CTR RESOURCES,POB 168,YELLOWSTONE
+   NATL PK,WY 82190.
+NR 14
+TC 31
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD APR
+PY 1994
+VL 30
+IS 2
+BP 270
+EP 273
+PG 4
+SC Veterinary Sciences
+GA NF994
+UT ISI:A1994NF99400022
+ER
+
+PT J
+AU THURBER, JM
+   PETERSON, RO
+   DRUMMER, TD
+   THOMASMA, SA
+TI GRAY WOLF RESPONSE TO REFUGE BOUNDARIES AND ROADS IN ALASKA
+SO WILDLIFE SOCIETY BULLETIN
+LA English
+DT Article
+DE ALASKA; BEHAVIOR; CANIS-LUPUS; GRAY WOLF; KENAI PENINSULA; REFUGE
+   BOUNDARIES; ROADS
+ID SURVIVAL; DENSITY
+C1 MICHIGAN TECHNOL UNIV,SCH FORESTRY & WOOD PROD,HOUGHTON,MI 49931.
+   MICHIGAN TECHNOL UNIV,DEPT MATH,HOUGHTON,MI 49931.
+NR 15
+TC 62
+PU WILDLIFE SOC
+PI BETHESDA
+PA 5410 GROSVENOR LANE, BETHESDA, MD 20814-2197
+SN 0091-7648
+J9 WILDLIFE SOC BULL
+JI Wildl. Soc. Bull.
+PD SPR
+PY 1994
+VL 22
+IS 1
+BP 61
+EP 68
+PG 8
+SC Ecology; Zoology
+GA NA621
+UT ISI:A1994NA62100010
+ER
+
+PT J
+AU VEITCH, AM
+   CLARK, WE
+   HARRINGTON, FH
+TI OBSERVATIONS OF AN INTERACTION BETWEEN A BARREN-GROUND BLACK BEAR,
+   URSUS-AMERICANUS, AND A WOLF, CANIS-LUPUS, AT A WOLF DEN IN NORTHERN
+   LABRADOR
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE BLACK BEAR; URSUS-AMERICANUS; WOLF; CANIS-LUPUS; LABRADOR; DEN
+AB An encounter between an adult male barren-ground Black Bear (Ursus
+   americanus) and an adult Wolf (Canis lupus) at the Wolf's den near the
+   Ikarut River in northern Labrador (ca. 58-degrees 09' N, 63-degrees 05'
+   W) on 7 July 1990 is described in which the wolf as actively aggressive
+   and the bear responded with only low levels of defense.
+RP VEITCH, AM, UNIV ALBERTA,DEPT ZOOL,EDMONTON T6G 2E9,ALBERTA,CANADA.
+NR 0
+TC 1
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JAN-MAR
+PY 1993
+VL 107
+IS 1
+BP 95
+EP 97
+PG 3
+SC Biodiversity Conservation; Ecology
+GA MZ029
+UT ISI:A1993MZ02900013
+ER
+
+PT J
+AU DERIX, R
+   VANHOOFF, J
+   DEVRIES, H
+   WENSING, J
+TI MALE AND FEMALE MATING COMPETITION IN WOLVES - FEMALE SUPPRESSION VS
+   MALE INTERVENTION
+SO BEHAVIOUR
+LA English
+DT Article
+ID SOCIAL-BEHAVIOR; CANIS-LUPUS; PLAINS; WOLF; EVOLUTION; MONOGAMY;
+   MAMMALS; ECOLOGY; JACKAL
+AB The social organization of wolves is characterised by strong pairbond
+   associations. Groups may consist of a mating couple and their remaining
+   offspring or of an association of potentially reproductive adults. When
+   a pack consists of several adults, intrasexual mating competition and
+   intersexual partner preference are expected to play an important role
+   in the establishment of sexual relationships. Data from the wild show
+   that as a rule only one female in a pack gives birth. Female
+   suppression is assumed to prevent the other pack members from breeding.
+   Our main interest was to elucidate the proximate behavioural mechanisms
+   by which the socio-sexual relationships are structured in times of the
+   mating season. Special attention was paid to the influence of
+   differences in dominance status and sex on the competitive interactions
+   between pack members.
+   From 1977 to 1985 we studied the social behaviour of wolves in and
+   around the mating season at Burger's Zoo in Arnhem (the Netherlands) by
+   means of detailed observations on two wolf packs.
+   Together with a general rise in frequency of (sexuo-affiliative)
+   interactions we observed an increase in general aggression and in the
+   frequency of interventions during the mating season. Our results reveal
+   certain differences in male and female mating strategies. 1) Separative
+   interventions were observed predominantly in males and were directed
+   against male-female sexual interactions, while such interventions by
+   females were less apparent. 2) Males showed a high frequency of
+   intrasexual aggression but only during the mating season. By contrast,
+   females showed less intrasexual aggression, and instead, showed a high
+   level of intrasexual dominance display, especially the alpha-female,
+   and they did so both in and outside the mating season. 3) Males tended
+   to intervene in especially those intersexual contacts in which their
+   own preferred female was involved, whereas the intolerance of the
+   alpha-female was more general, i.e. it was shown with respect to all
+   manifestations of other females. These patterns clearly explain why in
+   free nature wolf social organization tends towards a multi-male
+   uni-female system in which the non-dominant males have little chance of
+   sexual contact, but are generally tolerated as helpers in brood care.
+   In conclusion, male competition was comparatively more context-related
+   while female competition took the form of unprovoked hostility.
+C1 BURGERS ZOO ARNHEM,6861 SH ARNHEM,NETHERLANDS.
+RP DERIX, R, UNIV UTRECHT,PB 80086,3508 TB UTRECHT,NETHERLANDS.
+NR 66
+TC 12
+PU E J BRILL
+PI LEIDEN
+PA PO BOX 9000, 2300 PA LEIDEN, NETHERLANDS
+SN 0005-7959
+J9 BEHAVIOUR
+JI Behaviour
+PD NOV
+PY 1993
+VL 127
+PN Part 1-2
+BP 141
+EP 174
+PG 34
+SC Behavioral Sciences; Zoology
+GA MZ060
+UT ISI:A1993MZ06000008
+ER
+
+PT J
+AU BOYD, DK
+   NEALE, GK
+TI AN ADULT COUGAR, FELIS-CONCOLOR, KILLED BY GRAY WOLVES, CANIS-LUPUS, IN
+   GLACIER-NATIONAL-PARK, MONTANA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE GRAY WOLF; CANIS-LUPUS; COUGAR; FELIS-CONCOLOR; GLACIER-NATIONAL-PARK;
+   MONTANA
+AB An adult female Cougar (Felis concolor) was killed by a pack of eight
+   Wolves (Canis lupus) in Glacier National Park, Montana. Tracks
+   indicated the Wolves treed the Cougar and killed it when it came down.
+   They did not feed on the carcass.
+C1 UNIV MONTANA,SCH FORESTRY,WOLF ECOL PROJECT,MISSOULA,MT 59812.
+NR 0
+TC 9
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD OCT-DEC
+PY 1992
+VL 106
+IS 4
+BP 524
+EP 525
+PG 2
+SC Biodiversity Conservation; Ecology
+GA MZ491
+UT ISI:A1992MZ49100018
+ER
+
+PT J
+AU BOYD, DK
+   SECREST, LB
+   PLETSCHER, DH
+TI A WOLF, CANIS-LUPUS, KILLED IN AN AVALANCHE IN SOUTHWESTERN ALBERTA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE GRAY WOLF; CANIS-LUPUS; AVALANCHE; ALBERTA
+AB A 22-month old Gray Wolf (Canis lupus) was killed by an avalanche in
+   southwestern Alberta. Wolf mortality caused by an avalanche is a rare
+   event and has been reported only once previously in the literature.
+RP BOYD, DK, UNIV MONTANA,SCH FORESTRY,MISSOULA,MT 59812.
+NR 0
+TC 1
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD OCT-DEC
+PY 1992
+VL 106
+IS 4
+BP 526
+EP 526
+PG 1
+SC Biodiversity Conservation; Ecology
+GA MZ491
+UT ISI:A1992MZ49100019
+ER
+
+PT J
+AU BOYD, DK
+   JIMENEZ, MD
+TI SUCCESSFUL REARING OF YOUNG BY WILD WOLVES WITHOUT MATES
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+DE CANIS-LUPUS; PARENTAL CARE; WOLF
+AB Two lone-female wolves (Canis lupus) and a lone-male wolf each
+   successfully raised litters of young in northwestern Montana and
+   southeastern British Columbia. This unusual reproductive behavior
+   occurred in a low-density population of wolves colonizing an area
+   containing a relatively dense population of ungulates.
+RP BOYD, DK, UNIV MONTANA,SCH FORESTRY,MISSOULA,MT 59812.
+NR 13
+TC 6
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD FEB
+PY 1994
+VL 75
+IS 1
+BP 14
+EP 17
+PG 4
+SC Zoology
+GA MX241
+UT ISI:A1994MX24100004
+ER
+
+PT J
+AU MECH, LD
+TI BUFFER ZONES OF TERRITORIES OF GRAY WOLVES AS REGIONS OF INTRASPECIFIC
+   STRIFE
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+DE CANIS-LUPUS; WOLF; TERRITORIALITY; INTRASPECIFIC STRIFE; MORTALITY;
+   COMPETITION; BUFFER ZONE; PREDATOR-PREY RELATIONS; DEER;
+   ODOCOILEUS-VIRGINIANUS
+ID NORTHEASTERN MINNESOTA; WOLF; POPULATION
+AB The locations of 22 territorial gray wolves (Canis lupus) killed by
+   conspecifics in northeastern Minnesota were analyzed in a study
+   involving radio-telemetry from 1968 through 1992. Twenty-three percent
+   of the wolves were killed precisely on the borders of their estimated
+   territories; 41%, within 1.0 km (16% of the radius of their
+   mean-estimated territory) inside or outside the estimated edge; 91%,
+   within 3.2 km inside or outside (50% of the radius of their
+   mean-estimated territory) of the estimated edge. This appears to be the
+   first report of intraspecific mortality of mammals along territorial
+   boundaries.
+NR 22
+TC 29
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD FEB
+PY 1994
+VL 75
+IS 1
+BP 199
+EP 202
+PG 4
+SC Zoology
+GA MX241
+UT ISI:A1994MX24100024
+ER
+
+PT J
+AU VILA, C
+   CASTROVIEJO, J
+TI USE OF TILETAMINE AND ZOLAZEPAM TO IMMOBILIZE CAPTIVE IBERIAN WOLVES
+   (CANIS-LUPUS)
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Note
+DE IBERIAN WOLF; CANIS LUPUS; ZOLETIL(R); TILETAMINE; ZOLAZEPAM;
+   IMMOBILIZATION; EXCITABILITY
+ID GRAY WOLVES; WILD
+AB A mixture of tiletamine and zolazepam (Zoletil(R)) was used to
+   immobilize 29 captive born Iberian wolves. Based on their excitability
+   during handling procedures the animals were categorized as excited (n =
+   15) and unexcited (n = 14). We observed differences in the responses of
+   these groups to the drugs. Although immobilized with higher doses (mean
+   +/- SD of 6.94 +/- 2.13 versus 5.04 +/- 1.74 mg/kg for the unexcited)
+   the excited individuals had an irregular and less predictable response,
+   with five individuals needing additional dosages in the excited group
+   compared to one animal in the unexcited group. Arousal time and
+   duration of immobilization of excited wolves was not correlated to
+   initial drug doses, but was in unexcited animals; the excited group had
+   a poorer thermal regulation. Differences in arousal time and duration
+   could be the a result of the different doses used. Excited wolves were
+   older than unexcited (5.4 +/- 3.01 versus 2.86 +/- 2.11 years,
+   respectively). For captive wolves, doses of about 5 mg/kg are
+   recommended for non-excited and 10 mg/kg for excited individuals.
+RP VILA, C, CSIC,ESTAC BIOL DONANA,APARTADO 1056,E-41080 SEVILLE,SPAIN.
+NR 10
+TC 4
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD JAN
+PY 1994
+VL 30
+IS 1
+BP 119
+EP 122
+PG 4
+SC Veterinary Sciences
+GA MU483
+UT ISI:A1994MU48300023
+ER
+
+PT J
+AU JEDRZEJEWSKI, W
+   SCHMIDT, K
+   MILKOWSKI, L
+   JEDRZEJEWSKA, B
+   OKARMA, H
+TI FORAGING BY LYNX AND ITS ROLE IN UNGULATE MORTALITY - THE LOCAL
+   (BIALOWIEZA FOREST) AND THE PALEARCTIC VIEWPOINTS
+SO ACTA THERIOLOGICA
+LA English
+DT Article
+DE LYNX LYNX; CANIS LUPUS; FEEDING HABITS; PREY CHOICE; PREDATOR-PREY
+   RELATIONSHIPS; UNGULATE MORTALITY; BIALOWIEZA PRIMEVAL FOREST;
+   PALEARCTIC
+ID FEEDING ECOLOGY; PREDATORS; POLAND; WOLF; PREY; DIET
+AB Lynx Lynx lynx (Linnaeus, 1758) - ungulate relationships were studied
+   in the exploited (530 km(2)) and pristine (47.5 km(2)) parts of
+   Bialowieza Primeval Forest during 1985 through 1992. In pristine
+   forest, Sus scrofa (54%) and Cervus elaphus (35%) predominated in the
+   ungulate community. In exploited forest, C. elaphus (36%) and Capreolus
+   capreolus (33%) were most abundant. Seat analysis indicated that
+   cervids comprised 87% of biomass consumed by lynxes in the cold season;
+   Lepus europaeus were 11%, and S. scrofa 2%. Hare was 2.5 times higher
+   in the lynx diet in the exploited forest than in the pristine forest.
+   Among 138 carcasses of ungulates killed by lynx in exploited forests in
+   cold seasons, 76% were roe deer. In the pristine forests, red deer
+   (61%) and roe deer (28%) were equally positively selected. Lynx did not
+   select roe deer for any sex/age class but did select red deer fawns.
+   Snowtracking showed that lynx attempted 1 attack on deer, 2 on
+   medium-sized prey, and 6 on rodents in their daily route. Lynx fed an
+   average of 3 - 4 days on a killed deer. Eight species of scavengers
+   (mainly wild boar and red fox) fed on lynx's kills. Analysis of 1090
+   ungulate carcasses found in Bialowieza Forest showed that predation was
+   responsible for 75% of known natural mortality in red deer (66% by wolf
+   Canis lupus Linnaeus, 1758; 9% by lynx), 62% in roe deer (37% by lynx,
+   25% by wolf), 27% in moose (all by wolf), and 12% in wild boar (11% by
+   wolf, 1% by lynx). Review of studies from the Palaearctic region
+   revealed that the share of hare in lynx diet positively correlated with
+   latitude, whereas the share of ungulates was inversely related to
+   latitude. From Palaearctic ungulates that ranged from 15 kg body mass
+   (Moschus moschiferus) to 920 bg (male Bison bonasus), the lynx selected
+   the smallest species available. Mean electivity index (D) for 9
+   ungulate species was negatively correlated with their log body mass. In
+   the Palaearctic region, predation contributed, on average, 1% to the
+   natural mortality of European bison, 25% to that of wild boar, 59% of
+   moose, 80% of red deer, and 85% of roe deer. Of total predation-caused
+   mortality, the average share caused by lynx was 46% in roe deer, 14% in
+   red deer and little or none in wild boar, moose, and bison.
+C1 BIALOWIEZA FOREST ADM,DEPT GAME MANAGEMENT,PL-17230 BIALOWIEZA,POLAND.
+   WORKSHOP ECOL & PROTECT NAT ENVIRONM,PL-17230 BIALOWIEZA,POLAND.
+RP JEDRZEJEWSKI, W, POLISH ACAD SCI,MAMMAL RES INST,PL-17230
+   BIALOWIEZA,POLAND.
+NR 65
+TC 56
+PU POLISH ACAD SCIENCES
+PI BIALOWIEZA
+PA MAMMAL RESEARCH INST, 17-230 BIALOWIEZA, POLAND
+SN 0001-7051
+J9 ACTA THERIOL
+JI Acta Theriol.
+PY 1993
+VL 38
+IS 4
+BP 385
+EP 403
+PG 19
+SC Zoology
+GA MV639
+UT ISI:A1993MV63900002
+ER
+
+PT J
+AU NELSON, ME
+   MECH, LD
+TI A SINGLE DEER STANDS-OFF 3 WOLVES
+SO AMERICAN MIDLAND NATURALIST
+LA English
+DT Note
+AB The first record of a deer (Odocoileus virginianus) standing off three
+   wolves (Canis lupus) is documented by an aerial observation in
+   northeastern Minnesota.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,US FISH & WILDLIFE SERV,LAUREL,MD 20708.
+NR 12
+TC 2
+PU AMER MIDLAND NATURALIST
+PI NOTRE DAME
+PA UNIV NOTRE DAME, BOX 369, ROOM 295 GLSC, NOTRE DAME, IN 46556
+SN 0003-0031
+J9 AMER MIDLAND NATURALIST
+JI Am. Midl. Nat.
+PD JAN
+PY 1994
+VL 131
+IS 1
+BP 207
+EP 208
+PG 2
+SC Biodiversity Conservation; Ecology
+GA MW295
+UT ISI:A1994MW29500023
+ER
+
+PT J
+AU FEH, C
+   BOLDSUKH, T
+   TOURENQ, C
+TI ARE FAMILY GROUPS IN EQUIDS A RESPONSE TO COOPERATIVE HUNTING BY
+   PREDATORS - THE CASE OF MONGOLIAN KULANS (EQUUS-HEMIONUS LUTEUS
+   MATSCHIE)
+SO REVUE D ECOLOGIE-LA TERRE ET LA VIE
+LA English
+DT Article
+ID SOCIAL-ORGANIZATION; LONG-TERM; BEHAVIOR; HORSES
+AB Attempts to account for the diversity of breeding systems in ungulates
+   have concentrated on ruminants (Jarman, 1974), and non-ruminant
+   species, like equids, were largely neglected. Equids are basically
+   known to have two types of breeding systems correlated with two
+   different types of resource distribution: Species living in mesic
+   environments like mountain zebras, Equus zebra, (Penzhorn, 1984) and
+   plain zebras, Equus burchelli, (Klingel, 1967) or feral horses (Berger,
+   1986) all form small and permanent family groups, usually consisting of
+   one male, one to two females and their offspring. Sometimes, two
+   breeding stallions form coalitions (Berger, 1986), and small all-male
+   groups occur in all three species. On the contrary, in species living
+   in xeric and therefore unpredictable environments like African wild
+   asses, Equus asinus, (Moehlman, 1974) and Grevy's zebra, Equus grevyi,
+   (Ginsberg, 1987), dominant males are territorial and bonds exist only
+   between females and. recent offspring, probably to minimize group-size
+   while foraging. According to this classification based on resource
+   distribution, Asian wild asses, Equus hemionus, ssp. should adopt the
+   second type of social system. However, not all of them do so. Why is
+   this not the case?
+   Ressource distribution might not be the only determinant of breeding
+   systems in equids. Apart from phylogenetic inertia mentioned for
+   mountain and Grevy's zebras (Berger, 1988), predators might also play
+   an important role. The Indian wild asses, Equus hemionus khur, (Shah,
+   pers. comm.) living in xeric environments (with small and solitary
+   hunting predators present, Canis lupus pallipes), typically adopt type
+   2 breeding system. Bannikov's (1958) descriptive study already
+   suggested that Mongolian kulans, Equus hemionus luteus, living in a
+   similar desert-environment (together with large and cooperatively
+   hunting predators, Canis lupus chance), might adopt type 1 breeding
+   system. Our own observations on group-composition of kulans carried out
+   in the Gobi National Park, during the breeding season and in winter,
+   support this view. Not only were kulans found to be non-territorial and
+   to live in family- or all-male groups like horses, plain and mountain
+   zebras, but they doubled their group size in winter, at a time when
+   food was more dispersed but predator pressure high. This contrast
+   suggests that understanding differences in grouping patterns between
+   subspecies of wild asses may help to shed light on equid social systems
+   in general.
+C1 ACAD SCI ULAN BATOR,ULAANBAATAR 11,MONGOL PEO REP.
+RP FEH, C, STN BIOL TOUR VALAT,F-13200 ARLES,FRANCE.
+NR 26
+TC 16
+PU SOC NATL PROTECTION NATURE ACCLIMATATION FRANCE
+PI PARIS 5
+PA 57 RUE CUVIER, 75005 PARIS 5, FRANCE
+SN 0249-7395
+J9 REV ECOL-TERRE VIE
+JI Rev. Ecol.-Terre Vie
+PD JAN-MAR
+PY 1994
+VL 49
+IS 1
+BP 11
+EP 20
+PG 10
+SC Ecology
+GA MR969
+UT ISI:A1994MR96900002
+ER
+
+PT J
+AU SMIETANA, W
+   KLIMEK, A
+TI DIET OF WOLVES IN THE BIESZCZADY MOUNTAINS, POLAND
+SO ACTA THERIOLOGICA
+LA English
+DT Article
+DE CANIS-LUPUS; FOOD HABITS; CARPATHIAN MOUNTAINS; POLAND
+ID WOLF; WINTER
+AB The diet of wolves Canis lupus Linnaeus, 1758 was studied from October
+   1989 to November 1992 in the Bieszczady Mountains, southeastern Poland.
+   A total of 221 wolf scats were collected and analyzed to determine the
+   prey species consumed by wolves in each season. Cervids (red and roe
+   deer) obviously predominated in wolf diet and consisted from 65% of
+   winter biomass to 96% of summer biomass consumed. The red deer made up
+   approximately 95% and roe deer only 5% of total cervid biomass
+   consumed. During summer deer fawns made up 28% of total cervid biomass
+   consumed. The wild boar constituted more significant food only during
+   winter - 17% of biomass eaten. Among wild boars, piglets were selected
+   and made up 66% of total wild boar biomass consumed during winter.
+   Domestic livestock represented more significant food in winter (16% of
+   biomass eaten) and was consumed as carrion laid out by hunters to bait
+   wolves. Other food categories as hares, voles and insectivores played a
+   negligible part in the wolf diet. Spring, summer and autumn diet were
+   little diversified. Only winter diet differed significantly from other
+   seasons for the presence of wild boar and cervids.
+C1 JAGIELLONIAN UNIV,INST ENVIRONM BIOL,DEPT WILDLIFE RES,PL-30060 KRAKOW,POLAND.
+NR 23
+TC 17
+PU POLISH ACAD SCIENCES
+PI BIALOWIEZA
+PA MAMMAL RESEARCH INST, 17-230 BIALOWIEZA, POLAND
+SN 0001-7051
+J9 ACTA THERIOL
+JI Acta Theriol.
+PY 1993
+VL 38
+IS 3
+BP 245
+EP 251
+PG 7
+SC Zoology
+GA MV638
+UT ISI:A1993MV63800003
+ER
+
+PT J
+AU OKARMA, H
+   BUCHALCZYK, T
+TI CRANIOMETRICAL CHARACTERISTICS OF WOLVES CANIS-LUPUS FROM POLAND
+SO ACTA THERIOLOGICA
+LA English
+DT Article
+DE CANIS-LUPUS; CRANIOMETRY; SKULL VARIABILITY; POLAND
+AB Skulls of 145 adult wolves Canis lupus Linnaeus, 1758 from two areas of
+   the highest wolf density in Poland (78 from the Carpathian Mountains
+   and 71 from the Bialowieza Primeval Forest) were measured using 17
+   selected characters. Values of cranial characters measured were similar
+   to those of previous studies from middleastern Eurasia. Generally, wolf
+   skulls were larger in the mountain than in the lowland population:
+   males from the Carpathian Mountains were larger than that from the
+   Bialowieza Forest, however females were slightly smaller than that in
+   the Bialowieza Forest. On both areas males were larger than females,
+   but a difference between sexes was much highly pronounced in wolves
+   from the mountain population.
+RP OKARMA, H, POLISH ACAD SCI,MAMMAL RES INST,PL-17230 BIALOWIEZA,POLAND.
+NR 23
+TC 6
+PU POLISH ACAD SCIENCES
+PI BIALOWIEZA
+PA MAMMAL RESEARCH INST, 17-230 BIALOWIEZA, POLAND
+SN 0001-7051
+J9 ACTA THERIOL
+JI Acta Theriol.
+PY 1993
+VL 38
+IS 3
+BP 253
+EP 262
+PG 10
+SC Zoology
+GA MV638
+UT ISI:A1993MV63800004
+ER
+
+PT J
+AU JHALA, YV
+TI PREDATION ON BLACKBUCK BY WOLVES IN VELAVADAR NATIONAL-PARK, GUJARAT,
+   INDIA
+SO CONSERVATION BIOLOGY
+LA English
+DT Article
+AB The role of predation on the endangered blackbuck antelope (Antelope
+   cervicapra) by the endangered Indian wolf (Canis lupus pallipes) in
+   Velavadar National Park, Gujarat, India, was evaluated in terms of
+   ratios of predator to prey Food habits of wolves were determined from
+   scat analysis and by direct observation Consumption was estimated from
+   unutilized portions of blackbuck kills. Wolves preyed primarily on
+   blackbuck (88% biomass consumption), rodents, and bares (Lepus
+   nigricollis). Wolves consumed 4.62 (S.E. 0.11) kg/wolf/kill and made
+   kills at an interval of 3.5 (SE 0.5) days. Daily consumption by wolves
+   was estimated at 1.33 kg/wolf The number of blackbuck killed annually
+   per wolf was estimated between 35 and 39. Between 142 to 158 blackbuck
+   per wolf were considered essential to maintain a stable blackbuck
+   population. Managing the grassland habitat by annual removal of the
+   exotic shrub Prosopis juliflora, minimizing human disturbance to wolves
+   at kills, and reducing predation on blackbuck by feral dogs were some
+   ways to ensure continued viability of this wolf-blackbuck system
+RP JHALA, YV, WILDLIFE INST INDIA,POB 18,DEHRA DUN 248001,INDIA.
+NR 0
+TC 16
+PU BLACKWELL SCIENCE INC
+PI CAMBRIDGE
+PA 238 MAIN ST, CAMBRIDGE, MA 02142
+SN 0888-8892
+J9 CONSERV BIOL
+JI Conserv. Biol.
+PD DEC
+PY 1993
+VL 7
+IS 4
+BP 874
+EP 881
+PG 8
+SC Biodiversity Conservation; Ecology; Environmental Sciences
+GA MP158
+UT ISI:A1993MP15800017
+ER
+
+PT J
+AU LEWIS, MA
+   MURRAY, JD
+TI MODELING TERRITORIALITY AND WOLF DEER INTERACTIONS
+SO NATURE
+LA English
+DT Article
+AB WE propose here a mechanism for territorial pattern formation in wolves
+   (Canis lupus) and analyse it using a spatially explicit mathematical
+   model incorporating wolf movement and scent marking. Model results
+   reflect field observations from northeastern Minnesota: buffer zones
+   where wolves are scarce arise between adjacent packs, and near these
+   buffer zones there are increased levels of scent marking1,2.
+   Territories are arranged in a spatial mosaic (Fig. 1) which covers the
+   wolf range. In the model formulation no assumptions are made about
+   actual existence or extent of wolf territory and buffer zones; these
+   arise naturally as stable steady-state solutions to the equations. We
+   show mathematically how reduced predation by wolves in the buffer zones
+   provides a refuge for prey species. Field studies support this;
+   distribution of a primary prey species, white-tailed deer (Odocoileus
+   virginianus), correlates negatively with that of wolves. Deer are found
+   primarily in buffer zones3,4 (Fig. 2).
+C1 UNIV WASHINGTON,DEPT APPL MATH,SEATTLE,WA 98195.
+RP LEWIS, MA, UNIV UTAH,DEPT MATH,JWB 233,SALT LAKE CITY,UT 84112.
+NR 11
+TC 56
+PU MACMILLAN MAGAZINES LTD
+PI LONDON
+PA PORTERS SOUTH, 4 CRINAN ST, LONDON, ENGLAND N1 9XW
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD DEC 23
+PY 1993
+VL 366
+IS 6457
+BP 738
+EP 740
+PG 3
+SC Multidisciplinary Sciences
+GA MN264
+UT ISI:A1993MN26400026
+ER
+
+PT J
+AU THURBER, JM
+   PETERSON, RO
+TI EFFECTS OF POPULATION-DENSITY AND PACK SIZE ON THE FORAGING ECOLOGY OF
+   GRAY WOLVES
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+DE ALCES-ALCES; CANIS-LUPUS; GRAY WOLF; GROUP SIZE; ISLE ROYALE;
+   PREDATION; POPULATION DENSITY; MOOSE
+ID MOOSE DENSITY; WOLF; LIONS; DYNAMICS
+AB A decline in the gray wolf (Canis lupus) population in Isle Royale
+   National Park prompted an intensive study of radiocollared individuals
+   in 1988-1991, complementing an ongoing study begun in 1958. During
+   winter, 1959-1991, the proportion of lone wolves was higher when the
+   population was at low levels, whereas average size of packs declined
+   with density of wolves. Sizes of territories (1971-1991) were not
+   related to size of packs. In winter, food availability (kg wolf-1
+   day-1) and kill interval (days/kill) varied inversely with size of
+   packs. Social relationships of radiocollared lone wolves were flexible;
+   they often formed temporary groups of two or three wolves. Small groups
+   (less than four) and lone wolves roamed large areas of the island (300
+   km2 and 540 km2, respectively), frequently moving through territories
+   of established packs. Solitary wolves and pairs readily killed adult
+   moose, in contrast to a common belief that larger packs benefit from
+   cooperative hunting.
+C1 MICHIGAN TECHNOL UNIV,SCH FORESTRY & WOOD PROD,HOUGHTON,MI 49931.
+NR 45
+TC 43
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD NOV
+PY 1993
+VL 74
+IS 4
+BP 879
+EP 889
+PG 11
+SC Zoology
+GA MK171
+UT ISI:A1993MK17100008
+ER
+
+PT J
+AU RANDI, E
+TI EFFECTS OF FRAGMENTATION AND ISOLATION ON GENETIC-VARIABILITY OF THE
+   ITALIAN POPULATIONS OF WOLF CANIS-LUPUS AND BROWN BEAR URSUS-ARCTOS
+SO ACTA THERIOLOGICA
+LA English
+DT Proceedings Paper
+CT MEETING ON ECOLOGICAL GENETICS IN MAMMALS : CURRENT RESEARCH AND FUTURE
+   PERSPECTIVES
+CY SEP, 1992
+CL LODZ, POLAND
+HO UNIV LODZ
+DE CANIS LUPUS; URSUS ARCTOS; GENETIC VARIABILITY; BOTTLENECK; ISOLATION;
+   RANDOM DRIFT; MITOCHONDRIAL DNA; POLYMERASE CHAIN REACTION;
+   CONSERVATION GENETICS
+ID DNA; AMPLIFICATION
+AB During the last centuries many West European populations of wolf Canis
+   lupus Linnaeus, 1758 and brown bear Ursus arctos Linnaeus, 1758 have
+   been extirpated from most of their former ranges. Isolated populations
+   of wolves (about 300 - 400 animals) and brown bears (about 80 - 100
+   animals) actually survive in the Italian Apennines, while very few (5 -
+   10) brown bears remain in the Italian eastern Alps. We have
+   investigated the consequences of isolation, demographic decline, and
+   random drift on genetic variability of the Italian populations of wolf
+   and brown bear using restriction site analysis and nucleotide
+   sequencing of portions of the mitochondrial genome. The studied
+   sequences were homogeneous within-populations of both species, but
+   there was a fixed difference in mtDNA between brown bears form the Alps
+   and from the Apennines. Random drift since the time of isolation is a
+   plausible explanation for both results. These findings suggest that
+   wolves and bears have small effective population sizes and, thus, they
+   will continue to loose genetic variability by random drift in the near
+   future. Conservation efforts should be directed towards an increase of
+   the annual growth rates of these populations. The individualization of
+   discrete phylogeographic units in the brown bear suggests to manage
+   them separately in order to preserve the existing gene diversity among
+   populations.
+RP RANDI, E, IST NAZL FAUNASELVAT,VIA CAFORNACETTA 9,I-40064 OZZANO
+   EMILIA,ITALY.
+NR 24
+TC 9
+PU POLISH ACAD SCIENCES
+PI BIALOWIEZA
+PA MAMMAL RESEARCH INST, 17-230 BIALOWIEZA, POLAND
+SN 0001-7051
+J9 ACTA THERIOL
+JI Acta Theriol.
+PY 1993
+VL 38
+SU Suppl. 2
+BP 113
+EP 120
+PG 8
+SC Zoology
+GA MK298
+UT ISI:A1993MK29800009
+ER
+
+PT J
+AU RANDI, E
+   LUCCHINI, V
+   FRANCISCI, F
+TI ALLOZYME VARIABILITY IN THE ITALIAN WOLF (CANIS-LUPUS) POPULATION
+SO HEREDITY
+LA English
+DT Article
+DE ALLOZYME ELECTROPHORESIS; CANIS-LUPUS; CONSERVATION GENETICS; DOG;
+   GENETIC VARIABILITY; WOLF
+ID GRAY WOLF; GENETIC-VARIABILITY; CONSERVATION; INTROGRESSION; DOGS
+AB Multilocus protein electrophoresis was used to estimate genetic
+   variability in a sample of 38 Italian wolves (Canis lupus). Percentage
+   of polymorphic loci was p = 10.0 per cent (four polymorphic loci out of
+   40 examined), and average observed heterozygosity was HoBAR = 0.028.
+   Genotypes were in Hardy-Weinberg equilibrium. Electrophoretic analysis
+   does not indicate a significant reduction of genetic variability at
+   nuclear gene loci following at least one century of isolation from
+   other European populations and demographic fluctuations suggested by
+   recent range contraction and expansion. These findings are compared
+   with published allozyme and mitochondrial DNA data for dogs, Canadian
+   wolves, and introgressed wolf x coyote populations from Minnesota and
+   Isle Royale (U.S.A.).
+RP RANDI, E, IST NAZL FAUNA SELVAT,VIA CA FORNACETTA 9,I-40064 OZZANO
+   EMILIA,ITALY.
+NR 36
+TC 19
+PU BLACKWELL SCIENCE LTD
+PI OXFORD
+PA OSNEY MEAD, OXFORD, OXON, ENGLAND OX2 0EL
+SN 0018-067X
+J9 HEREDITY
+JI Heredity
+PD NOV
+PY 1993
+VL 71
+PN Part 5
+BP 516
+EP 522
+PG 7
+SC Ecology; Evolutionary Biology; Genetics & Heredity
+GA MG423
+UT ISI:A1993MG42300009
+ER
+
+PT J
+AU MECH, LD
+TI DETAILS OF A CONFRONTATION BETWEEN 2 WILD WOLVES
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Note
+AB A confrontation was photographed and videotaped at close range between
+   a wild alpha male wolf (Canis lupus) of known history and an alien
+   adult on Ellesmere Island, Northwest Territories, Canada. For 100-110
+   seconds the two stood near each other, maneuvered around, and snapped
+   at each other until the alien fled. The alpha and his mate, who
+   suddenly joined the encounter, chased the other wolf for 1.2 km and
+   gave up without inflicting wounds. Discussed are possible reasons why
+   this wolf was not killed, while other alien wolves have been.
+RP MECH, LD, US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD
+   20708.
+NR 12
+TC 8
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD SEP
+PY 1993
+VL 71
+IS 9
+BP 1900
+EP 1903
+PG 4
+SC Zoology
+GA MC699
+UT ISI:A1993MC69900031
+ER
+
+PT J
+AU LAIKRE, L
+   RYMAN, N
+   THOMPSON, EA
+TI HEREDITARY BLINDNESS IN A CAPTIVE WOLF (CANIS-LUPUS) POPULATION -
+   FREQUENCY REDUCTION OF A DELETERIOUS ALLELE IN RELATION TO GENE
+   CONSERVATION
+SO CONSERVATION BIOLOGY
+LA English
+DT Article
+AB Numerous cases of hereditary diseases and disorders have been reported
+   in wild animals bred in captivity, but little attention has been paid
+   to the particular genetic management problems that arise when such
+   defects occur These problems include the obstacle of eliminating the
+   deleterious allele(s) without contemporary loss of genetic variability.
+   In this paper we use the statistical methods of pedigree analysis to
+   address questions regarding a previously presumed hereditary form of
+   blindness observed in a captive wolf population bred for conservation
+   purposes in Scandinavian zoos. The most likely mode of inheritance
+   coincides with an autosomal recessive allele with either a full
+   penetrance or a reduced penetrance of 0.6 (depending on the reliability
+   of studbook records). Using these two models of inheritance we
+   calculate the probability of carrying the blindness allele for each
+   living animal. Analysis of the effect of remOving high-probability
+   carriers on founder allele survival and level of inbreeding
+   demonstrates that the frequency of the deleterious allele can be
+   significantly reduced without seriously affecting founder allele
+   survival or current degree of inbreeding in the wolf population.
+RP LAIKRE, L, UNIV STOCKHOLM,DIV POPULAT GENET,S-10691 STOCKHOLM,SWEDEN.
+NR 0
+TC 22
+PU BLACKWELL SCIENCE INC
+PI CAMBRIDGE
+PA 238 MAIN ST, CAMBRIDGE, MA 02142
+SN 0888-8892
+J9 CONSERV BIOL
+JI Conserv. Biol.
+PD SEP
+PY 1993
+VL 7
+IS 3
+BP 592
+EP 601
+PG 10
+SC Biodiversity Conservation; Ecology; Environmental Sciences
+GA LZ057
+UT ISI:A1993LZ05700020
+ER
+
+PT J
+AU OKARMA, H
+TI STATUS AND MANAGEMENT OF THE WOLF IN POLAND
+SO BIOLOGICAL CONSERVATION
+LA English
+DT Article
+DE POLAND; WOLF MANAGEMENT
+ID BIALOWIEZA-NATIONAL-PARK; CARPATHIAN MOUNTAINS; WINTER; WOLVES
+AB The history, past status and distribution of the wolf Canis lupus in
+   Poland is presented. After being persecuted as a pest, the wolf was
+   given game species status in 1975, with a close season from 1 April to
+   31 July. The wolf inhabits about half of Poland with two core areas in
+   the southeast and northeast of the country. Two main methods of hunting
+   wolves (from a tower and using fladry) are described. Management
+   attitudes and threats to the wolf population are also discussed.
+RP OKARMA, H, POLISH ACAD SCI,MAMMAL RES INST,PL-17230 BIALOWIEZA,POLAND.
+NR 34
+TC 21
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0006-3207
+J9 BIOL CONSERV
+JI Biol. Conserv.
+PY 1993
+VL 66
+IS 3
+BP 153
+EP 158
+PG 6
+SC Biodiversity Conservation; Ecology; Environmental Sciences
+GA LY777
+UT ISI:A1993LY77700001
+ER
+
+PT J
+AU VILA, C
+   URIOS, V
+   CASTROVIEJO, J
+TI TOOTH LOSSES AND ANOMALIES IN THE WOLF (CANIS-LUPUS)
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID DENTAL ANOMALIES
+AB We observed tooth losses (and subsequent alveolar resorptions) and
+   other cases of anodonty and polydonty and anomalies in the shape and
+   occlusion of the teeth in skulls of wolves from the former Soviet
+   Union. Resorptions increase in number with age, but do not seem to have
+   much of an effect on individual survival (they probably do not affect
+   hunting), and are found in half of individuals over 8 years of age. The
+   highest numbers of resorptions, as well as cases of polydonty and
+   dental anomalies, were in the premolars. This suggests that the
+   premolars are not greatly subject to selective pressure. At least 6.8 %
+   of the skulls have malformed teeth or malocclusions.
+RP VILA, C, CSIC,ESTAC BIOL DONANA,APARTADO 1056,E-41080 SEVILLE,SPAIN.
+NR 25
+TC 9
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD MAY
+PY 1993
+VL 71
+IS 5
+BP 968
+EP 971
+PG 4
+SC Zoology
+GA LU834
+UT ISI:A1993LU83400015
+ER
+
+PT J
+AU ASA, CS
+TI RELATIVE CONTRIBUTIONS OF URINE AND ANAL-SAC SECRETIONS IN SCENT MARKS
+   OF LARGE FELIDS
+SO AMERICAN ZOOLOGIST
+LA English
+DT Article
+ID CANIS-LUPUS; WOLF CANIS; ODOR
+AB A hypothesis generated from field observations of lions and tigers was
+   tested in a zoo setting- The presence of a whitish material in urine
+   marks, detected by visual inspection, led to the surmise that anal-sac
+   secretions were expelled along with urine. This hypothesis was
+   evaluated by labelling anal-sac secretions of various felids with an
+   inert dye. The animals were monitored thereafter for signs of dye in
+   urine-marks, on feces or in their enclosures. The failure to find
+   anal-sac secretions in urine or on feces led to a search for an
+   alternate explanation for the whitish material. A likely answer was
+   found in the confirmation of considerable lipid in the bladder urine of
+   lions and tigers, which separates to form a visible, whitish layer.
+   Relative levels of urinary lipid reflect general condition of an animal
+   as they correlate with kidney fat reserves (Hewer et al., 1948), so the
+   amount of lipid in a scent mark could serve as an indicator of
+   condition. Furthermore, because lipid retards the release of volatile
+   compounds (Regnier and Goodwin, 1976), lipid in a scent mark will
+   extend release time of a pheromonal message.
+RP ASA, CS, ST LOUIS ZOO,FOREST PK,ST LOUIS,MO 63110.
+NR 27
+TC 7
+PU AMER SOC ZOOLOGISTS
+PI LAWRENCE
+PA 1041 NEW HAMPSHIRE ST, LAWRENCE, KS 66044
+SN 0003-1569
+J9 AMER ZOOL
+JI Am. Zool.
+PY 1993
+VL 33
+IS 2
+BP 167
+EP 172
+PG 6
+SC Zoology
+GA LN351
+UT ISI:A1993LN35100007
+ER
+
+PT J
+AU HAYES, RD
+   BAER, A
+TI BROWN BEAR, URSUS-ARCTOS, PREYING UPON GRAY WOLF, CANIS-LUPUS, PUPS AT
+   A WOLF DEN
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE GRAY WOLF; CANIS-LUPUS; BROWN BEAR; URSUS-ARCTOS; WOLF DEN; BEAR
+   PREDATION; WOLF PUP MORTALITY; YUKON TERRITORY
+AB Evidence suggests a Brown Bear (Ursus arctos) excavated a wolf (Canis
+   lupus) den, then killed and ate four wolf pups that were inside.
+RP HAYES, RD, GOVT YUKON,DEPT RENEWABLE RESOURCES,YUKON FISH & WILDLIFE
+   BRANCH,BOX 2703,WHITEHORSE Y1A 2C6,YT,CANADA.
+NR 0
+TC 4
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JUL-SEP
+PY 1992
+VL 106
+IS 3
+BP 381
+EP 382
+PG 2
+SC Biodiversity Conservation; Ecology
+GA LJ942
+UT ISI:A1992LJ94200015
+ER
+
+PT J
+AU PATALANO, M
+   LOVARI, S
+TI FOOD-HABITS AND TROPHIC NICHE OVERLAP OF THE WOLF CANIS-LUPUS, L 1758
+   AND THE RED FOX VULPES-VULPES (L 1758) IN A MEDITERRANEAN MOUNTAIN AREA
+SO REVUE D ECOLOGIE-LA TERRE ET LA VIE
+LA English
+DT Article
+ID BADGER MELES-MELES; COASTAL AREA; SPAIN
+AB The food habits and dietary overlap of the Wolf and the Red fox were
+   studied in an area of the Abruzzo National Park, Central Apennines
+   (Italy), over a period of two years. The Wolf preyed mainly upon wild
+   and domestic ungulates. The occurrence of Red deer in diet exceeded
+   that of the Roe deer, parallel to the relative local abundance of these
+   species. Although the consumption of reintroduced deer species
+   increased during the study period, no corresponding decrease of
+   predation on livestock could be assessed. The diet of the Wolf did not
+   show seasonal variations in the study area, whereas that of the Fox
+   did. The use of different trophic resources by these two Carnivores was
+   likely to generate such a difference, the former taking prey steadily
+   available throughout the year, while the latter makes use of seasonally
+   fluctuating food resources (e.g. rodents and fruits). The dependence on
+   anthropogenic food resources was noticeable for the Wolf, but mainly
+   restricted to domestic ungulates, and negligible for the Fox. Food
+   competition between these two Carnivores is unlikely in well preserved
+   habitats. where they can fill different trophic niches.
+C1 UNIV SIENA,DIPARTIMENTO BIOL EVOLUT,ETOL & ECOL COMPORTAMENTALE GRP,I-53100 SIENA,ITALY.
+   IST ZOOPROFILATTICO SPERIMENTALE ABRUZZO & MOLISE G CAPORALE,I-64100 TERAMO,ITALY.
+NR 41
+TC 14
+PU SOC NATL PROTECTION NATURE ACCLIMATATION FRANCE
+PI PARIS 5
+PA 57 RUE CUVIER, 75005 PARIS 5, FRANCE
+SN 0249-7395
+J9 REV ECOL-TERRE VIE
+JI Rev. Ecol.-Terre Vie
+PD JUL-SEP
+PY 1993
+VL 48
+IS 3
+BP 279
+EP 294
+PG 16
+SC Ecology
+GA LJ076
+UT ISI:A1993LJ07600002
+ER
+
+PT J
+AU MECH, LD
+TI RESISTANCE OF YOUNG WOLF PUPS TO INCLEMENT WEATHER
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+DE CANIS-LUPUS; WOLF PUPS
+AB Three observations of young wolf (Canis lupus) pups in Denali National
+   Park and Preserve, Alaska, and two on Ellesmere Island, Northwest
+   Territories, Canada, indicate that pups <33 days of age are highly
+   resistant to inclement weather, contrary to earlier conjecture.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+NR 4
+TC 7
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD MAY
+PY 1993
+VL 74
+IS 2
+BP 485
+EP 486
+PG 2
+SC Zoology
+GA LD676
+UT ISI:A1993LD67600028
+ER
+
+PT J
+AU HUGGARD, DJ
+TI EFFECT OF SNOW DEPTH ON PREDATION AND SCAVENGING BY GRAY WOLVES
+SO JOURNAL OF WILDLIFE MANAGEMENT
+LA English
+DT Article
+ID WOLF PREDATION; DEER
+AB Snow can affect wolf predation rates, diet composition, and scavenging,
+   which are important components in understanding and managing wolf-prey
+   systems. Thus, I located elk (Cervus elaphus) killed by gray wolves
+   (Canis lupus, hereafter referred to as wolves) in Banff National Park,
+   Alberta for 5 winters, and I followed one pack of wolves intensively
+   throughout 1 winter to determine the effects of snow depth on wolf
+   predation. Kill rate increased (P < 0.001) from 1 ungulate/5.4 days
+   with no snow to 1 ungulate/1.1 days in snow 60 cm deep. Similar (P >
+   0.5) numbers of calves (n = 24) and adults (n = 28) were killed in
+   shallow snow; predominantly calves (9 of 11) were killed at
+   intermediate snow depths that hindered calves but not adults; and only
+   adults (n = 9) were killed in deep snow that hindered both age classes
+   of elk. Scavenging of ungulate carcasses occurred at shallower (P <
+   0.01) snow depths than did kills. At shallow snow depths, wolves likely
+   encountered carcasses more frequently because they had a lower kill
+   rate and moved farther between kills. My data indicate snow depth could
+   add substantial, density-independent variation to wolf-prey
+   interactions and affect which classes of prey are killed.
+RP HUGGARD, DJ, UNIV BRITISH COLUMBIA,DEPT ZOOL,6270 UNIV BLVD,VANCOUVER
+   V6T 1Z4,BC,CANADA.
+NR 18
+TC 44
+PU WILDLIFE SOC
+PI BETHESDA
+PA 5410 GROSVENOR LANE, BETHESDA, MD 20814-2197
+SN 0022-541X
+J9 J WILDLIFE MANAGE
+JI J. Wildl. Manage.
+PD APR
+PY 1993
+VL 57
+IS 2
+BP 382
+EP 388
+PG 7
+SC Ecology; Zoology
+GA LA012
+UT ISI:A1993LA01200024
+ER
+
+PT J
+AU MECH, LD
+   MEIER, TJ
+   SEAL, US
+TI WOLF NIPPLE MEASUREMENTS AS INDEXES OF AGE AND BREEDING STATUS
+SO AMERICAN MIDLAND NATURALIST
+LA English
+DT Article
+ID MINNESOTA; WOLVES
+AB We measured nipple sizes of 29 captive wolves (Canis lupus), of known
+   breeding histories, throughout the year and tested distinctions among
+   various known breeding statuses of 20 wild wolves examined in
+   northeastern Minnesota from May through September. For ca. 8 mo of the
+   year only breeders and nonbreeders can be classified. Distinctions
+   between current and former breeders were not reliable.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+   DENALI NATL PK,DENALI,AK 99755.
+   VET ADM MED CTR,RES CTR,TWIN CITIES,MN 55417.
+NR 10
+TC 11
+PU AMER MIDLAND NATURALIST
+PI NOTRE DAME
+PA UNIV NOTRE DAME, BOX 369, ROOM 295 GLSC, NOTRE DAME, IN 46556
+SN 0003-0031
+J9 AMER MIDLAND NATURALIST
+JI Am. Midl. Nat.
+PD APR
+PY 1993
+VL 129
+IS 2
+BP 266
+EP 271
+PG 6
+SC Biodiversity Conservation; Ecology
+GA LA692
+UT ISI:A1993LA69200007
+ER
+
+PT J
+AU MECH, LD
+   GOYAL, SM
+TI CANINE PARVOVIRUS EFFECT ON WOLF POPULATION-CHANGE AND PUP SURVIVAL
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Note
+DE CANINE PARVOVIRUS; WOLF; CANIS-LUPUS; DISEASE; SURVIVAL; MORTALITY;
+   SEROLOGY; ENDANGERED SPECIES; CONSERVATION BIOLOGY
+ID MINNESOTA; WOLVES
+AB Canine parvovirus infected wild canids more than a decade ago, but no
+   population effect has been documented. In wild Minnesota wolves (Canis
+   lupus) over a 12-yr period; the annual percent population increase and
+   proportion of pups each were inversely related to the percentage of
+   wolves serologically positive to the disease. Although these effects
+   did not seem to retard this large extant population, similar
+   relationships in more isolated wolf populations might hinder recovery
+   of this endangered and threatened species.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+   UNIV MINNESOTA,COLL VET MED,ST PAUL,MN 55108.
+NR 13
+TC 34
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD APR
+PY 1993
+VL 29
+IS 2
+BP 330
+EP 333
+PG 4
+SC Veterinary Sciences
+GA KY278
+UT ISI:A1993KY27800021
+ER
+
+PT J
+AU KIRSCHE, W
+   RICHTER, W
+   HEINRICH, WD
+TI MICROSTRUCTURE OF FOSSIL BONES OF MAMMALS FROM THE RIXDORFER-HORIZONT
+   AT NIEDERLEHME NEAR KONIGS-WUSTERHAUSEN (BRANDENBURG)
+SO ANNALS OF ANATOMY-ANATOMISCHER ANZEIGER
+LA German
+DT Article
+AB The structure is reported of bones of glacial-period mammals, which
+   were found in 1973 to 1989 in gravel-sandy soil of the fossiliferous
+   layer ''Rixdorfer Horizont'' at Niederlehme near Konigs Wusterhausen.
+   The findings, probably, date from one of the interstages of the glacial
+   period ''Weichsel-Kaltzeit'' before the stage ''Brandenburger
+   Stadium''. Their embedding took place more than 20000 years ago.
+   Changes of the deposit of bones and teeth from older sediments are not
+   to exclude in the finding place Niederlehme. In the collection of
+   findings with 102 skeletal parts are to define following species:
+   Mammuthus primigenius, Coelodonta antiquitatis, Equus sp., Bison
+   priscus, Megalocerus giganteus, Cervus elaphus, Rangifer tarandus and
+   Canis lupus.
+   A trajectorial direction of the trabecula in the substantia spongiosa
+   is evident. There are also specific channels of blood vessels with
+   different diameters. This channels have completely closed bone-wall
+   (with a central venous sinus of diameter 5 to 10 mm) or in little
+   vessels (diameter 1 to 3 mm), we have found many apertures to the rooms
+   of the substantia spongiosa. The microscopical investigation of bones
+   of Mammuthus primigenius has shown Havers' channels and perforating
+   channels, Havers' systems and lacunae osseae.
+C1 HUMBOLDT UNIV,GEOL PALAONTOL INST,O-1040 BERLIN,GERMANY.
+   HUMBOLDT UNIV,FACHBEREICH MUSEUM NAT,O-1040 BERLIN,GERMANY.
+RP KIRSCHE, W, HUMBOLDT UNIV,INST ANAT,PHILLIPPSTR 12,O-1040
+   BERLIN,GERMANY.
+NR 31
+TC 2
+PU GUSTAV FISCHER VERLAG
+PI JENA
+PA VILLENGANG 2, D-07745 JENA, GERMANY
+SN 0940-9602
+J9 ANN ANATOMY
+JI Ann. Anat.-Anat. Anz.
+PD APR
+PY 1993
+VL 175
+IS 2
+BP 177
+EP 184
+PG 8
+SC Anatomy & Morphology
+GA KW684
+UT ISI:A1993KW68400013
+ER
+
+PT J
+AU LAIKRE, L
+   TEGELSTROM, H
+   GELTER, HP
+TI DNA FINGERPRINTS OF CAPTIVE WOLVES (CANIS-LUPUS)
+SO HEREDITAS
+LA English
+DT Note
+ID MULTIPLE PATERNITY; POPULATION; STRAINS
+C1 UPPSALA UNIV,DEPT GENET,S-75007 UPPSALA,SWEDEN.
+RP LAIKRE, L, STOCKHOLM UNIV,DIV POPULAT GENET,S-10691 STOCKHOLM,SWEDEN.
+NR 22
+TC 2
+PU HEREDITAS-DISTRIBUTION
+PI LANDSKRONA
+PA GJORLOFFSGATAN 121, 261 34 LANDSKRONA, SWEDEN
+SN 0018-0661
+J9 HEREDITAS
+JI Hereditas
+PY 1992
+VL 117
+IS 3
+BP 293
+EP 296
+PG 4
+SC Genetics & Heredity
+GA KN396
+UT ISI:A1992KN39600014
+ER
+
+PT J
+AU WEAVER, JL
+   ARVIDSON, C
+   WOOD, P
+TI 2 WOLVES, CANIS-LUPUS, KILLED BY A MOOSE, ALCES-ALCES, IN JASPER
+   NATIONAL-PARK, ALBERTA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE WOLF; CANIS-LUPUS; MOOSE; ALCES-ALCES; PREDATION RISK
+AB An adult female Moose (Alces alces) killed two adult male Wolves (Canis
+   lupus) in northeastern Jasper National Park, Alberta, in July 1989.
+   Moose here are uncommon and very localized, but this incident occurred
+   within 5 km of the Wolves' rendezvous site. This observation further
+   establishes Moose as dangerous prey for Wolves.
+RP WEAVER, JL, UNIV MONTANA,SCH FORESTRY,MISSOULA,MT 59812.
+NR 0
+TC 8
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JAN-MAR
+PY 1992
+VL 106
+IS 1
+BP 126
+EP 127
+PG 2
+SC Biodiversity Conservation; Ecology
+GA KH249
+UT ISI:A1992KH24900017
+ER
+
+PT J
+AU THEBERGE, JB
+TI ECOLOGICAL CLASSIFICATION, STATUS, AND MANAGEMENT OF THE GRAY WOLF,
+   CANIS-LUPUS, IN CANADA (CANADIAN FIELD-NATURALIST, VOL 105, PG 459,
+   1991)
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Correction, Addition
+RP THEBERGE, JB, UNIV WATERLOO,FAC ENVIRONM STUDIES,WATERLOO N2L
+   3G1,ON,CANADA.
+NR 0
+TC 0
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JAN-MAR
+PY 1992
+VL 106
+IS 1
+BP 138
+EP 138
+PG 1
+SC Biodiversity Conservation; Ecology
+GA KH249
+UT ISI:A1992KH24900023
+ER
+
+PT J
+AU BOERTJE, RD
+   STEPHENSON, RO
+TI EFFECTS OF UNGULATE AVAILABILITY ON WOLF REPRODUCTIVE POTENTIAL IN
+   ALASKA
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+AB We compared wolf (Canis lupus) reproductive data for March and April,
+   when ungulate biomass per wolf was high, moderate, and low. The
+   percentage of reproductively active adult females was significantly
+   lower (66% compared with greater-than-or-equal-to 96%, P < 0.001) when
+   ungulate biomass per wolf was low versus moderate or high.
+   Reproductively inactive adult females had significantly less
+   subcutaneous fat (P < 0.01) than reproductively active females when
+   ungulate biomass per wolf was relatively abundant. Average litter size,
+   estimated by counting blastocysts or fetuses, declined significantly (P
+   < 0.001), from 6.9 to 4.6, as ungulate biomass per wolf declined. We
+   conclude that wolf productivity declines as prey availability per wolf
+   declines. However, only when ungulate biomass per wolf declined below
+   levels previously reported in the literature did we observe significant
+   declines in reproductive potential. Ungulate biomass per wolf was low
+   because of large, rapid declines in ungulates and lesser declines in
+   wolves. We recognize that functional relationships, e.g., prey
+   vulnerability and feeding dominance, can influence wolf productivity
+   independently of ungulate biomass per wolf.
+RP BOERTJE, RD, ALASKA DEPT FISH & GAME,1300 COLL RD,FAIRBANKS,AK 99701.
+NR 15
+TC 23
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD DEC
+PY 1992
+VL 70
+IS 12
+BP 2441
+EP 2443
+PG 3
+SC Zoology
+GA KG394
+UT ISI:A1992KG39400023
+ER
+
+PT J
+AU CIUCCI, P
+   MECH, LD
+TI SELECTION OF WOLF DENS IN RELATION TO WINTER TERRITORIES IN
+   NORTHEASTERN MINNESOTA
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+DE CANIS-LUPUS; DEN SELECTION; WINTER TERRITORIES; MINNESOTA
+ID ROAD DENSITY; CANIS-LUPUS; SURVIVAL; WOLVES
+AB Locations of wolf (Canus lupus) dens in the Superior National Forest in
+   northeastern Minnesota from 1969 through 1988 were analyzed in relation
+   to winter territories. Dens situated within the central 60% of the
+   territories were randomly located relative to territory centers.
+   However, only 10.5% (2) of the dens were located within a 1-km-wide
+   strip inside the territory boundaries, indicating possible avoidance of
+   neighboring packs. A negative relationship (r2 = 0.27; P < 0.05)
+   between territory size and den distance from territory center was
+   found, indicating that in large territories wolves might select the
+   denning site that minimizes travel distance from and to the den. Den
+   use was traditional in 86% (6) of the denning alpha females studied for
+   >1 year, and possibly the availability of a stable food source helped
+   determine den location.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+RP CIUCCI, P, UNIV MINNESOTA,DEPT FISHERIES & WILDLIFE,1980 FOLWELL AVE,ST
+   PAUL,MN 55108.
+NR 34
+TC 16
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD NOV
+PY 1992
+VL 73
+IS 4
+BP 899
+EP 905
+PG 7
+SC Zoology
+GA JZ555
+UT ISI:A1992JZ55500024
+ER
+
+PT J
+AU THOMSON, PC
+TI THE BEHAVIORAL ECOLOGY OF DINGOES IN NORTH-WESTERN AUSTRALIA .2.
+   ACTIVITY PATTERNS, BREEDING-SEASON AND PUP REARING
+SO WILDLIFE RESEARCH
+LA English
+DT Article
+ID WOLF CANIS-LUPUS; SCENT-MARKING; SOUTHEASTERN AUSTRALIA;
+   SOCIAL-BEHAVIOR; FEEDING ECOLOGY; HOME-RANGE; COYOTES; WOLVES; URINE;
+   REPRODUCTION
+AB This paper reports aspects of a long-term study (1975-84) of the
+   ecology, social organisation and behaviour of dingoes, Canis familiaris
+   dingo, on the lower Fortescue River in Western Australia. In all, 170
+   dingoes were fitted with radio-collars and tracked from aircraft.
+   Dingoes were sighted during 59% of the 13 618 occasions that they were
+   being radio-tracked during the day. Radio-tracking yielded 31 229
+   daytime and 3016 night-time locations of radio-collared dingoes. The
+   average duration of radio contact with 146 dingoes was 9 months (range
+   1-35 months). Dingoes were most active around sunrise and sunset,
+   moderately active during the night, and least active during the heat of
+   the day. Travelling (local meandering and more purposeful movement) was
+   the most commonly witnessed activity. Levels of scent-marking
+   (raised-leg urination and ground-scratching), howling and general
+   activity increased over the 2-3 months prior to the mating period,
+   suggesting that dingoes may have a long pro-oestrus (1-2 months).
+   Whelping took place from mid-May to mid-August (mean date 18 July). The
+   characteristics of natal dens are described. The pattern of activities
+   associated with pup-rearing, including alloparental behaviour, closely
+   followed that of related canids.
+RP THOMSON, PC, AGR PROTECT BOARD WESTERN AUSTRALIA,BOUGAINVILLEA
+   AVE,FORRESTFIELD,WA 6058,AUSTRALIA.
+NR 44
+TC 16
+PU C S I R O PUBLICATIONS
+PI COLLINGWOOD
+PA 150 OXFORD ST, PO BOX 1139, COLLINGWOOD VICTORIA 3066, AUSTRALIA
+SN 1035-3712
+J9 WILDLIFE RES
+JI Wildl. Res.
+PY 1992
+VL 19
+IS 5
+BP 519
+EP 530
+PG 12
+SC Ecology; Zoology
+GA JW209
+UT ISI:A1992JW20900002
+ER
+
+PT J
+AU THOMSON, PC
+   ROSE, K
+   KOK, NE
+TI THE BEHAVIORAL ECOLOGY OF DINGOES IN NORTH-WESTERN AUSTRALIA .6.
+   TEMPORARY EXTRATERRITORIAL MOVEMENTS AND DISPERSAL
+SO WILDLIFE RESEARCH
+LA English
+DT Article
+ID WOLVES; PACK
+AB Between 1975 and 1984, 105 radio-collared dingoes, Canis familiaris
+   dingo, were tracked and observed from aircraft on the Fortescue River
+   in Western Australia. Dingoes maintained strong site fidelity and
+   seldom travelled far beyond their territories. In total, 81 forays
+   (moves greater-than-or-equal-to 2 km beyond territory boundaries) were
+   identified from 6598 independent locations of pack members; 80 were <
+   10 km from territory boundaries. Forays involved individuals as well as
+   small groups; 68.2% of 22 confirmed individual forays were made by
+   males. Forays occurred in all seasons and years. Some forays appeared
+   to be related to subsequent dispersal. A total of 25 dingoes dispersed
+   as solitary individuals. Mean dispersal distance beyond known pack
+   territories was 20.1 km (n = 19, range = 1.184 km). Males tended to
+   disperse further than females and had a higher incidence of dispersal.
+   Five groups of pack members and one entire pack also dispersed. The
+   incidence of dispersal was highest when population density was high and
+   food supply was low. Dispersal was facilitated by the availability of
+   vacant areas. Humans caused much of the mortality of dispersing
+   dingoes. The patterns of dispersal by individuals and groups, and the
+   factors that influence them are similar for dingoes and the related
+   canid, the wolf, Canis lupus. Control work in buffer zones must provide
+   a satisfactory dispersal sink to minimise the risk of incursions by
+   dingoes into livestock-grazing areas.
+RP THOMSON, PC, AGR PROTECT BOARD WESTERN AUSTRALIA,BOUGAINVILLEA
+   AVE,FORRESTFIELD,WA 6058,AUSTRALIA.
+NR 26
+TC 20
+PU C S I R O PUBLICATIONS
+PI COLLINGWOOD
+PA 150 OXFORD ST, PO BOX 1139, COLLINGWOOD VICTORIA 3066, AUSTRALIA
+SN 1035-3712
+J9 WILDLIFE RES
+JI Wildl. Res.
+PY 1992
+VL 19
+IS 5
+BP 585
+EP 595
+PG 11
+SC Ecology; Zoology
+GA JW209
+UT ISI:A1992JW20900006
+ER
+
+PT J
+AU KREEGER, TJ
+   SEAL, US
+   PLOTKA, ED
+TI INFLUENCE OF HYPOTHALAMIC-PITUITARY-ADRENOCORTICAL HORMONES ON
+   REPRODUCTIVE HORMONES IN GRAY WOLVES (CANIS-LUPUS)
+SO JOURNAL OF EXPERIMENTAL ZOOLOGY
+LA English
+DT Article
+ID CORTICOTROPIN-RELEASING FACTOR; ENDOGENOUS OPIOID MODULATION; FEMALE
+   RHESUS-MONKEY; WHITE-TAILED DEER; LUTEINIZING-HORMONE;
+   GONADOTROPIN-SECRETION; PROLACTIN SECRETION; BETA-ENDORPHIN;
+   ESTROUS-CYCLE; LH-SECRETION
+AB The release of hypothalamic-pituitary-adrenocortical hormones was
+   studied in intact and neutered gray wolves (Canis lupus) to determine
+   how these hormones interact and affect reproductive hormones.
+   Experiments were performed on adult wolves anesthetized with 400 mg
+   ketamine and 50 mg promazine. Intravenous (i.v.) injections with 50 mug
+   ovine corticotropin releasing factor (oCRF) significantly increased
+   adrenocorticotropin (ACTH; P less-than-or-equal-to 0.01), cortisol
+   (CORT; P less-than-or-equal-to 0.004), and progesterone terone (P
+   less-than-or-equal-to 0.036), but not beta-endorphin (P
+   greater-than-or-equal-to 0.52). Since neutered wolves demonstrated
+   dose-dependent elevations in response to ACTH, it was concluded that
+   the progesterone was secreted from the adrenal gland. Basal luteinizing
+   hormone (LH) concentrations in neutered wolves were similar before and
+   60 min after i.v. injection of 1, 5, or 25 IU ACTH (P
+   greater-than-or-equal-to 0.36) or 2.2 mg/kg cortisol (P = 0.42).
+   Neither 25 IU ACTH (P = 0.55) nor 0.22 mg/kg dexamethasone (P = 0.49)
+   altered the LH response to injection of LH releasing hormone in
+   neutered wolves. Chronic administration of 0.22 mg/kg/day dexamethasone
+   for 3 d did not alter baseline LH concentrations (P = 0.75). Injection
+   of 1.0 mg/kg naloxone (NAL), however, increased LH concentrations
+   relative to baseline values in both intact (P = 0.032) and neutered (P
+   = 0.0005) female wolves, but not in intact (P = 0.19) or neutered males
+   (P = 0.07). These results indicated that in gray wolves (1) oCRF
+   stimulated the release of pituitary and adrenal hormones in a fashion
+   similar to that of other mammals; (2) the adrenal cortex was capable of
+   secreting progesterone into the systemic circulation; (3) exogenous
+   glucocorticoids did not alter LH concentrations; and (4) endogenous
+   opioids may modulate LH secretion in female wolves.
+C1 MARSHFIELD MED RES FDN,MARSHFIELD,WI 54449.
+   VET ADM MED CTR,MINNEAPOLIS,MN 55417.
+RP KREEGER, TJ, BALLISTIVET INC,MINNEAPOLIS,MN 55433.
+NR 52
+TC 2
+PU WILEY-LISS
+PI NEW YORK
+PA DIV JOHN WILEY & SONS INC 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0022-104X
+J9 J EXP ZOOL
+JI J. Exp. Zool.
+PD OCT 15
+PY 1992
+VL 264
+IS 1
+BP 32
+EP 41
+PG 10
+SC Zoology
+GA JR911
+UT ISI:A1992JR91100005
+ER
+
+PT J
+AU GUNSON, JR
+TI HISTORICAL AND PRESENT MANAGEMENT OF WOLVES IN ALBERTA
+SO WILDLIFE SOCIETY BULLETIN
+LA English
+DT Article
+ID JASPER-NATIONAL-PARK; CANIS-LUPUS; NORTHEASTERN ALBERTA; PREY
+   RELATIONSHIPS; WOLF; DYNAMICS; CARIBOU; CATTLE
+RP GUNSON, JR, ALBERTA FISH & WILDLIFE DIV,OS LONGMAN BLDG,6909-116
+   ST,EDMONTON T6H 4P2,ALBERTA,CANADA.
+NR 55
+TC 10
+PU WILDLIFE SOC
+PI BETHESDA
+PA 5410 GROSVENOR LANE, BETHESDA, MD 20814-2197
+SN 0091-7648
+J9 WILDLIFE SOC BULL
+JI Wildl. Soc. Bull.
+PD FAL
+PY 1992
+VL 20
+IS 3
+BP 330
+EP 339
+PG 10
+SC Ecology; Zoology
+GA JQ661
+UT ISI:A1992JQ66100014
+ER
+
+PT J
+AU SEIP, DR
+TI FACTORS LIMITING WOODLAND CARIBOU POPULATIONS AND THEIR
+   INTERRELATIONSHIPS WITH WOLVES AND MOOSE IN SOUTHEASTERN
+   BRITISH-COLUMBIA
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+AB Caribou (Rangifer tarandus caribou), wolves (Canis lupus), and moose
+   (Alces alces) were radio-collared and monitored in two areas of
+   southeastern British Columbia to determine predator-prey interactions.
+   Throughout the year, wolves and moose used similar areas and habitats,
+   and moose were the primary prey of wolves. In winter most caribou used
+   high-elevation habitats and were spatially separated from wolves and
+   moose living in valley bottoms. In summer, caribou, wolves, and moose
+   at Quesnel Lake used similar areas and habitats, whereas in Wells Gray
+   Park most caribou migrated to rugged, mountainous areas, which kept
+   them spatially separated from wolves and moose. The Quesnel Lake
+   caribou population had a high adult mortality rate (29%/year), wolf
+   predation being the major cause. Calf survival to October was low
+   (2.5/100 adult females) when wolves were present and uncontrolled in
+   the area, but was significantly greater (39/100 adult females) when
+   wolves were reduced or absent. The Quesnel Lake caribou population was
+   found to be declining by about 25%/year, and wolf predation appeared to
+   be the major limiting factor. Caribou in Wells Gray Park had a low
+   adult mortality rate (8%/year) and comparatively high calf survival to
+   October (37/100 adult females). The Wells Gray caribou population was
+   found to be slowly increasing, apparently because its migratory
+   behavior kept it separated from wolves and moose throughout the year,
+   resulting in low wolf predation on the caribou.
+RP SEIP, DR, MINIST FORESTS,4595 CANADA WAY,BURNABY V5G 4L9,BC,CANADA.
+NR 26
+TC 108
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD AUG
+PY 1992
+VL 70
+IS 8
+BP 1494
+EP 1503
+PG 10
+SC Zoology
+GA JP720
+UT ISI:A1992JP72000004
+ER
+
+PT J
+AU HEARD, DC
+   WILLIAMS, TM
+TI DISTRIBUTION OF WOLF DENS ON MIGRATORY CARIBOU RANGES IN THE
+   NORTHWEST-TERRITORIES, CANADA
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID HERD
+AB Most wolves (Canis lupus) on migratory caribou (Rangifer tarandus)
+   ranges in the Northwest Territories den near the tree line, the
+   northern limit of tree growth. Sixty percent of the 209 dens that we
+   located were within 50 km of the tree line, an area representing only
+   25 % of the caribou range. Den density in the forest was significantly
+   lower than expected if dens were randomly dispersed. Within the tundra
+   zone wolves did not show any preference for denning near caribou
+   calving grounds. Most wolves may den at the tree line because caribou
+   are likely available for a greater proportion of the denning period
+   than they would be elsewhere and because caribou are usually abundant
+   near the tree line in September, when the nutritional demands of the
+   pups are greatest. Within the tree-line zone, habitat characteristics
+   appeared to affect the local distribution of dens because wolves
+   preferred to den where the roots of trees and shrubs provided
+   structural support for the tunnels. With most wolves denning at the
+   tree line, density-dependent summer range expansion and contraction by
+   caribou may provide a mechanism by which changing caribou densities
+   could influence the growth rate of the wolf population.
+RP HEARD, DC, GOVT NW TERR,DEPT RENEWABLE RESOURCES,YELLOWKNIFE X1A
+   2L9,NORTHWEST TERR,CANADA.
+NR 40
+TC 19
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD AUG
+PY 1992
+VL 70
+IS 8
+BP 1504
+EP 1510
+PG 7
+SC Zoology
+GA JP720
+UT ISI:A1992JP72000005
+ER
+
+PT J
+AU PACKARD, JM
+   MECH, LD
+   REAM, RR
+TI WEANING IN AN ARCTIC WOLF PACK - BEHAVIORAL MECHANISMS
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID PARENT OFFSPRING CONFLICT
+AB If behavioral mechanisms controlling suckling have been shaped by
+   parent-offspring conflict in the ultimate sense, then proximate
+   behavioral determinants of conflict should occur throughout lactation,
+   with greatest intensity in the terminal phase, and offspring should
+   have tactics for overcoming parental resistance. We observed the
+   weaning process in a habituated wild wolf pack (Canis lupus) on
+   Ellesmere Island, Canada, from estimated ages 5 through 10 weeks
+   (including a continuous record for 192 h). The following variables
+   declined with age: percentage of suckling bouts initiated by the
+   nurser, persistence by pups, and mean duration of suckling bouts.
+   Variables that increased with age were interbout interval, percentage
+   of suckling bouts terminated by the nurser, and wincing or agonistic
+   actions of the nurser. Behavioral conflict appeared in the
+   developmental stage (estimated age 7 - 8 weeks) during which pups could
+   feed on opened carcasses. Countertactics by pups to obtain milk were
+   not apparent, although the pups developed diverse tactics for obtaining
+   and sharing meat. In this group of wolves, weaning mechanisms were a
+   complex function of food delivery by adults, discomfort of the nursing
+   female as pups developed, and declining persistence of pups. If there
+   is a conflict over what is optimal for pups and for the nurser in the
+   ultimate sense, behavioral conflict is more likely to be expressed with
+   regard to access to meat, or as conditional tactics dependent on food
+   availability, rather than weaning conflict being controlled by fixed
+   rules in this species.
+C1 US FISH & WILDLIFE SERV,N CENT FOREST EXPT STN,ST PAUL,MN 55108.
+   UNIV MONTANA,SCH FORESTRY,MISSOULA,MT 59812.
+RP PACKARD, JM, TEXAS A&M UNIV SYST,DEPT WILDLIFE & FISHERIES SCI,COLL
+   STN,TX 77843.
+NR 29
+TC 17
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD JUL
+PY 1992
+VL 70
+IS 7
+BP 1269
+EP 1275
+PG 7
+SC Zoology
+GA JL311
+UT ISI:A1992JL31100001
+ER
+
+PT J
+AU THEBERGE, JB
+TI ECOLOGICAL CLASSIFICATION, STATUS, AND MANAGEMENT OF THE GRAY WOLF,
+   CANIS-LUPUS, IN CANADA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+DE WOLF; CANIS-LUPUS; STATUS; MANAGEMENT; CONSERVATION
+AB The wolf, listed as vulnerable internationally, remains in 85% of its
+   former total Canadian range, numbering very roughly 58 500 animals. A
+   classification by ecotype based upon prey-base and parallel geographic-
+   or biome-base is proposed for conservation planning. An annual kill by
+   humans of 7% (1 in 14) was calculated from most recent available
+   statistics. Wolves are protected by legislation or policy from hunting
+   and trapping in only 12 places in Canada, representing 1.2% of wolf
+   range and approximately 1600 wolves, or 2.7% of the Canadian
+   population. Relevant conservation questions are raised.
+RP THEBERGE, JB, UNIV WATERLOO,FAC ENVIRONM STUDIES,WATERLOO N2L
+   3G1,ONTARIO,CANADA.
+NR 0
+TC 7
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD OCT-DEC
+PY 1991
+VL 105
+IS 4
+BP 459
+EP 463
+PG 5
+SC Biodiversity Conservation; Ecology
+GA JL439
+UT ISI:A1991JL43900001
+ER
+
+PT J
+AU BALLARD, WB
+   AYRES, LA
+   GARDNER, CL
+   FOSTER, JW
+TI DEN SITE ACTIVITY PATTERNS OF GRAY WOLVES, CANIS-LUPUS, IN
+   SOUTH-CENTRAL ALASKA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+DE GRAY WOLF; CANIS-LUPUS; SUMMER; ACTIVITY; ATTENDANCE; DEN SITE;
+   HOMESITES; ALASKA
+AB Den site attendance and activity patterns of Gray Wolves within two
+   wolf packs in southcentral Alaska were studied in 1980 and 1981 using a
+   combination of activity radio transmitters and direct observations from
+   blinds and fixed-wing aircraft. One wolf pack was electronically
+   monitored for 17 continuous days in 1980 and another for 43 continuous
+   days in 1981. They were observed for 277 and 369 hours, respectively.
+   Alpha females spent more time at dens than other pack members. The
+   alpha female of a pack of four adult wolves spent less time at the den
+   than did the alpha female from a pack of eight adult wolves suggesting
+   that in smaller packs, alpha females may have a more active role in
+   providing food for pups. Den attendance by other pack members was
+   highly variable. Yearling males tended to avoid dens until after
+   parturition. Yearling females from the large pack tended to spend more
+   time at the den than those from a smaller pack. When pups were from 2-7
+   weeks of age, they were left unattended from 5-15% of the time. There
+   was a high probability that groups of wolves would be present at the
+   den during mid-day. Wolves tended to depart from the den between 2100
+   and 2400 h and arrive between 2100 and 0400 h.
+C1 ALASKA DEPT FISH & GAME,NOME,AK 99762.
+NR 0
+TC 16
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD OCT-DEC
+PY 1991
+VL 105
+IS 4
+BP 497
+EP 504
+PG 8
+SC Biodiversity Conservation; Ecology
+GA JL439
+UT ISI:A1991JL43900006
+ER
+
+PT J
+AU ROUTE, WT
+   PETERSON, RO
+TI AN INCIDENT OF WOLF, CANIS-LUPUS, PREDATION ON A RIVER OTTER,
+   LUTRA-CANADENSIS, IN MINNESOTA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE GRAY WOLF; CANIS-LUPUS; RIVER OTTER; LUTRA-CANADENSIS; WOLF FOOD
+   HABITS; RIVER OTTER MORTALITY; PREDATION
+AB Evidence was found of Gray Wolves (Canis lupus) killing and partially,
+   consuming a radio-marked River Otter (Lutra canadensis) in Voyageurs
+   National Park, Minnesota. There is little evidence in the literature to
+   suggest that Otters are a regular source of prey for Wolves, however,
+   wolves may incidentally kill River Otter.
+RP ROUTE, WT, WRANGELL ST ELIAS NATL PK & PRESERVE,POB 29,GLENNALLEN,AK
+   99588.
+NR 0
+TC 3
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD OCT-DEC
+PY 1991
+VL 105
+IS 4
+BP 567
+EP 568
+PG 2
+SC Biodiversity Conservation; Ecology
+GA JL439
+UT ISI:A1991JL43900017
+ER
+
+PT J
+AU MECH, LD
+TI DAYTIME ACTIVITY OF WOLVES DURING WINTER IN NORTHEASTERN MINNESOTA
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+DE CANIS-LUPUS; ACTIVITY PATTERNS; MINNESOTA
+AB Intermittent aerial observations of 405 radiocollared wolves from
+   November 1968 through March 1989 showed the following percentages of
+   activity: sleeping, 34%; resting, 31%; traveling, 28%, feeding, 6%;
+   other, 2%.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+NR 7
+TC 14
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD AUG
+PY 1992
+VL 73
+IS 3
+BP 570
+EP 571
+PG 2
+SC Zoology
+GA JK336
+UT ISI:A1992JK33600014
+ER
+
+PT J
+AU PLISHKA, J
+   BARDACK, D
+TI BENDING STRENGTH OF UPPER CANINE TOOTH IN DOMESTIC DOGS
+SO ANNALS OF ANATOMY-ANATOMISCHER ANZEIGER
+LA English
+DT Article
+DE CANINE STRENGTH; DOG; TOOTH
+AB The bending stength of the upper canine tooth is analyzed on 51
+   domestic dogs of various breeds. Data show that canine tooth length is
+   greater among small domestic dogs when compared to small wild dogs, and
+   large wild dogs when compared among large domestic dogs. Tooth strength
+   is also greater among small domestic dogs and large wild dogs. The
+   greater tooth strength of the small domestic dogs may be attributed to
+   the idea that small domestic dogs are closer in ancestry to the grey
+   wolf (Canis lupus) than are small wild canids. Skull foreshortening and
+   tooth strength appear to be correlated in the canidae.
+RP PLISHKA, J, UNIV ILLINOIS,DEPT BIOL SCI,CHICAGO,IL 60680.
+NR 9
+TC 0
+PU GUSTAV FISCHER VERLAG
+PI JENA
+PA VILLENGANG 2, D-07745 JENA, GERMANY
+SN 0940-9602
+J9 ANN ANATOMY
+JI Ann. Anat.-Anat. Anz.
+PD AUG
+PY 1992
+VL 174
+IS 4
+BP 321
+EP 326
+PG 6
+SC Anatomy & Morphology
+GA JH117
+UT ISI:A1992JH11700012
+ER
+
+PT J
+AU BOITANI, L
+TI WOLF RESEARCH AND CONSERVATION IN ITALY
+SO BIOLOGICAL CONSERVATION
+LA English
+DT Article
+AB The development of research and conservation activities for the wolf
+   Canis lupus in Italy from 1972 to 1989 is described. Initial studies
+   indicated that the Italian population was fragmented into a number of
+   'island' populations on mountain ranges with little interchange between
+   them. Radio-tracking studies showed that groups were small (usually
+   2-4, maximum 7) with a home range of 200-400 km2. Wolves were
+   nocturnal, obtained 60-70% of their food from garbage dumps and avoided
+   contact with man. The main conflicts between man and wolves are:
+   livestock killing; competition and interbreeding with feral dogs; and
+   availability of habitat and food.
+   The wolf has been strictly protected since 1976 and has increased its
+   range in Italy. Changes in agricultural practice have increased the
+   risks of successful attacks on livestock, but compensation is paid for
+   damage done by wolves. Natural prey species are being reintroduced into
+   key areas of the wolf's range to improve food availability. A national
+   public awareness campaign has greatly improved the wolf's image.
+   The greatest threat to long-term conservation of the wolf is
+   interbreeding and, to a lesser extent, competition with Italy's
+   population of 80 000 feral dogs. A captive breeding programme is being
+   established with the goal of maintaining 90% of the Italian wolf's
+   genetic variability for the next 200 years.
+RP BOITANI, L, UNIV ROME LA SAPIENZA,DEPT ANIM & HUMAN BIOL,VIALE UNIV
+   32,I-00185 ROME,ITALY.
+NR 18
+TC 43
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0006-3207
+J9 BIOL CONSERV
+JI Biol. Conserv.
+PY 1992
+VL 61
+IS 2
+BP 125
+EP 132
+PG 8
+SC Biodiversity Conservation; Ecology; Environmental Sciences
+GA HZ877
+UT ISI:A1992HZ87700006
+ER
+
+PT J
+AU PAQUET, PC
+TI PREY USE STRATEGIES OF SYMPATRIC WOLVES AND COYOTES IN
+   RIDING-MOUNTAIN-NATIONAL-PARK, MANITOBA
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+DE CANIS-LUPUS; CANIS-LATRANS; FORAGING BEHAVIOR; COMPETITION; PREY;
+   MANITOBA
+ID ONTARIO
+AB Allopatric distribution of wolves (Canis lupus) and coyotes (C.
+   latrans) in some areas of North America can be explained by competitive
+   exclusion of coyotes by wolves. However, in Riding Mountain National
+   Park, Manitoba, the potential for competition between the two species
+   was minimized by differential use of nonlimiting food resources. Wolves
+   primarily preyed on elk (Cervus elaphus) and white-tailed deer
+   (Odocoileus virginianus), and secondarily on moose (Alces alces).
+   Coyotes preyed on deer and rarely, young elk. Although wolves
+   occasionally killed coyotes, coyotes followed wolves and scavenged at
+   their kills. The benefits accrued from scavenging apparently
+   compensated for the associated risk of being killed by wolves.
+C1 UNIV ALBERTA,DEPT ZOOL,EDMONTON T0L 0M0,ALBERTA,CANADA.
+NR 20
+TC 47
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD MAY
+PY 1992
+VL 73
+IS 2
+BP 337
+EP 343
+PG 7
+SC Zoology
+GA HW965
+UT ISI:A1992HW96500013
+ER
+
+PT J
+AU BLANCO, JC
+   REIG, S
+   DELACUESTA, L
+TI DISTRIBUTION, STATUS AND CONSERVATION PROBLEMS OF THE WOLF CANIS-LUPUS
+   IN SPAIN
+SO BIOLOGICAL CONSERVATION
+LA English
+DT Article
+AB The distribution. status and conservation problems of the wolf Canis
+   lupus in Spain were studied in 1987 and 1988. Wolves regularly occurred
+   over 100,000 km2, mainly in the northwest quarter of the country, with
+   an estimated 294 breeding pairs, i.e. 1,500 and 2,000 wolves in early
+   spring and autumn, respectively, For 1987, reports were received of 309
+   wolves killed in Spain (excluding Asturias) but the actual number could
+   range from 550 to 750 every year, mostly illegal killings. Annual
+   damage to livestock was estimated at nearly one million US $, losses
+   being disproportionately high in mountain areas due to the lack of
+   protection of free-ranging livestock. The number of stray dogs is
+   higher where wolves are absent and no extensive wolf-dog hybridization
+   has been recorded. Problems related to wolf management are discussed.
+C1 MUSEO NACL CIENCIAS NAT,E-28006 MADRID,SPAIN.
+   UNIDAD ZOOL,MADRID,SPAIN.
+   UNIDAD ZOOL APLICADA,MADRID,SPAIN.
+NR 36
+TC 40
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0006-3207
+J9 BIOL CONSERV
+JI Biol. Conserv.
+PY 1992
+VL 60
+IS 2
+BP 73
+EP 80
+PG 8
+SC Biodiversity Conservation; Ecology; Environmental Sciences
+GA HT210
+UT ISI:A1992HT21000001
+ER
+
+PT J
+AU THIEKING, A
+   GOYAL, SM
+   BEY, RF
+   LOKEN, KI
+   MECH, LD
+   THIEL, RP
+   OCONNOR, TP
+TI SEROPREVALENCE OF LYME-DISEASE IN GRAY WOLVES FROM MINNESOTA AND
+   WISCONSIN
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+DE LYME DISEASE; GRAY WOLVES; LYME ANTIBODIES; BORRELIA-BURGDORFERI;
+   SEROLOGIC SURVEY
+ID BORRELIA-BURGDORFERI; IXODES-DAMMINI; DOGS; SPIROCHETE; INFECTION;
+   MAMMALS; CONNECTICUT; IXODIDAE; AGENT; ACARI
+AB To determine the seroprevalence of Lyme disease in gray wolves (Canis
+   lupus) from various counties of Minnesota and Wisconsin (USA), 589
+   serum samples were collected from 528 wolves from 1972 to 1989. An
+   indirect fluorescent antibody (IFA) test was used to detect the
+   presence of antibodies against Borrelia burgdorferi. Titers of
+   greater-than-or-equal 1:100 were considered positive. Results were
+   confirmed by testing a few selected sera by Western blotting. Of the
+   589 sera tested, 15 (3%) had IFA titers of greater-than-or-equal-to
+   1:100. Three of the positive samples were collected from Douglas County
+   in Wisconsin and twelve were from Minnesota counties. This study
+   indicates that wolves are exposed to B. burgdorferi and are susceptible
+   to Lyme disease.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+   WISCONSIN DEPT NAT RESOURCES,THOMA,WI 54660.
+   IDEXX CORP,PORTLAND,ME 04101.
+RP THIEKING, A, UNIV MINNESOTA,COLL VET MED,ST PAUL,MN 55108.
+NR 20
+TC 6
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD APR
+PY 1992
+VL 28
+IS 2
+BP 177
+EP 182
+PG 6
+SC Veterinary Sciences
+GA HR258
+UT ISI:A1992HR25800003
+ER
+
+PT J
+AU WOBESER, G
+TI TRAUMATIC, DEGENERATIVE, AND DEVELOPMENTAL LESIONS IN WOLVES AND
+   COYOTES FROM SASKATCHEWAN
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+DE GRAY WOLF; COYOTE; CANIS-LUPUS; CANIS-LATRANS; TRAUMA; BONE; JOINT;
+   AGGRESSION; ANOMALY; SURVEY
+AB A retrospective review was done of traumatic and osseous lesions in 241
+   wolves (Canis lupus) and 316 coyotes (Canis latrans) necropsied at the
+   University of Saskatchewan between 1971 and 1990. Most lesions were the
+   result of interspecific conflict. The most frequently occurring lesion
+   in wolves was fracture of one or more bones, primarily ribs. Lesions
+   were healed in most cases and appeared to be compatible with injuries
+   caused by prey animals. One wolf, found dead, died as a result of
+   thoracic trauma. Limb and skull fractures were less common. Fractures
+   were uncommon in coyotes. The most frequent injuries in coyotes were
+   related to gunshot wounds. Four coyotes had been killed but not eaten
+   by wolves. One wolf had been killed and another attacked by wolves.
+   Porcupine (Erethizon dorsatum) quills contributed to the death of a
+   wolf and two coyotes. Degenerative joint disease, involving the spinal
+   column and limb joints, was found in a few individuals of both species.
+   A coyote had severe anomalies of the spinal column and a wolf had
+   anomalous external genitalia.
+RP WOBESER, G, UNIV SASKATCHEWAN,WESTERN COLL VET MED,DEPT VET
+   PATHOL,SASKATOON S7N 0W0,SASKATCHEWAN,CANADA.
+NR 8
+TC 5
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD APR
+PY 1992
+VL 28
+IS 2
+BP 268
+EP 275
+PG 8
+SC Veterinary Sciences
+GA HR258
+UT ISI:A1992HR25800016
+ER
+
+PT J
+AU RYG, M
+   SOLBERG, Y
+   LYDERSEN, C
+   SMITH, TG
+TI THE SCENT OF RUTTING MALE RINGED SEALS (PHOCA-HISPIDA)
+SO JOURNAL OF ZOOLOGY
+LA English
+DT Article
+ID WOLF CANIS-LUPUS; CONSTITUENTS; MARKING; URINE
+AB Odorous substances of rutting male ringed seals (Phoca hispida) were
+   studied by extracting facial skin, which contains hypertrophied
+   sebaceous and apocrine sweat glands, with methanol/hexane, and
+   analysing the extracts with gas chromatography and combined gas
+   chromatography/mass spectrometry. The extract contained high
+   concentrations of a tertiary amine, three aminoalcohols, several
+   organosulphur compounds, and two hydrocarbons, We suggest that the
+   ringed seal males use scent to mark the breathing holes and subnivean
+   lairs within their territories. Some of the lipids in the extract were
+   not found in extracts from sexually immature males, and these lipids
+   may be important as vehicles for scent deposition.
+C1 AGR UNIV NORWAY,CHEM RES LAB,N-1432 AS,NORWAY.
+   UNIV OSLO,DEPT BIOL,N-0316 OSLO 3,NORWAY.
+   FISHERIES & OCEANS CANADA,ARCTIC BIOL STN,ST ANNE BELLEVUE H9X 3R4,QUEBEC,CANADA.
+RP RYG, M, UNIV OSLO,DEPT BIOL,POB 1051,N-0316 OSLO 3,NORWAY.
+NR 38
+TC 8
+PU OXFORD UNIV PRESS UNITED KINGDOM
+PI OXFORD
+PA WALTON ST JOURNALS DEPT, OXFORD, ENGLAND OX2 6DP
+SN 0952-8369
+J9 J ZOOL
+JI J. Zool.
+PD APR
+PY 1992
+VL 226
+PN Part 4
+BP 681
+EP 689
+PG 9
+SC Zoology
+GA HQ006
+UT ISI:A1992HQ00600014
+ER
+
+PT J
+AU GESE, EM
+   MECH, LD
+TI DISPERSAL OF WOLVES (CANIS-LUPUS) IN NORTHEASTERN MINNESOTA, 1969-1989
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID SQUIRRELS SPERMOPHILUS-BELDINGI; SUPERIOR NATIONAL FOREST;
+   POPULATION-DENSITY; NATAL DISPERSAL; GRAY WOLVES; PACK SIZE; WOLF;
+   PHILOPATRY; SURVIVAL; MAMMALS
+AB We examined the dispersal patterns of radio-collared wolves (Canis
+   lupus) from 21 packs in the Superior National Forest, Minnesota, from
+   1969 to 1989.  A total of 316 wolves (542 wolf-years) were captured,
+   radio-collared, and following during 21 years of radio-tracking; 75
+   were identified as dispersers.  Both sexes dispersed equally.  Of the
+   adults, yearlings, and pups, 8, 75, and 16%, respectively, dispersed. 
+   Most dispersers left when they were 11-12 months old, only a few wolves
+   dispersing as adults.  Dispersal occurred mainly in February-April and
+   October-November.  Adults dispersed short distances into nearby
+   territories, but yearlings and pups dispersed both short and long
+   distances.  Yearling and pup dispersal rates were highest when the wolf
+   population was increasing or decreasing and low when the population was
+   stable.  Adults had the highest pairing and denning success, yearlings
+   had moderate pairing and low denning success, and pups had low pairing
+   and denning success.  Yearlings and pups that dispersed a short
+   distance had a higher success of settling in a new territory, likely
+   reflecting available vacancies in nearby territories.  Thirty-five
+   percent of the known-age wolves remained in their natal territory for >
+   2 years; two wolves were known to have remained for > 7 years.  The
+   relative weight of pups at capture apparently did not affect their age
+   or success of dispersal or the tendency to disperse.
+C1 UNIV MINNESOTA,DEPT FISHERIES & WILDLIFE,ST PAUL,MN 55108.
+   US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+NR 62
+TC 84
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD DEC
+PY 1991
+VL 69
+IS 12
+BP 2946
+EP 2955
+PG 10
+SC Zoology
+GA HL313
+UT ISI:A1991HL31300003
+ER
+
+PT J
+AU ROZHNOV, VV
+TI MEDIATED CHEMOCOMMUNICATION AND EVOLUTION OF MUSTELIDES
+SO IZVESTIYA AKADEMII NAUK SSSR SERIYA BIOLOGICHESKAYA
+LA Russian
+DT Article
+ID ANAL-GLAND; GALAGO-CRASSICAUDATUS; EUROPEAN BADGER; SOCIAL SIGNALS;
+   SCENT-MARKING; CANIS-LUPUS; SECRETION; URINE; BEHAVIOR; MINK
+AB Comparative studying of ways of odor labeling and its comparison with
+   the phylogeny of mustelides allow to mark out two main pathways in the
+   development of labeling behaviour connected with peculiarities of
+   mustelide social life.  Low-social species (Mustelinae) develop
+   different specific ways of leaving urine while more social species
+   (Melinae) are characterized by leaving of secretion from a special
+   subcaudal gland.  There are several stages which can be isolated in the
+   process of evolution:  leaving of urine together with excrement
+   (arrangement of <<lavatories>>), expansion of the area labeled with
+   urine (splashing of urine and leaving of <<urinary paths>>), and
+   application of urine to fatty base (fatty secretion of cutaneous glands
+   or secretion of a specific abdominal gland).  The main trend in
+   mediated chemocommunication is the increased efficiency of odor label
+   findings by conspecific mustelides at more economic expenditure of
+   water with urine.
+RP ROZHNOV, VV, AN SEVERTSOV ANIM EVOLUT MORPHOL & ECOL INST,MOSCOW,USSR.
+NR 62
+TC 2
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0002-3329
+J9 IZV AKAD NAUK SSSR SER BIOL
+PD NOV-DEC
+PY 1991
+IS 6
+BP 882
+EP 896
+PG 15
+SC Biology
+GA HH213
+UT ISI:A1991HH21300006
+ER
+
+PT J
+AU NELSON, ME
+   MECH, LD
+TI WOLF PREDATION RISK ASSOCIATED WITH WHITE-TAILED DEER MOVEMENTS
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Note
+AB The survival of 159 yearling and adult deer (Odocoileus virginianus)
+   was monitored by telemetry during 282 spring and 219 fall individual
+   migrations to winter deeryards in northeastern Minnesota.  A
+   disproportionate number of deer were killed by wolves (Canis lupus)
+   during fall migration relative to the short time they spent migrating,
+   but not during spring migration.  Predation was also significantly
+   greater for male and female yearlings and adult females outside
+   deeryards during winter.  Survival of 79 yearlings dispersing from
+   natal ranges was high (1.00).  It appears that changing climatic
+   conditions combined with unfamiliar terrain and undetermined factors
+   predispose migratory deer to wolf predation during fall.  These
+   findings support an earlier hypothesis that winter yarding is an
+   antipredator strategy.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+NR 23
+TC 36
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD OCT
+PY 1991
+VL 69
+IS 10
+BP 2696
+EP 2699
+PG 4
+SC Zoology
+GA HD709
+UT ISI:A1991HD70900026
+ER
+
+PT J
+AU MERIGGI, A
+   ROSA, P
+   BRANGI, A
+   MATTEUCCI, C
+TI HABITAT USE AND DIET OF THE WOLF IN NORTHERN ITALY
+SO ACTA THERIOLOGICA
+LA English
+DT Article
+DE HABITAT USE; DIET; SEASONAL CHANGES; CANIS-LUPUS; ITALY
+ID AVAILABILITY DATA; NATIONAL-PARK; CANIS-LUPUS; FOOD-HABITS; POLAND;
+   WOLVES; SPAIN
+AB Habitat use and diet of wolves Canis Iupus were examined in a
+   mountainous area in the northern Apennines (northern Italy) from
+   December 1987 to March 1989. Wolf signs were looked for along 22
+   transects representative of the different habitat types of the study
+   area in order to define seasonal differences in habitat use. Scats were
+   collected and analysed to identify the main food items used by wolves
+   in each season. Changes in range surface area were recorded in
+   different seasons in relation to food availability and territoriality
+   of the wolves. Pastures and bushy areas were selected in all seasons,
+   while mixed woods were used only in autumn and conifer reafforestations
+   in winter and spring. Beech woods and arable land were avoided all year
+   round. The main food items of the wolves were fruit (Rosaceae),
+   livestock and wild boar. Fruit was above all in winter and spring,
+   livestock (sheep and calves) mainly in summer during the grazing period
+   and wild boar all year round. The presence of the wolves in northern
+   Italy is only partially dependent on food sources of human origin but
+   these are of fundamental importance during the period of pup rearing.
+RP MERIGGI, A, UNIV PAVIA,DIPARTMENTO BIOL ANIM,PIAZZA BOTTA 9,I-27100
+   PAVIA,ITALY.
+NR 50
+TC 27
+PU POLISH ACAD SCIENCES
+PI BIALOWIEZA
+PA MAMMAL RESEARCH INST, 17-230 BIALOWIEZA, POLAND
+SN 0001-7051
+J9 ACTA THERIOL
+JI Acta Theriol.
+PY 1991
+VL 36
+IS 1-2
+BP 141
+EP 151
+PG 11
+SC Zoology
+GA HD033
+UT ISI:A1991HD03300010
+ER
+
+PT J
+AU BOUTIN, S
+TI PREDATION AND MOOSE POPULATION-DYNAMICS - A CRITIQUE
+SO JOURNAL OF WILDLIFE MANAGEMENT
+LA English
+DT Article
+ID NORTHEASTERN ALBERTA; KENAI PENINSULA; CALF MORTALITY; WOLF PREDATION;
+   CENTRAL ALASKA; RED DEER; DENSITY; WOLVES; SURVIVAL
+AB The wide acceptance of predation as the major limiting and/or
+   regulatory factor on moose (Alces alces) populations is premature
+   because assumptions have not been addressed, alternative hypotheses
+   have not been given similar consideration, and adequate experiments
+   have not been conducted.  I evaluated the empirical information
+   available to assess the role of predation in the population dynamics of
+   North American moose.  Studies that estimated losses of adult moose to
+   wolves (Canis lupus), or monitored losses by radio telemetry, indicate
+   that wolf predation is a limiting factor with a magnitude equal to or
+   less than other sources of mortality (particularly hunting).  Three
+   studies found that brown (Ursus arctos) and black (Ursus americanus)
+   bears can take 50% of calves and that these losses represent the most
+   significant mortality factor.  Predation rates by wolves or bears
+   generally do not seem to be density dependent.  Experimental reduction
+   of wolves produced increases in calf survival in 2 of 5 cases, but
+   significant increases in density in only 1 instance.  Bears have been
+   removed in 3 instances and calf survival has been improved in each
+   case.  I reviewed 4 predator-moose hypotheses and outlined their
+   specific predictions.  Presently, empirical data are inadequate to test
+   among them, and 2 experiments are required to do so.  Moose densities
+   should be reduced in one and bears and wolves should be removed in
+   another; both should be followed by monitoring of changes in moose
+   population.
+RP BOUTIN, S, UNIV ALBERTA,DEPT ZOOL,EDMONTON T6G 2E9,ALBERTA,CANADA.
+NR 41
+TC 53
+PU WILDLIFE SOC
+PI BETHESDA
+PA 5410 GROSVENOR LANE, BETHESDA, MD 20814-2197
+SN 0022-541X
+J9 J WILDLIFE MANAGE
+JI J. Wildl. Manage.
+PD JAN
+PY 1992
+VL 56
+IS 1
+BP 116
+EP 127
+PG 12
+SC Ecology; Zoology
+GA HA129
+UT ISI:A1992HA12900015
+ER
+
+PT J
+AU GASAWAY, WC
+   BOERTJE, RD
+   GRANGAARD, DV
+   KELLEYHOUSE, DG
+   STEPHENSON, RO
+   LARSEN, DG
+TI THE ROLE OF PREDATION IN LIMITING MOOSE AT LOW-DENSITIES IN ALASKA AND
+   YUKON AND IMPLICATIONS FOR CONSERVATION
+SO WILDLIFE MONOGRAPHS
+LA English
+DT Review
+ID POPULATION-DYNAMICS; WOLF PREDATION; CARIBOU; ALBERTA; WINTER; WEIGHT;
+   WOLVES; RESOURCES; ROCHESTER; RATES
+AB We address 3 major questions facing wildlife managers and wildlife
+   users of northern ecosystems:  (1) Why do moose (Alces alces) often
+   remain at low densities relative to K carrying capacity (KCC) in
+   lightly harvested systems?  (2) What is the range of potential moose
+   harvest yields from these northern systems?  and (3) What are some
+   steps that can reduce the controversy over management of moose, wolves
+   (Canis lupus), and bears (Ursus arctos and U. americanus)?  We assessed
+   the roles that nutrition, snow, harvest, disease, and predation played
+   in limiting moose densities in a 9,700-km2 area in east-central Alaska
+   during 1948-88.  Our intensive study occurred during 1981-88, and we
+   reviewed and reanalyzed historical data.  We also present published and
+   unpublished moose, wolf, and bear inventory data and moose harvest data
+   from 35 other areas.
+   We identified predation by wolves and bears as the major factor
+   limiting moose at low densities in the experimental area during
+   1976-88.  Moose irrupted simultaneously with a predator reduction
+   program (1948-60) that included poisoning.  The subsequent decline of
+   moose ended about 1976, at which time wolves declined and survival of
+   moose increased.  During the mid-1980's and after the recent wolf
+   reduction (1981-83), we estimated that predators annually killed 31% of
+   the postcalving moose population, compared with 6% killed by factors
+   other than predation and 1.5% by humans.  We concluded that mortality
+   due to predation had a substantial additive component during the
+   low-density phase.
+   Data from throughout Alaska and Yukon indicate that where wolves and
+   bears were near KCC and moose were a primary prey, moose populations
+   were within a low-density dynamic equilibrium (LDDE) (xBAR = 148, range
+   = 45-417 moose/1,000 km2 of moose habitat).  Moose usually attained
+   elevated densities (xBAR = 663, range = 169-1,447 moose/1,000 km2)
+   where humans held wolves and/or bears below KCC.  These elevated moose
+   populations yielded approximate sustainable harvests of 20-130
+   moose/1,000 km3 compared with 0-18/1,000 km2 in systems with predators
+   near KCC.
+   We describe several options and recommendations aimed at reducing the
+   controversy over managing predation to elevate moose harvest.  One
+   management option, after moose reach elevated levels, is to maintain
+   wolves at densities found in systems without predation management. 
+   Greater public participation in the development of wildlife management
+   plans is recommended if conservationists are to unite in addressing the
+   most serious long-term threat to moose-wolf-bear systems, i.e. the loss
+   of habitat.
+C1 WILDLIFE BRANCH,WHITEHORSE Y1A 2C6,YUKON TERR,CANADA.
+RP GASAWAY, WC, ALASKA DEPT FISH & GAME,1300 COLL RD,FAIRBANKS,AK 99701.
+NR 184
+TC 66
+PU WILDLIFE SOC
+PI BETHESDA
+PA 5410 GROSVENOR LANE, BETHESDA, MD 20814-2197
+SN 0084-0173
+J9 WILDLIFE MONOGR
+JI Wildl. Monogr.
+PD JAN
+PY 1992
+IS 120
+BP 1
+EP 59
+PG 59
+SC Ecology; Zoology
+GA HA324
+UT ISI:A1992HA32400001
+ER
+
+PT J
+AU KUNKEL, KE
+   CHAPMAN, RC
+   MECH, LD
+   GESE, EM
+TI TESTING THE WILDLINK ACTIVITY-DETECTION SYSTEM ON WOLVES AND
+   WHITE-TAILED DEER
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID SENSITIVE RADIO COLLARS
+AB We tested the reliability and predictive capabilities of the activity
+   meter in the new Wildlink Data Acquisition and Recapture System by
+   comparing activity counts with concurrent observations of captive wolf
+   (Canis lupus) and free-ranging white-tailed deer (Odocoileus
+   virginianus) activity. The Wildlink system stores activity data in a
+   computer within a radio collar with which a biologist can communicate.
+   Three levels of activity could be detected. The Wildlink system
+   provided greater activity discrimination and was more reliable,
+   adaptable, and efficient and was easier to use than conventional
+   telemetry activity systems. The Wildlink system could be highly useful
+   for determining wildlife energy budgets.
+C1 UNIV MINNESOTA,DEPT FISHERIES & WILDLIFE,ST PAUL,MN 55108.
+   UNIV MINNESOTA,DEPT ELECT ENGN,BIOMED ENGN PROGRAM,MINNEAPOLIS,MN 55455.
+   US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+NR 12
+TC 12
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD SEP
+PY 1991
+VL 69
+IS 9
+BP 2466
+EP 2469
+PG 4
+SC Zoology
+GA GX853
+UT ISI:A1991GX85300028
+ER
+
+PT J
+AU DELGIUDICE, GD
+   MECH, LD
+   SEAL, US
+TI GRAY WOLF DENSITY AND ITS ASSOCIATION WITH WEIGHTS AND HEMATOLOGY OF
+   PUPS FROM 1970 TO 1988
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+DE CANIS-LUPUS; HEMATOLOGY; HEMOGLOBIN; WOLF POPULATION DENSITY; WOLF
+   PUPS; WOLF WEIGHTS
+ID WOLVES; MINNESOTA
+AB We examined weights and hematologic profiles of gray wolf (Canis lupus)
+   pups and the associated wolf density in the east-central Superior
+   National Forest of northeastern Minnesota (USA) during 1970 to 1988. We
+   collected weight and hematologic data from 117 pups (57 females, 60
+   males) during 1 September to 22 November each year. The wolf density
+   (wolves/800 km2) trend was divided into three phases: high (72 +/- 7),
+   1970 to 1975; medium (44 +/- 2), 1976 to 1983; and low (27 +/- 2), 1984
+   to 1988. Wolf numbers declined (P = 0.0001) 39 and 63% from 1970 to
+   1975 to 1976 to 1983 and from 1970 to 1975 to 1984 to 1988,
+   respectively. Weight was similar between male and female pups and did
+   not vary as wolf density changed. Mean hemoglobin (P = 0.04), red (P =
+   0.0001) and white blood cells (P = 0.002), mean corpuscular volume,
+   mean corpuscular hemoglobin concentration and mean corpuscular
+   hemoglobin (P = 0.0001) did differ among the multi-annual phases of
+   changing wolf density. Weight and hematologic data also were compared
+   to values from captive wolf pups. The high, but declining wolf density
+   was associated with macrocytic, normochromic anemia in wolf pups,
+   whereas the lowest density coincided with a hypochromic anemia.
+   Although hematologic values show promise for assessing wolf pup
+   condition and wolf population status, they must be used cautiously
+   until data are available from other populations.
+C1 UNIV MINNESOTA,DEPT FISHERIES & WILDLIFE,ST PAUL,MN 55108.
+   US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+   US VET AFFAIRS MED CTR,RES SERV,MINNEAPOLIS,MN 55417.
+RP DELGIUDICE, GD, MINNESOTA DEPT NAT RESOURCES,FOREST WILDLIFE POPULAT &
+   RES GRP,GRANT RAPIDS,MN 55744.
+NR 30
+TC 5
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD OCT
+PY 1991
+VL 27
+IS 4
+BP 630
+EP 636
+PG 7
+SC Veterinary Sciences
+GA GP280
+UT ISI:A1991GP28000015
+ER
+
+PT J
+AU PAQUET, PC
+TI SCENT-MARKING BEHAVIOR OF SYMPATRIC WOLVES (CANIS-LUPUS) AND COYOTES
+   (C-LATRANS) IN RIDING-MOUNTAIN-NATIONAL-PARK
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID WOLF CANIS; URINE; TERRITORIES; SECRETIONS; SEASON
+AB The objectives of this study were to describe the scent-marking
+   behavior of sympatric wolves and coyotes, and determine whether scent
+   marking has an interspecific behavioral significance and, if so,
+   whether it is involved in maintaining ecological separation of the two
+   species.  The hypotheses tested were that coyotes travelling within
+   active wolf areas reduce their frequency of marking and avoid wolf
+   scent marks, and that wolves react to sympatric coyotes as
+   transgressing conspecifics, and increase their scent marking.  Marking
+   by the two species was similar, both canids using the same scent
+   mounds.  Coyotes did not avoid areas marked by wolves, nor did they
+   minimize evidence of their own activity.  Coyotes increased their
+   marking significantly in response to wolves.  Wolves, however, did not
+   respond to marks by coyotes.
+C1 UNIV ALBERTA,DEPT ZOOL,EDMONTON T6G 2G4,ALBERTA,CANADA.
+NR 31
+TC 13
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD JUL
+PY 1991
+VL 69
+IS 7
+BP 1721
+EP 1727
+PG 7
+SC Zoology
+GA GP060
+UT ISI:A1991GP06000001
+ER
+
+PT J
+AU DRAG, MD
+TI HEMATOLOGIC VALUES OF CAPTIVE MEXICAN WOLVES
+SO AMERICAN JOURNAL OF VETERINARY RESEARCH
+LA English
+DT Article
+AB Hematologic reference values were determined for a captive population
+   of 11 Mexican wolves (Canis lupus baileyi).  Wolf pups from 4 to 24
+   weeks old had progressive age-related increases in PCV, hemoglobin
+   concentration, mean cell volume, and RBC counts similar to those seen
+   in domestic dog pups (C familiaris).  Hematologic indices in wolves
+   older than 24 weeks were comparable to those of the adult domestic dog;
+   however, PCV, hemoglobin concentration, and RBC counts were higher.
+C1 WASHINGTON UNIV,SCH MED,DIV COMPARAT MED,ST LOUIS,MO 63110.
+RP DRAG, MD, WILD CANID SURVIVAL & RES CTR,POB 760,EUREKA,MO 63025.
+NR 14
+TC 0
+PU AMER VETERINARY MEDICAL ASSOC
+PI SCHAUMBURG
+PA 1931 N MEACHAM RD SUITE 100, SCHAUMBURG, IL 60173-4360
+SN 0002-9645
+J9 AMER J VET RES
+JI Am. J. Vet. Res.
+PD NOV
+PY 1991
+VL 52
+IS 11
+BP 1891
+EP 1892
+PG 2
+SC Veterinary Sciences
+GA GM321
+UT ISI:A1991GM32100026
+ER
+
+PT J
+AU OKARMA, H
+TI MARROW FAT-CONTENT, SEX AND AGE OF RED DEER KILLED BY WOLVES IN WINTER
+   IN THE CARPATHIAN MOUNTAINS
+SO HOLARCTIC ECOLOGY
+LA English
+DT Article
+ID WOLF PREDATION; MOOSE; FEMURS
+AB Age, sex and legbone marrow fat content of 90 red deer Cervus elaphus
+   killed by wolves Canis lupus in winter in southeastern Poland were
+   examined 1984-1988.  The majority of kills were calves (44%) and hinds
+   (40%); stags formed only 16%.  The average age of hinds was 7.2 yr
+   compared to 5.3 yr in stags.  Animals older than 10 yr comprised only
+   13% of prey.  Adults showed high femoral fat content (> 80%) throughout
+   the winter (76% in early winter and 52% in late winter).  Among calves
+   femur marrow fat varied through the winter.  In early winter 70% of
+   calves had a high fat content (> 80%), though by late winter only 20%
+   had such a high fat content.  whilst 43% had low fat content (< 20%).
+C1 JAGIELLONIAN UNIV,DEPT ANIM ECOL,PL-30060 KRAKOW,POLAND.
+NR 17
+TC 11
+PU MUNKSGAARD INT PUBL LTD
+PI COPENHAGEN
+PA 35 NORRE SOGADE, PO BOX 2148, DK-1016 COPENHAGEN, DENMARK
+SN 0105-9327
+J9 HOLARCTIC ECOL
+PD JUL-SEP
+PY 1991
+VL 14
+IS 3
+BP 169
+EP 172
+PG 4
+SC Ecology
+GA GH213
+UT ISI:A1991GH21300002
+ER
+
+PT J
+AU KENNEDY, PK
+   KENNEDY, ML
+   CLARKSON, PL
+   LIEPINS, IS
+TI GENETIC-VARIABILITY IN NATURAL-POPULATIONS OF THE GRAY WOLF, CANIS-LUPUS
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID TAILED PRAIRIE DOG; ELECTROPHORETIC VARIATION; GENIC VARIATION;
+   PROCYON-LOTOR; LARGE MAMMALS; HETEROGENEITY; POLYMORPHISM; RACCOON;
+   LATRANS; MARTEN
+AB The genetic variability of gray wolves (Canis lupus) from northwestern
+   Canada was assessed through starch-gel electrophoresis.  Of 27 protein
+   systems examined, 25, representing 37 presumptive loci, were
+   consistently scorable; 7 proteins (5 were consistently scorable)
+   exhibited polymorphism.  The level of heterozygosity (3.0%) was medial
+   relative to values reported for natural populations of Carnivora and
+   high relative to values reported for natural populations of canids.  An
+   overall pattern of few deviations from Hardy-Weinberg expectations and
+   some spatial heterogeneity was observed.  Wolves associated with
+   different caribou herds exhibited a low level of differentiation (F(ST)
+   = 0.029).  The pattern of variability supports the view of a large
+   panmictic population resulting from extensive movements of individuals
+   and packs and from natural and human impacts on pack structure and
+   formation.
+C1 MEMPHIS STATE UNIV,DEPT BIOL,MEMPHIS,TN 38152.
+   DEPT RENEWABLE RESOURCES,INUVIK X0E 0T0,NORTHWEST TERR,CANADA.
+RP KENNEDY, PK, MEMPHIS STATE UNIV,MEEMAN BIOL STN,MEMPHIS,TN 38152.
+NR 42
+TC 25
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD MAY
+PY 1991
+VL 69
+IS 5
+BP 1183
+EP 1188
+PG 6
+SC Zoology
+GA GB815
+UT ISI:A1991GB81500007
+ER
+
+PT J
+AU KREEGER, TJ
+   SEAL, US
+   COHEN, Y
+   PLOTKA, ED
+   ASA, CS
+TI CHARACTERIZATION OF PROLACTIN SECRETION IN GRAY WOLVES (CANIS-LUPUS)
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID WHITE-TAILED DEER; CORTICOTROPIN-RELEASING FACTOR;
+   PITUITARY-LUTEINIZING-HORMONE; SERUM PROLACTIN; SEASONAL-VARIATIONS;
+   MATERNAL-BEHAVIOR; OPIOID-PEPTIDES; CERVUS-ELAPHUS; RHESUS-MONKEYS;
+   MELATONIN
+AB From 1980 to 1989, experiments were conducted on 28 intact (13 females,
+   15 males) and 10 neutered wolves (5 females, 5 males) to characterize
+   prolactin (PRL) release.  From these studies, we have (i) adapted and
+   validated the canine PRL radioimmunoassay of Parlow for wolves; (ii)
+   determined that the plasma half-life of PRL is 44 min; (iii)
+   demonstrated that anesthesia with 400 mg ketamine plus 50 mg promazine,
+   400 mg ketamine plus 30 mg xylazine, or 7.5-mu-g . kg-1 etorphine plus
+   0.5 mg . kg-1 xylazine, administered intramuscularly, does not alter
+   PRL rhythms or control mechanisms; (iv) indicated that PRL is not
+   secreted in response to handling stress (P greater-than-or-equal-to
+   0.78) or by activation of the hypothalamic-pituitary-adrenocortical
+   axis simulated by intravenous injection of 50-mu-g ovine
+   corticotropin-releasing factor (P = 0.28); (v) demonstrated a
+   circannual rhythm in intact and neutered wolves characterized by
+   elevated PRL levels just prior to summer solstice; (vi) detected a
+   circadian PRL rhythm in females; (vii) provided evidence for
+   dopaminergic control of PRL secretion by injecting 2.0 mg . kg-1
+   promazine, a dopaminergic antagonist, which increased PRL levels
+   significantly (P = 0.0001); (viii) shown that intravenous injection of
+   100-mu-g thyrotropin-releasing hormone results in PRL release (P =
+   0.0001), but that this release could not be attenuated by prior
+   administration of 1.0 mg . kg-1 of the opioid antagonist naloxone; (ix)
+   determined that feeding 2.0 mg of melatonin daily reduced basal PRL
+   levels in May and June (P = 0.03), but not in October-December (P =
+   0.42), and that PRL stimulation with 100-mu-g thyrotropin-releasing
+   hormone was consistently lower in melatonin-fed wolves; and (x) shown
+   that pinealectomy does not abolish the circadian PRL rhythm nor alter
+   absolute PRL levels relative to sham-operated control wolves (P = 0.33).
+C1 VET ADM MED CTR,MINNEAPOLIS,MN 55417.
+   UNIV MINNESOTA,DEPT WILDLIFE CONSERVAT,ST PAUL,MN 55108.
+   MARSHFIELD CLIN FDN MED RES & EDUC,MARSHFIELD,WI 54449.
+   ST LOUIS ZOO,ST LOUIS,MO 63110.
+RP KREEGER, TJ, UNIV MINNESOTA,DEPT ECOL EVOLUT & BEHAV,MINNEAPOLIS,MN
+   55455.
+NR 59
+TC 15
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD MAY
+PY 1991
+VL 69
+IS 5
+BP 1366
+EP 1374
+PG 9
+SC Zoology
+GA GB815
+UT ISI:A1991GB81500031
+ER
+
+PT J
+AU ROBINSON, WL
+   GROEBNER, DJ
+   SCHULTZ, RN
+TI FORAGING OF GRAY WOLVES AT A GREAT BLUE HERON ROOKERY
+SO AMERICAN MIDLAND NATURALIST
+LA English
+DT Note
+AB A radio-collared adult female gray wolf (Canis lupus) was found on at
+   least five occasions to scavenge beneath a nesting colony of great blue
+   herons (Ardea herodias) in northern Wisconsin. Food available to wolves
+   beneath the rookery consisted of recently dropped fish and some heron
+   chicks. Nineteen percent of 84 scats collected within a 5-km radius of
+   the rookery contained fish bones and scales and/or heron feathers,
+   indicating that the rookery provided a frequent source of food for the
+   wolf pack, which was made up of the alpha pair, 2 yearlings and at
+   least 2 pups.
+C1 WISCONSIN DEPT NAT RESOURCES,MINOCQUA,WI 54548.
+RP ROBINSON, WL, NO MICHIGAN UNIV,DEPT BIOL,MARQUETTE,MI 49855.
+NR 7
+TC 1
+PU AMER MIDLAND NATURALIST
+PI NOTRE DAME
+PA UNIV NOTRE DAME, NOTRE DAME, IN 46556
+SN 0003-0031
+J9 AMER MIDLAND NATURALIST
+JI Am. Midl. Nat.
+PD JUL
+PY 1991
+VL 126
+IS 1
+BP 196
+EP 197
+PG 2
+SC Biodiversity Conservation; Ecology
+GA GA853
+UT ISI:A1991GA85300019
+ER
+
+PT J
+AU CUESTA, L
+   BARCENA, F
+   PALACIOS, F
+   REIG, S
+TI THE TROPHIC ECOLOGY OF THE IBERIAN WOLF (CANIS-LUPUS-SIGNATUS CABRERA,
+   1907) - A NEW ANALYSIS OF STOMACHS DATA
+SO MAMMALIA
+LA English
+DT Article
+ID FOOD-HABITS; SPAIN
+AB The diet of the Iberian Wolf (Canis lupus signatus Cabrera, 1907) was
+   studied in five ecologically different areas that together cover the
+   whole range of distribution of the species in Spain.  The study
+   material included 251 stomach contents and some dropping samples
+   collected between 1970 and 1985.  Results are given in terms of
+   frequency and percentage of biomass for each food item.
+   Estimation of the biomass consumed was based on the weight of the fresh
+   remains found in the stomachs.  This method, in contrast with the
+   conventional procedure of assigning standard weights, enabled
+   quantification of carrion.
+   To determine whether a food remain corresponded to a whole animal or to
+   offal, an index of the nature of food was used.  This index indicates
+   the mean portion of food consumed for each item.  In each area, the
+   highest index values corresponded to wild or domestic ungulates which
+   constitute the stapple prey of the wolf, or to whole carcasses obtained
+   from industrial farms, whereas low index values corresponded to animal
+   remains obtained in dumps.
+   By weighing the index of the nature of food with the biomass percentage
+   of each food item in the diet, an index of food availability was
+   estimated.  The values obtained for each area concurred with their
+   respective abundance of resources.
+   Likewise, an analysis was made on the mean gut weight in each area and
+   related to differences in the amount of food consumed by wolves. 
+   Results concurred with the availability values of the food, but not
+   with the degree of population expansion, which seems to be more
+   dependent on the pressure of human control efforts.
+   There are important differences in the wolf's diet from one area to
+   another, but the dependence on domestic and/or wild ungulates is common
+   to all areas studied.  In area I (West Galicia), the diet is centered
+   on the prey groups most often associated with human activities, wild
+   prey being almost absent from the diet.  In this area the wolf lives
+   upon scraps from industrial poultry and pig farms, and domestic
+   ungulates.
+   In the area II (Cantabrian Mountains) and IV (Demanda Mountains), the
+   diet is more diversified, ranging from an almost exclusive dependence
+   on wild ungulates with domestic ungulates as a complementary prey, to
+   the opposite situation.
+   The area III (Douro Meseta) is a particular environment in that the
+   lagomorphs were added to the conventional prey groups, according to
+   season, sometimes becoming as important as these.
+   In area V, wolves in Extremadura prey on both wild and domestic
+   ungulates, while in Sierra Morena they prey almost exclusively on big
+   game.
+   The diet of young wolves was studied separately and compared with that
+   of older individuals.  In both groups, domestic ungulates had similar
+   importance, but young wolves consumed more chickens, arthropods and
+   fruit, while adults consumed more wild ungulates.
+C1 UNIV SANTIAGO DE COMPOSTELA,FAC FARM,DEPT PARASITOL,SANTIAGO,SPAIN.
+RP CUESTA, L, MUSEO NACL CIENCIAS NAT,CSIC,JOSE GUTIERREZ ABASCAL
+   2,E-28006 MADRID,SPAIN.
+NR 18
+TC 18
+PU MUSEUM NAT HIST NATURELLE
+PI PARIS
+PA 55 RUE DE BUFFON, 75005 PARIS, FRANCE
+SN 0025-1461
+J9 MAMMALIA
+JI Mammalia
+PY 1991
+VL 55
+IS 2
+BP 239
+EP 254
+PG 16
+SC Zoology
+GA FV502
+UT ISI:A1991FV50200005
+ER
+
+PT J
+AU MESSIER, F
+TI THE SIGNIFICANCE OF LIMITING AND REGULATING FACTORS ON THE DEMOGRAPHY
+   OF MOOSE AND WHITE-TAILED DEER
+SO JOURNAL OF ANIMAL ECOLOGY
+LA English
+DT Article
+ID POPULATION REGULATION; RED DEER; DENSITY DEPENDENCE; KEY FACTORS;
+   MORTALITY; WOLVES; ONTARIO; QUEBEC
+AB (1) I examined the significance of food competition, wolf predation
+   (canis lupus), and snow accumulation as limiting or regulating factors
+   of moose (Alces alces) and white-tailed deer (Odocoileus virginianus). 
+   That is, I assessed the contribution of those factors in creating
+   year-to-year variations in animal abundance, or in generating density
+   dependence.
+   (2) I used long-term data on the demography of moose on Isle Royale,
+   Michigan, and deer in the National Superior Forest, north-eastern
+   Minnesota.
+   (3) Wolf predation and food competition explained 80% of the
+   interannual variation of moose abundance.  Snow accumulation had no
+   quantifiable effect moose numbers.  Competition for food, but not wolf
+   predation and snow, had a regulatory impact on moose.
+   (4) Wolf predation was inversely related to moose density and the
+   relationship differed between periods of moose expansion and reduction.
+    The dual density relationship of wolf predation may explain population
+   cyclicity of moose at elevated densities.
+   (5) Significant inverse relationships were found between deer
+   population growth and relative wolf density, as well as with deer
+   density.  Snow had no measurable effect on deer numbers, possibly
+   because of extremely low deer densities and the predominant impact of
+   wolf predation.
+   (6) A previous suggestion that snow accumulation during consecutive
+   winters creates a cumulative impact on the nutritional status of deer
+   and moose was not supported.
+RP MESSIER, F, UNIV SASKATCHEWAN,DEPT BIOL,SASKATOON S7N
+   0W0,SASKATCHEWAN,CANADA.
+NR 55
+TC 101
+PU BLACKWELL SCIENCE LTD
+PI OXFORD
+PA OSNEY MEAD, OXFORD, OXON, ENGLAND OX2 0EL
+SN 0021-8790
+J9 J ANIM ECOL
+JI J. Anim. Ecol.
+PD JUN
+PY 1991
+VL 60
+IS 2
+BP 377
+EP 393
+PG 17
+SC Ecology; Zoology
+GA FT292
+UT ISI:A1991FT29200001
+ER
+
+PT J
+AU PAQUET, PC
+TI WINTER SPATIAL RELATIONSHIPS OF WOLVES AND COYOTES IN
+   RIDING-MOUNTAIN-NATIONAL-PARK, MANITOBA
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+ID WOLF
+AB In Riding Mountain National Park, wolves (Canis lupus) and coyotes (C.
+   latrans) overlapped temporally and spatially.  Movements of coyotes
+   relative to wolves were not random.  Coyotes used active wolf areas,
+   and followed wolf tracks rather than avoiding them.  The movements
+   wolves were not altered by the presence of coyotes.
+C1 UNIV ALBERTA,DEPT ZOOL,EDMONTON T6G 2N1,ALBERTA,CANADA.
+NR 9
+TC 19
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD MAY
+PY 1991
+VL 72
+IS 2
+BP 397
+EP 401
+PG 5
+SC Zoology
+GA FN196
+UT ISI:A1991FN19600020
+ER
+
+PT J
+AU KHAN, MA
+   GOYAL, SM
+   DIESCH, SL
+   MECH, LD
+   FRITTS, SH
+TI SEROEPIDEMIOLOGY OF LEPTOSPIROSIS IN MINNESOTA WOLVES
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+DE LEPTOSPIROSIS; LEPTOSPIRA-INTERROGANS; SEROVARS; WOLVES; CANIS-LUPUS;
+   SEROEPIDEMIOLOGY; ZOONOSIS; SURVEY
+ID CANINE PARVOVIRUS; ANTIBODIES; INFECTION
+AB Serum samples (n = 457) from wolves (Canis lupus) in northern Minnesota
+   were collected from 1972 through 1986 and were tested for antibodies
+   against Leptospira interrogans using a microtiter agglutination test. 
+   Twelve serovars included in the study were:  australis, autumnalis,
+   ballum, bataviae, bratislava, canicola, copenhageni, grippotyphosa,
+   hardjo, pomona, pyrogenes, and tarassovi.  Fifty-two (11%) sera had
+   antibody titers of greater-than-or-equal-to 1:50 against one or more
+   serovars of L. interrogans.  The seroprevalence of different serovars
+   in decreasing order was:  grippotyphosa, bratislava, autumnalis,
+   canicola, pomona, ballum, pyrogenes, hardjo, and copenhageni.  No
+   antibodies were found against australis, bataviae, and tarassovi. 
+   These results indicate that L. interrogans infection may occur in
+   wolves of Minnesota.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+RP KHAN, MA, UNIV MICHIGAN,COLL VET MED,DEPT VET DIAGNOST INVESTIGAT,ANN
+   ARBOR,MI 48108.
+NR 34
+TC 10
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD APR
+PY 1991
+VL 27
+IS 2
+BP 248
+EP 253
+PG 6
+SC Veterinary Sciences
+GA FJ644
+UT ISI:A1991FJ64400008
+ER
+
+PT J
+AU FULLER, TK
+TI EFFECT OF SNOW DEPTH ON WOLF ACTIVITY AND PREY SELECTION IN NORTH
+   CENTRAL MINNESOTA
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+ID WHITE-TAILED DEER; NORTHCENTRAL MINNESOTA; PREDATION; MARROW; MOOSE;
+   RANGE; FAT
+AB Wolf (Canis lupus) activity and interactions with white-tailed deer
+   (Odocoileus virginianus) were monitored in north central Minnesota
+   during six winters in which mean January-February snow depth alternated
+   between shallow (19-26 cm) and relatively deep (40-47 cm) and winters
+   (winter severity index; L.J. Verme. 1968. J. Wildl.  Manage. 32: 
+   566-574) alternated between mild (71-98) and moderately severe
+   (126-137).  Wolves traveled farther and more often and spent less time
+   with other pack members in mild than in severe winters.  Radio-marked
+   wolves and deer used conifer cover less, and fewer deer were killed
+   there, when snow was shallow.  Similarly, fewer wolf-killed deer were
+   found in and near deer concentration areas during mild winters.  Of the
+   74 deer killed by wolves, the proportion that were fawns (54%) differed
+   from the proportion of fawns in the winter population (27%), but
+   neither varied with winter severity.  Few deer killed by wolves
+   appeared debilitated.  Carcass consumption was high in all winters,
+   regardless of their severity, but wolves scavenged less in mild than in
+   severe winters (10 vs. 29% of deer carcasses observed).  Thus, wolves
+   changed winter activity, movement patterns, sociality, and feeding
+   behavior in response to snow-induced changes in deer distribution and
+   mobility.
+C1 MINNESOTA DEPT NAT RESOURCES,FOREST & WILDLIFE POPULAT & RES GRP,GRAND RAPIDS,MN 55744.
+NR 45
+TC 30
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD FEB
+PY 1991
+VL 69
+IS 2
+BP 283
+EP 287
+PG 5
+SC Zoology
+GA FC982
+UT ISI:A1991FC98200004
+ER
+
+PT J
+AU LAIKRE, L
+   RYMAN, N
+TI INBREEDING DEPRESSION IN A CAPTIVE WOLF (CANIS-LUPUS) POPULATION
+SO CONSERVATION BIOLOGY
+LA English
+DT Article
+AB Uncertainty currently exists regarding the extent to which mammalian
+   carnivores suffer from inbreeding depression.  In particular, it has
+   been proposed that wolves and species with a similar social structure
+   are adapted to close inbreeding.  Empirical data, however, are scarce. 
+   This paper provides strong evidence against the contention that natural
+   populations of wolves are resistant to inbreeding depression.  We
+   analyzed studbook data of a captive wolf population bred in
+   Scandinavian zoos and found negative effects of inbreeding expressed as
+   reductions in juvenile weight, reproduction, and longevity.  The
+   occurrence of an apparently hereditary form of blindness is also
+   associated with inbreeding.  Different effects of inbreeding can be
+   attributed to genes originating from different founder pairs, thus
+   indicating that alleles that are deleterious in the homozygous state
+   are fairly common in natural wolf populations.
+RP LAIKRE, L, UNIV STOCKHOLM,DIV POPULAT GENET,S-10691 STOCKHOLM,SWEDEN.
+NR 0
+TC 66
+PU BLACKWELL SCIENCE INC
+PI CAMBRIDGE
+PA 238 MAIN ST, CAMBRIDGE, MA 02142
+SN 0888-8892
+J9 CONSERV BIOL
+JI Conserv. Biol.
+PD MAR
+PY 1991
+VL 5
+IS 1
+BP 33
+EP 40
+PG 8
+SC Biodiversity Conservation; Ecology; Environmental Sciences
+GA FB537
+UT ISI:A1991FB53700008
+ER
+
+PT J
+AU MALLON, DP
+TI STATUS AND CONSERVATION OF LARGE MAMMALS IN LADAKH
+SO BIOLOGICAL CONSERVATION
+LA English
+DT Article
+ID CHINA
+AB The distribution and status of large mammals was surveyed in a 15 000
+   km2 study area in Ladakh, India.  Snow leopard Panthera uncia, wolf
+   Canis lupus, ibex Capra ibex and bharal Pseudois nayaur have an almost
+   continuous distribution throughout; Ladakh urial Ovis vignei, Tibetan
+   argali Ovis ammon, wild ass Equus kiang and brown bear Ursus arctos
+   have a limited distribution.  Snow leopard prefer lower altitudes and
+   rocky, undisturbed areas.  Ibex and bharal occupy similar rocky
+   habitats but their ranges are mostly separate, with a small area of
+   overlap.  The Ladakh urial shows signs of recovery from an earlier
+   decline.  Natural resources are widely used for fuel, fodder and
+   grazing, but favourable factors include a low human population, low
+   level of hunting and the existence of some uninhabited and undisturbed
+   areas.  A comprehensive Protected Area Network has been proposed.
+NR 27
+TC 8
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0006-3207
+J9 BIOL CONSERV
+JI Biol. Conserv.
+PY 1991
+VL 56
+IS 1
+BP 101
+EP 119
+PG 19
+SC Biodiversity Conservation; Ecology; Environmental Sciences
+GA FB143
+UT ISI:A1991FB14300008
+ER
+
+PT J
+AU MECH, LD
+   NELSON, ME
+TI NON-FAMILY WOLF, CANIS-LUPUS, PACKS
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE WOLF; CANIS-LUPUS; PACK; PAIR BOND; RADIO-TRACKING; TELEMETRY
+AB Three non-family Wolf packs of three are described from Minnesota.  All
+   included a male-female pair, and the extra member was related to one
+   member in two cases, and probably related in the other.
+RP MECH, LD, N CENT FOREST EXPT STN,1992 FOLWELL AVE,ST PAUL,MN 55108.
+NR 0
+TC 5
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JUL-AUG
+PY 1990
+VL 104
+IS 3
+BP 482
+EP 483
+PG 2
+SC Biodiversity Conservation; Ecology
+GA FA225
+UT ISI:A1990FA22500024
+ER
+
+PT J
+AU MECH, LD
+   PACKARD, JM
+TI POSSIBLE USE OF WOLF, CANIS-LUPUS, DEN OVER SEVERAL CENTURIES
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+DE WOLF; CANIS-LUPUS; DEN; ELLESMERE ISLAND; MUSK-OX; OVIBOS-MOSCHATUS
+AB Radiocarbon dating of bones found at a Wolf den on Ellesmere Island
+   suggest it probably was used by Wolves over 700 years ago.
+RP MECH, LD, N CENT FOREST EXPT STN,1992 FOLWELL AVE,ST PAUL,MN 55108.
+NR 0
+TC 20
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JUL-AUG
+PY 1990
+VL 104
+IS 3
+BP 484
+EP 485
+PG 2
+SC Biodiversity Conservation; Ecology
+GA FA225
+UT ISI:A1990FA22500026
+ER
+
+PT J
+AU MECH, LD
+   NELSON, ME
+   MCROBERTS, RE
+TI EFFECTS OF MATERNAL AND GRANDMATERNAL NUTRITION ON DEER MASS AND
+   VULNERABILITY TO WOLF PREDATION
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+ID WHITE-TAILED DEER; DIETARY-PROTEIN RESTRICTION; SUPERIOR NATIONAL
+   FOREST; GENERATION F2 ALTERATION; DNA CELL NUMBER; NEW-YORK;
+   PERFORMANCE; POPULATION; MORTALITY; SURVIVAL
+AB In a Minnesota ecosystem, mass of female white-tailed deer (Odocoileus
+   virginianus) fawns and adults, and survival of adult females in the
+   face of wolf (Canis lupus) predation, were directly related to maternal
+   nutrition during gestation.  Mass of single male fawns produced by
+   2-year-old females, and survival of yearlings to 2 years of age were
+   related directly to the nutrition of their grandmothers.
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+RP MECH, LD, US FOREST SERV,N CENT FOREST EXPT STN,1992 FOLWELL AVE,ST
+   PAUL,MN 55108.
+NR 48
+TC 54
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD FEB
+PY 1991
+VL 72
+IS 1
+BP 146
+EP 151
+PG 6
+SC Zoology
+GA EY283
+UT ISI:A1991EY28300015
+ER
+
+PT J
+AU BALLARD, WB
+   WHITMAN, JS
+   REED, DJ
+TI POPULATION-DYNAMICS OF MOOSE IN SOUTH-CENTRAL ALASKA
+SO WILDLIFE MONOGRAPHS
+LA English
+DT Article
+ID CALF MORTALITY; WOLF PREDATION; BROWN BEAR; MOVEMENTS; CARIBOU;
+   MINNESOTA; PATTERNS; SUMMER; RANGE; RATES
+AB Demography, movements, and habitat use of moose (Alces alces) were
+   studied in south-central Alaska from 1976 through early 1986 and
+   historical data were reviewed.  Initially this study tested the
+   hypothesis that predation by wolves (Canis lupus) was limiting moose
+   population growth.  When reductions in wolf densities failed to greatly
+   increase calf moose survival, we attempted to directly identify and
+   quantify causes of calf and adult moose mortality.  Concurrently, we
+   sought to quantify movements, habitat use, productivity, and the
+   effects of severe winters.  Lastly, we tested the hypothesis that
+   predation by brown bears (Ursus arctos) was limiting moose population
+   growth.
+   During 1976 through 1985, 218 neonates, 61 calves 5-10 months of age,
+   and 184 adults were captured and either radio collared or equipped with
+   visual collars.  The moose population was estimated at 710 moose/1,000
+   km2 in 1980, and at 844 moose/1,000 km2 in 1983 (lambda = 1.06). 
+   Average age of adult cow moose was 7.7 years.  Pregnancy rates averaged
+   81%.  Twinning rates averaged 38%.  Parturition occurred between 18 May
+   and mid-June.  Overall, calf sex ratios were not different from 1:1
+   except in 1977 when males predominated.
+   Survival through 5 months of age averaged 39% with twin and single
+   calves having similar survival rates.  Predation accounted for 83% of
+   total mortality among neonates.  Ninety-six percent of natural
+   mortality occurred during the first 6 weeks of life with brown bears
+   accounting for 73% of the mortality.  During severe winters, males 6-12
+   months of age had lower survival rates than females of similar ages. 
+   Annual calf survival rates averaged 94% and 31% for females and males,
+   respectively.  Yearling and adult female annual survival rates averaged
+   94 and 95%, respectively.  Bulls > 2 years of age had low rates of
+   natural (excluding hunting) mortality.
+   Average size of moose groups containing radio-collared individuals was
+   greatest in October and lowest in August.  Major periods of moose
+   movement occurred during automn and spring migration and during rut
+   (late Sep-Oct).  Total home range sizes for migratory moose averaged
+   505 km2, whereas those for resident moose averaged 290 km2.  Nine of 15
+   radio-collared offspring (mean age = 14 months) partially or fully
+   dispersed from the cow's home range.  Males dispersed more frequently
+   and had larger home ranges than females.
+   Spruce (Picea spp.) and willow (Salix spp.) vegetation types were used
+   disproportionately more than their availability.  During winter, areas
+   with relatively low browse biomass were heavily used by moose, because
+   browse was more available due to shallow snow depths.
+C1 ALASKA DEPT FISH & GAME,NOME,AK 99762.
+   ALASKA DEPT FISH & GAME,MCGRATH,AK 99627.
+   ALASKA DEPT FISH & GAME,FAIRBANKS,AK 99701.
+NR 104
+TC 35
+PU WILDLIFE SOC
+PI BETHESDA
+PA 5410 GROSVENOR LANE, BETHESDA, MD 20814-2197
+SN 0084-0173
+J9 WILDLIFE MONOGR
+JI Wildl. Monogr.
+PD JAN
+PY 1991
+IS 114
+BP 1
+EP 49
+PG 49
+SC Ecology; Zoology
+GA EW187
+UT ISI:A1991EW18700001
+ER
+
+PT J
+AU DELGIUDICE, GD
+   DUQUETTE, LS
+   SEAL, US
+   MECH, LD
+TI VALIDATION OF ESTIMATING FOOD-INTAKE IN GRAY WOLVES BY NA-22 TURNOVER
+SO JOURNAL OF WILDLIFE MANAGEMENT
+LA English
+DT Article
+ID CONSUMPTION; WATER; BLOOD; CYCLE; WOLF
+AB We studied sodium-22 (Na-22) turnover as a means of estimating food
+   intake in 6 captive, adult gray wolves (Canis lupus) (2 F, 4 M) over a
+   31-day feeding period.  Wolves were fed white-tailed deer (Odocoileus
+   virginianus) meat only.  Mean mass-specific exchangeable Na pool was
+   44.8 +/- 0.7 mEq/kg; there was no difference between males and females.
+    Total exchangeable Na was related (r2 = 0.85, P < 0.009) to body mass.
+    Overall, Na-22 turnover overestimated Na intake by 9.8 +/- 2.4% after
+   32 days.  Actual Na intake was similar in males and females; however,
+   Na turnover (P < 0.05) and the discrepancy (P < 0.01) between turnover
+   and actual Na intake were greater in females than males.  From Day 8 to
+   the end of the study, the absolute difference (mEq) between Na intake
+   and Na turnover remained stable.  Sodium turnover (mEq/kg/day) was a
+   reliable (r2 = 0.91, P < 0.001) estimator of food consumption
+   (g/kg/day) in wolves over a 32-day period.  Sampling blood and weighing
+   wolves every 1-4 days permitted identification of several potential
+   sources of error, including changes in size of exchangeable Na pools,
+   exchange of Na-22 with gastrointestinal and bone Na, and rapid loss of
+   the isotope by urinary excretion.
+C1 UNIV MINNESOTA,DEPT APPL RES,ST PAUL,MN 55108.
+   UNIV WESTERN ONTARIO,DEPT ZOOL,LONDON N6A 5B7,ONTARIO,CANADA.
+   VET AFFAIRS MED CTR,RES SERV,MINNEAPOLIS,MN 55417.
+   UNIV MINNESOTA,DEPT BIOCHEM,ST PAUL,MN 55108.
+   US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+NR 36
+TC 1
+PU WILDLIFE SOC
+PI BETHESDA
+PA 5410 GROSVENOR LANE, BETHESDA, MD 20814-2197
+SN 0022-541X
+J9 J WILDLIFE MANAGE
+JI J. Wildl. Manage.
+PD JAN
+PY 1991
+VL 55
+IS 1
+BP 59
+EP 71
+PG 13
+SC Ecology; Zoology
+GA EV568
+UT ISI:A1991EV56800007
+ER
+
+PT J
+AU BALLARD, WB
+   AYRES, LA
+   RONEY, KE
+   SPRAKER, TH
+TI IMMOBILIZATION OF GRAY WOLVES WITH A COMBINATION OF TILETAMINE
+   HYDROCHLORIDE AND ZOLAZEPAM HYDROCHLORIDE
+SO JOURNAL OF WILDLIFE MANAGEMENT
+LA English
+DT Article
+ID BEARS; WILD
+AB We immobilized 51 free-ranging gray wolves (Canis lupus) with a
+   combination of tiletamine hydrochloride and zolazepam hydrochloride. 
+   Effective initial dose was 400 mg (xBAR = 10.4 +/- 0.6 [SE] mg/kg of
+   body mass).  Mean induction and recovery times were 7.2 +/- 1.4 minutes
+   and 144 +/- 35 minutes, respectively.  We did not observe adverse
+   effects.
+C1 ALASKA DEPT FISH & GAME,NOME,AK 99762.
+   NATL PK SERV,NW ALASKA AREAS,KOTZEBUE,AK 99752.
+NR 12
+TC 29
+PU WILDLIFE SOC
+PI BETHESDA
+PA 5410 GROSVENOR LANE, BETHESDA, MD 20814-2197
+SN 0022-541X
+J9 J WILDLIFE MANAGE
+JI J. Wildl. Manage.
+PD JAN
+PY 1991
+VL 55
+IS 1
+BP 71
+EP 74
+PG 4
+SC Ecology; Zoology
+GA EV568
+UT ISI:A1991EV56800008
+ER
+
+PT J
+AU COSCIA, EM
+   PHILLIPS, DP
+   FENTRESS, JC
+TI DEN VOCALIZATIONS OF WOLF PUPS (CANIS-LUPUS) DURING THE 1ST 5 POSTNATAL
+   WEEKS
+SO AMERICAN ZOOLOGIST
+LA English
+DT Meeting Abstract
+C1 DALHOUSIE UNIV,HALIFAX B3H 4H2,NS,CANADA.
+NR 0
+TC 0
+PU AMER SOC ZOOLOGISTS
+PI LAWRENCE
+PA 1041 NEW HAMPSHIRE ST, LAWRENCE, KS 66044
+SN 0003-1569
+J9 AMER ZOOL
+JI Am. Zool.
+PY 1990
+VL 30
+IS 4
+BP A103
+EP A103
+PG 1
+SC Zoology
+GA EK700
+UT ISI:A1990EK70000412
+ER
+
+PT J
+AU PHILLIPS, DP
+   DANILCHUK, W
+   RYON, J
+   FENTRESS, JC
+TI STEREOTYPY OF ACTION SEQUENCE IN FOOD CACHING BY WOLVES (CANIS-LUPUS)
+   AND COYOTES (CANIS-LATRANS)
+SO AMERICAN ZOOLOGIST
+LA English
+DT Meeting Abstract
+C1 DALHOUSIE UNIV,HALIFAX B3H 4H2,NS,CANADA.
+NR 0
+TC 0
+PU AMER SOC ZOOLOGISTS
+PI LAWRENCE
+PA 1041 NEW HAMPSHIRE ST, LAWRENCE, KS 66044
+SN 0003-1569
+J9 AMER ZOOL
+JI Am. Zool.
+PY 1990
+VL 30
+IS 4
+BP A107
+EP A107
+PG 1
+SC Zoology
+GA EK700
+UT ISI:A1990EK70000427
+ER
+
+PT J
+AU KREEGER, TJ
+   SEAL, US
+   CALLAHAN, M
+   BECKEL, M
+TI TREATMENT AND PREVENTION WITH IVERMECTIN OF DIROFILARIASIS AND
+   ANCYLOSTOMIASIS IN CAPTIVE GRAY WOLVES (CANIS-LUPUS)
+SO JOURNAL OF ZOO AND WILDLIFE MEDICINE
+LA English
+DT Article
+C1 VET ADM MED CTR,RES SERV,MINNEAPOLIS,MN 55417.
+RP KREEGER, TJ, UNIV MINNESOTA,DEPT ECOL & BEHAV BIOL,MINNEAPOLIS,MN 55455.
+NR 33
+TC 7
+PU AMER ASSOC Z00 VETERINARIANS
+PI MEDIA
+PA 6 NORTH PENNELL ROAD, MEDIA, PA 19063
+SN 1042-7260
+J9 J ZOO WILDLIFE MED
+JI J. Zoo Wildl. Med.
+PD SEP
+PY 1990
+VL 21
+IS 3
+BP 310
+EP 317
+PG 8
+SC Veterinary Sciences
+GA EE759
+UT ISI:A1990EE75900007
+ER
+
+PT J
+AU TOOZE, ZJ
+   HARRINGTON, FH
+   FENTRESS, JC
+TI INDIVIDUALLY DISTINCT VOCALIZATIONS IN TIMBER WOLVES, CANIS-LUPUS
+SO ANIMAL BEHAVIOUR
+LA English
+DT Article
+C1 DALHOUSIE UNIV,DEPT BIOL,HALIFAX B3K 2JI,NS,CANADA.
+   MT ST VINCENT UNIV,DEPT PSYCHOL,HALIFAX B3M 2J6,NS,CANADA.
+NR 34
+TC 45
+PU ACADEMIC PRESS LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON, ENGLAND NW1 7DX
+SN 0003-3472
+J9 ANIM BEHAV
+JI Anim. Behav.
+PD OCT
+PY 1990
+VL 40
+PN Part 4
+BP 723
+EP 730
+PG 8
+SC Behavioral Sciences; Zoology
+GA ED927
+UT ISI:A1990ED92700011
+ER
+
+PT J
+AU HELL, P
+TI THE WOLF (CANIS LUPUS) IN THE CARPATHIAN MOUNTAINS IN SLOVAKIA
+SO ZEITSCHRIFT FUR JAGDWISSENSCHAFT
+LA German
+DT Article
+RP HELL, P, VYSKUMNY USTAV LESNEHO HOSPODARSTVA ZVOLEN,MARXOVA 22,CS-96092
+   ZVOLEN,CZECHOSLOVAKIA.
+NR 0
+TC 1
+PU BLACKWELL WISSENSCHAFTS-VERLAG GMBH
+PI BERLIN
+PA KURFURSTENDAMM 57, D-10707 BERLIN, GERMANY
+SN 0044-2887
+J9 Z JAGDWISS
+JI Z. Jagdwiss.
+PD SEP
+PY 1990
+VL 36
+IS 3
+BP 160
+EP 168
+PG 9
+SC Zoology
+GA EB803
+UT ISI:A1990EB80300003
+ER
+
+PT J
+AU BJORGE, RR
+   GUNSON, JR
+TI WOLF, CANIS-LUPUS, POPULATION CHARACTERISTICS AND PREY RELATIONSHIPS
+   NEAR SIMONETTE RIVER, ALBERTA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+RP BJORGE, RR, ALBERTA FISH & WILDLIFE DIV,4901-48 ST,RED DEER
+   T4N6M4,ALBERTA,CANADA.
+NR 0
+TC 15
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JUL-SEP
+PY 1989
+VL 103
+IS 3
+BP 327
+EP 334
+PG 8
+SC Biodiversity Conservation; Ecology
+GA DV357
+UT ISI:A1989DV35700001
+ER
+
+PT J
+AU WHITE, PA
+   BOYD, DK
+TI A COUGAR, FELIS-CONCOLOR, KITTEN KILLED AND EATEN BY GRAY WOLVES,
+   CANIS-LUPUS, IN GLACIER-NATIONAL-PARK, MONTANA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+C1 UNIV MONTANA,SCH FORESTRY,WOLF ECOL PROJECT,MISSOULA,MT 59812.
+NR 0
+TC 7
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JUL-SEP
+PY 1989
+VL 103
+IS 3
+BP 408
+EP 409
+PG 2
+SC Biodiversity Conservation; Ecology
+GA DV357
+UT ISI:A1989DV35700019
+ER
+
+PT J
+AU VILA, C
+   URIOS, V
+   CASTROVIEJO, J
+TI POSSIBLE NOT MALE-DOMINATED INTERACTION AMONG IBERIAN WOLVES
+   (CANIS-LUPUS)
+SO MAMMALIA
+LA English
+DT Note
+RP VILA, C, ESTAC BIOL DONANA,APDO 1056,SEVILLE,SPAIN.
+NR 5
+TC 0
+PU MUSEUM NAT HIST NATURELLE
+PI PARIS
+PA 55 RUE DE BUFFON, 75005 PARIS, FRANCE
+SN 0025-1461
+J9 MAMMALIA
+JI Mammalia
+PY 1990
+VL 54
+IS 2
+BP 312
+EP 314
+PG 3
+SC Zoology
+GA DR387
+UT ISI:A1990DR38700019
+ER
+
+PT J
+AU DEKKER, D
+TI POPULATION FLUCTUATIONS AND SPATIAL RELATIONSHIPS AMONG WOLVES,
+   CANIS-LUPUS, COYOTES, CANIS-LATRANS, AND RED FOXES, VULPES-VULPES, IN
+   JASPER-NATIONAL-PARK, ALBERTA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+NR 0
+TC 18
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD APR-JUN
+PY 1989
+VL 103
+IS 2
+BP 261
+EP 264
+PG 4
+SC Biodiversity Conservation; Ecology
+GA DQ488
+UT ISI:A1989DQ48800016
+ER
+
+PT J
+AU KREEGER, TJ
+   KUECHLE, VB
+   MECH, LD
+   TESTER, JR
+   SEAL, US
+TI PHYSIOLOGICAL MONITORING OF GRAY WOLVES (CANIS-LUPUS) BY RADIOTELEMETRY
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Note
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+   VET ADM MED CTR,MINNEAPOLIS,MN 55417.
+RP KREEGER, TJ, UNIV MINNESOTA,DEPT ECOL & BEHAV BIOL,MINNEAPOLIS,MN 55455.
+NR 11
+TC 8
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PD MAY
+PY 1990
+VL 71
+IS 2
+BP 258
+EP 261
+PG 4
+SC Zoology
+GA DF548
+UT ISI:A1990DF54800023
+ER
+
+PT J
+AU KREEGER, TJ
+   SEAL, US
+   CALLAHAN, M
+   BECKEL, M
+TI PHYSIOLOGICAL AND BEHAVIORAL-RESPONSES OF GRAY WOLVES (CANIS-LUPUS) TO
+   IMMOBILIZATION WITH TILETAMINE AND ZOLAZEPAM
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+C1 VET ADM MED CTR,MINNEAPOLIS,MN 55417.
+RP KREEGER, TJ, UNIV MINNESOTA,DEPT ECOL & BEHAV BIOL,MINNEAPOLIS,MN 55455.
+NR 13
+TC 25
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD JAN
+PY 1990
+VL 26
+IS 1
+BP 90
+EP 94
+PG 5
+SC Veterinary Sciences
+GA CN489
+UT ISI:A1990CN48900014
+ER
+
+PT J
+AU RYABOV, LS
+TI FEATURES OF REPRODUCTION OF WOLVES (CANIS-LUPUS) IN THE CENTRAL
+   CHERNOZEM REGION
+SO SOVIET JOURNAL OF ECOLOGY
+LA English
+DT Article
+RP RYABOV, LS, VORONEZH PEDAGOL INST,VORONEZH,USSR.
+NR 0
+TC 0
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA CONSULTANTS BUREAU 233 SPRING ST, NEW YORK, NY 10013
+SN 0096-7807
+J9 SOV J ECOL-ENGL TR
+PD NOV-DEC
+PY 1988
+VL 19
+IS 6
+BP 344
+EP 350
+PG 7
+SC Ecology
+GA AR573
+UT ISI:A1988AR57300008
+ER
+
+PT J
+AU YUDIN, VG
+TI THE DENTAL SYSTEM OF CANIS-LUPUS (CARNIVORA, CANIDAE) FROM THE FAR-EAST
+   OF THE USSR
+SO ZOOLOGICHESKY ZHURNAL
+LA Russian
+DT Article
+RP YUDIN, VG, ACAD SCI USSR,FAR E SCI CTR,FAR E SCI CTR,VLADIVOSTOK,USSR.
+NR 16
+TC 3
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0044-5134
+J9 ZOOL ZH
+JI Zool. Zhurnal
+PD AUG
+PY 1989
+VL 68
+IS 8
+BP 115
+EP 123
+PG 9
+SC Zoology
+GA AN970
+UT ISI:A1989AN97000013
+ER
+
+PT J
+AU GENOV, P
+TI THE WOLF (CANIS-LUPUS L) IN BULGARIA - DISTRIBUTION, POPULATION AND
+   POSITION IN NATURE
+SO ZEITSCHRIFT FUR JAGDWISSENSCHAFT
+LA German
+DT Article
+NR 0
+TC 1
+PU BLACKWELL WISSENSCHAFTS-VERLAG GMBH
+PI BERLIN
+PA KURFURSTENDAMM 57, D-10707 BERLIN, GERMANY
+SN 0044-2887
+J9 Z JAGDWISS
+JI Z. Jagdwiss.
+PD MAR
+PY 1989
+VL 35
+IS 1
+BP 6
+EP 11
+PG 6
+SC Zoology
+GA U0018
+UT ISI:A1989U001800002
+ER
+
+PT J
+AU POSPISIL, J
+   VAHALA, J
+   SPALA, P
+   KASE, F
+TI HEMATOLOGICAL AND BIOCHEMICAL VALUES IN THE PERIPHERAL-BLOOD OF WOLVES
+   CANIS-LUPUS KEPT IN THE EAST-BOHEMIAN ZOOLOGICAL GARDEN AT DVUR-KRALOVE
+   NAD LABEM
+SO ACTA VETERINARIA BRNO
+LA English
+DT Article
+RP POSPISIL, J, E BOHEMIAN ZOOL GARDEN,CS-55401 DVUR KRALOVE
+   LAB,CZECHOSLOVAKIA.
+NR 0
+TC 1
+PU VYSOKA SKOLA VETERINARNI FARMACEUTICKA
+PI BRNO 12
+PA PALACKEHO 1-3, BRNO 12, CZECH REPUBLIC 612-42
+SN 0001-7213
+J9 ACTA VET BRNO
+JI Acta Vet. BRNO
+PD SEP
+PY 1987
+VL 56
+IS 3
+BP 361
+EP 375
+PG 15
+SC Veterinary Sciences
+GA P9922
+UT ISI:A1987P992200012
+ER
+
+PT J
+AU KAZMIERCZAK, JJ
+   BURGESS, EC
+   AMUNDSON, TE
+TI SUSCEPTIBILITY OF THE GRAY WOLF (CANIS-LUPUS) TO INFECTION WITH THE
+   LYME-DISEASE AGENT, BORRELIA-BURGDORFERI
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+C1 WISCONSIN DEPT NAT RESOURCES,MADISON,WI 53707.
+RP KAZMIERCZAK, JJ, UNIV WISCONSIN,SCH VET MED,DEPT MED SCI,MADISON,WI
+   53706.
+NR 22
+TC 9
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD JUL
+PY 1988
+VL 24
+IS 3
+BP 522
+EP 527
+PG 6
+SC Veterinary Sciences
+GA P5576
+UT ISI:A1988P557600017
+ER
+
+PT J
+AU HAYES, RD
+   MOSSOP, DH
+TI INTERACTIONS OF WOLVES, CANIS-LUPUS, AND BROWN BEARS, URSUS-ARCTOS, AT
+   A WOLF DEN IN THE NORTHERN YUKON
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+RP HAYES, RD, GOVT YUKON,DEPT RENEWABLE RESOURCES,YUKON FISH & WILDLIFE
+   BRANCH,BOX 2703,WHITEHORSE Y1A 2C6,YUKON TERR,CANADA.
+NR 0
+TC 3
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD OCT-DEC
+PY 1987
+VL 101
+IS 4
+BP 603
+EP 604
+PG 2
+SC Biodiversity Conservation; Ecology
+GA P4652
+UT ISI:A1987P465200021
+ER
+
+PT J
+AU LUKAREVSKY, VS
+TI FEEDING OF LEOPARD (PANTHERA-PARDUS), STRIPED HYENA (HYAENA-HYAENA) AND
+   WOLF (CANIS-LUPUS) IN THE SOUTHWEST KOPPEH DAGH
+SO ZOOLOGICHESKY ZHURNAL
+LA Russian
+DT Article
+RP LUKAREVSKY, VS, SYUNT HASARDAGH RESERVE,KARA KALA,TURKMENISTAN,USSR.
+NR 6
+TC 2
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0044-5134
+J9 ZOOL ZH
+JI Zool. Zhurnal
+PD FEB
+PY 1988
+VL 67
+IS 2
+BP 310
+EP 314
+PG 5
+SC Zoology
+GA M3526
+UT ISI:A1988M352600019
+ER
+
+PT J
+AU FROMMOLT, KH
+   KAAL, MI
+   PASCHINA, NM
+   NIKOLSKIJ, AA
+TI SOUND DEVELOPMENT OF THE WOLF (CANIS-LUPUS L, CANIDAE L) DURING THE
+   POSTNATAL ONTOGENY
+SO ZOOLOGISCHE JAHRBUCHER-ABTEILUNG FUR ALLGEMEINE ZOOLOGIE UND
+   PHYSIOLOGIE DER TIERE
+LA German
+DT Article
+C1 MV LOMONOSOV STATE UNIV,DEPT COMPARAT ANAT & ANIM VERTEBRATE ZOOL,MOSCOW 117234,USSR.
+RP FROMMOLT, KH, HUMBOLDT UNIV,BEREICH VERHALTENSWISSENSCH,SEKT
+   BIOL,INVALIDENSTR 43,DDR-1040 BERLIN,GER DEM REP.
+NR 39
+TC 3
+PU GUSTAV FISCHER VERLAG JENA
+PI JENA
+PA VILLENGANG 2, D-07745 JENA, GERMANY
+SN 0044-5185
+J9 ZOOL JAHRB ABT ALLG ZOOL PHYS
+PY 1988
+VL 92
+IS 1
+BP 105
+EP 115
+PG 11
+SC Zoology
+GA M3281
+UT ISI:A1988M328100006
+ER
+
+PT J
+AU CRETE, M
+   MESSIER, F
+TI EVALUATION OF INDEXES OF GRAY WOLF, CANIS-LUPUS, DENSITY IN
+   HARDWOOD-CONIFER FORESTS OF SOUTHWESTERN QUEBEC
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+RP CRETE, M, MINIST LOISIR CHASSE & PECHE,DIRECT FAUNE TERR,150 BLVD ST
+   CYRILLE E,QUEBEC CITY G1R 4YI,QUEBEC,CANADA.
+NR 0
+TC 11
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD APR-JUN
+PY 1987
+VL 101
+IS 2
+BP 147
+EP 152
+PG 6
+SC Biodiversity Conservation; Ecology
+GA K9695
+UT ISI:A1987K969500004
+ER
+
+PT J
+AU KALETSKAYA, ML
+   FILONOV, KP
+TI PACK CHARACTERISTICS OF WOLF (CANIS, LUPUS) IN DARWIN RESERVE
+SO ZOOLOGICHESKY ZHURNAL
+LA Russian
+DT Article
+C1 ACAD SCI USSR,INST ANIM EVOLUT MORPHOL & ECOL,MOSCOW V-71,USSR.
+RP KALETSKAYA, ML, DARWIN RESERVE,BOROK,USSR.
+NR 15
+TC 0
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0044-5134
+J9 ZOOL ZH
+JI Zool. Zhurnal
+PD AUG
+PY 1987
+VL 66
+IS 8
+BP 1230
+EP 1238
+PG 9
+SC Zoology
+GA K9627
+UT ISI:A1987K962700012
+ER
+
+PT J
+AU ASA, CS
+   SEAL, US
+   LETELLIER, M
+   PLOTKA, ED
+   PETERSON, EK
+TI PINEALECTOMY OR SUPERIOR CERVICAL GANGLIONECTOMY DO NOT ALTER
+   REPRODUCTION IN THE WOLF (CANIS-LUPUS)
+SO BIOLOGY OF REPRODUCTION
+LA English
+DT Article
+C1 THEDA CLARK MED CTR,NEENAH,WI 54956.
+   VET ADM MED CTR,MED RES SERV,MINNEAPOLIS,MN 55417.
+   UNIV MINNESOTA,DEPT BIOCHEM,ST PAUL,MN 55101.
+   UNIV MINNESOTA,DEPT ANAT,MINNEAPOLIS,MN 55455.
+   MARSHFIELD MED FDN INC,MARSHFIELD,WI 54449.
+NR 17
+TC 6
+PU SOC STUDY REPRODUCTION
+PI MADISON
+PA 1603 MONROE ST, MADISON, WI 53711-2021
+SN 0006-3363
+J9 BIOL REPROD
+JI Biol. Reprod.
+PD AUG
+PY 1987
+VL 37
+IS 1
+BP 14
+EP 21
+PG 8
+SC Reproductive Biology
+GA J7276
+UT ISI:A1987J727600003
+ER
+
+PT J
+AU SALVADOR, A
+   ABAD, PL
+TI FOOD-HABITS OF A WOLF POPULATION (CANIS-LUPUS) IN LEON PROVINCE, SPAIN
+SO MAMMALIA
+LA English
+DT Article
+RP SALVADOR, A, UNIV LEON,FAC BIOL,DEPT BIOL ANIM,E-24071 LEON,SPAIN.
+NR 14
+TC 31
+PU MUSEUM NAT HIST NATURELLE
+PI PARIS
+PA 55 RUE DE BUFFON, 75005 PARIS, FRANCE
+SN 0025-1461
+J9 MAMMALIA
+JI Mammalia
+PY 1987
+VL 51
+IS 1
+BP 45
+EP 52
+PG 8
+SC Zoology
+GA J4166
+UT ISI:A1987J416600004
+ER
+
+PT J
+AU DEKKER, D
+TI WOLF, CANIS-LUPUS, NUMBERS AND COLOR PHASES IN JASPER NATIONAL-PARK,
+   ALBERTA - 1965-1984
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+NR 0
+TC 5
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD OCT-DEC
+PY 1986
+VL 100
+IS 4
+BP 550
+EP 553
+PG 4
+SC Biodiversity Conservation; Ecology
+GA G5202
+UT ISI:A1986G520200014
+ER
+
+PT J
+AU JENSEN, WF
+   FULLER, TK
+   ROBINSON, WL
+TI WOLF, CANIS-LUPUS, DISTRIBUTION ON THE ONTARIO MICHIGAN BORDER NEAR
+   SAULT-STE-MARIE
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+RP JENSEN, WF, NO MICHIGAN UNIV,DEPT BIOL,MARQUETTE,MI 49855.
+NR 0
+TC 36
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JUL-SEP
+PY 1986
+VL 100
+IS 3
+BP 363
+EP 366
+PG 4
+SC Biodiversity Conservation; Ecology
+GA F5971
+UT ISI:A1986F597100009
+ER
+
+PT J
+AU PAQUET, PC
+   CARBYN, LN
+TI WOLVES, CANIS-LUPUS, KILLING DENNING BLACK BEARS, URSUS-AMERICANUS, IN
+   THE RIDING-MOUNTAIN-NATIONAL-PARK AREA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+RP PAQUET, PC, UNIV ALBERTA,DEPT ZOOL,EDMONTON T6G 2E9,ALBERTA,CANADA.
+NR 0
+TC 12
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JUL-SEP
+PY 1986
+VL 100
+IS 3
+BP 371
+EP 372
+PG 2
+SC Biodiversity Conservation; Ecology
+GA F5971
+UT ISI:A1986F597100011
+ER
+
+PT J
+AU HORNBECK, GE
+   HOREJSI, BL
+TI GRIZZLY BEAR, URSUS-ARCTOS, USURPS WOLF, CANIS-LUPUS, KILL
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+RP HORNBECK, GE, WESTERN WILDLIFE ENVIRONM CONSULTING LTD,POB 3129,STN
+   B,CALGARY T2M 4L7,ALBERTA,CANADA.
+NR 0
+TC 6
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD APR-JUN
+PY 1986
+VL 100
+IS 2
+BP 259
+EP 260
+PG 2
+SC Biodiversity Conservation; Ecology
+GA E3108
+UT ISI:A1986E310800019
+ER
+
+PT J
+AU HOEFS, M
+   HOEFS, H
+   BURLES, D
+TI OBSERVATIONS ON DALL SHEEP, OVIS-DALLI DALLI-GRAY WOLF, CANIS-LUPUS
+   PAMBASILEUS, INTERACTIONS IN THE KLUANE LAKE AREA, YUKON
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+RP HOEFS, M, YUKON WILDLIFE BRANCH,POB 2703,WHITEHORSE Y1A 2C6,YUKON
+   TERR,CANADA.
+NR 0
+TC 2
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PD JAN-MAR
+PY 1986
+VL 100
+IS 1
+BP 78
+EP 84
+PG 7
+SC Biodiversity Conservation; Ecology
+GA D5876
+UT ISI:A1986D587600012
+ER
+
+PT J
+AU RYON, J
+   FENTRESS, JC
+   HARRINGTON, FH
+   BRAGDON, S
+TI SCENT RUBBING IN WOLVES (CANIS-LUPUS) - THE EFFECT OF NOVELTY
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+C1 DALHOUSIE UNIV,DEPT BIOL,HALIFAX B3H 4J1,NS,CANADA.
+   UNIV MICHIGAN,SCH LAW,ANN ARBOR,MI 48109.
+   MT ST VINCENT UNIV,DEPT PSYCHOL,HALIFAX B3M 2J6,NS,CANADA.
+RP RYON, J, DALHOUSIE UNIV,DEPT PSYCHOL,HALIFAX B3H 4J1,NS,CANADA.
+NR 19
+TC 4
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PD MAR
+PY 1986
+VL 64
+IS 3
+BP 573
+EP 577
+PG 5
+SC Zoology
+GA A7113
+UT ISI:A1986A711300003
+ER
+
+PT J
+AU MECH, LD
+   GOYAL, SM
+   BOTA, CN
+   SEAL, US
+TI CANINE PARVOVIRUS INFECTION IN WOLVES (CANIS-LUPUS) FROM MINNESOTA
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Note
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD.
+   UNIV MINNESOTA,COLL VET MED,ST PAUL,MN 55108.
+   VET ADM MED CTR,MINNEAPOLIS,MN 55417.
+   UNIV MINNESOTA,SCH PUBL HLTH,MINNEAPOLIS,MN 55455.
+NR 10
+TC 19
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PD JAN
+PY 1986
+VL 22
+IS 1
+BP 104
+EP 106
+PG 3
+SC Veterinary Sciences
+GA AYW57
+UT ISI:A1986AYW5700017
+ER
+
+PT J
+AU REAM, RR
+   HARRIS, RB
+   SMITH, J
+   BOYD, D
+TI MOVEMENT PATTERNS OF A LONE WOLF, CANIS-LUPUS, IN UNOCCUPIED WOLF
+   RANGE, SOUTHEASTERN BRITISH-COLUMBIA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+C1 UNIV MONTANA,MONTANA COOPERAT WILDLIFE RES UNIT,MISSOULA,MT 59812.
+RP REAM, RR, UNIV MONTANA,SCH FORESTRY,MISSOULA,MT 59812.
+NR 16
+TC 5
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PY 1985
+VL 99
+IS 2
+BP 234
+EP 239
+PG 6
+SC Biodiversity Conservation; Ecology
+GA ARF74
+UT ISI:A1985ARF7400013
+ER
+
+PT J
+AU NIKOLSKII, AA
+   FROMMOLT, KH
+TI AUTOMATIC RECORDING OF THE GROUP HOWLING OF WOLVES (CANIS-LUPUS) IN
+   EXPERIMENTAL CONDITIONS
+SO ZOOLOGICHESKY ZHURNAL
+LA Russian
+DT Article
+RP NIKOLSKII, AA, MV LOMONOSOV STATE UNIV,FAC BIOL,MOSCOW 117234,USSR.
+NR 4
+TC 1
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0044-5134
+J9 ZOOL ZH
+JI Zool. Zhurnal
+PY 1985
+VL 64
+IS 7
+BP 1084
+EP 1089
+PG 6
+SC Zoology
+GA ANZ78
+UT ISI:A1985ANZ7800014
+ER
+
+PT J
+AU ASA, CS
+   MECH, LD
+   SEAL, US
+TI THE USE OF URINE, FECES, AND ANAL-GLAND SECRETIONS IN SCENT-MARKING BY
+   A CAPTIVE WOLF (CANIS-LUPUS) PACK
+SO ANIMAL BEHAVIOUR
+LA English
+DT Note
+C1 US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+   VET ADM MED CTR,RES SERV,MINNEAPOLIS,MN 55417.
+RP ASA, CS, UNIV MINNESOTA,DEPT BIOCHEM,ST PAUL,MN 55108.
+NR 5
+TC 22
+PU ACADEMIC PRESS LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON, ENGLAND NW1 7DX
+SN 0003-3472
+J9 ANIM BEHAV
+JI Anim. Behav.
+PY 1985
+VL 33
+IS AUG
+BP 1034
+EP 1036
+PG 3
+SC Behavioral Sciences; Zoology
+GA ANS43
+UT ISI:A1985ANS4300043
+ER
+
+PT J
+AU PULLIAINEN, E
+TI THE EXPANSION MECHANISM OF THE WOLF (CANIS-LUPUS) IN NORTHERN EUROPE
+SO REVUE D ECOLOGIE-LA TERRE ET LA VIE
+LA English
+DT Article
+C1 UNIV HELSINKI,VARRIO SUBARCT RES STN,SF-00170 HELSINKI 17,FINLAND.
+RP PULLIAINEN, E, UNIV OULU,DEPT ZOOL,SF-90570 OULU 57,FINLAND.
+NR 13
+TC 5
+PU SOC NATL PROTECTION NATURE ACCLIMATATION FRANCE
+PI PARIS 5
+PA 57 RUE CUVIER, 75005 PARIS 5, FRANCE
+SN 0249-7395
+J9 REV ECOL-TERRE VIE
+JI Rev. Ecol.-Terre Vie
+PY 1985
+VL 40
+IS 2
+BP 157
+EP 162
+PG 6
+SC Ecology
+GA AME17
+UT ISI:A1985AME1700006
+ER
+
+PT J
+AU ADAMOVICH, VL
+TI RABIES IN WOLVES (CANIS-LUPUS) IN THE CENTRAL PART OF THE RUSSIAN VALLEY
+SO ZOOLOGICHESKY ZHURNAL
+LA Russian
+DT Article
+RP ADAMOVICH, VL, BRYANSK DIST SANIT & EPIDEMIOL STN,BRYANSK,USSR.
+NR 30
+TC 0
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0044-5134
+J9 ZOOL ZH
+JI Zool. Zhurnal
+PY 1985
+VL 64
+IS 4
+BP 590
+EP 599
+PG 10
+SC Zoology
+GA AHF63
+UT ISI:A1985AHF6300012
+ER
+
+PT J
+AU ANDRIASHEK, D
+   KILIAAN, HPL
+   TAYLOR, MK
+TI OBSERVATIONS ON FOXES, ALOPEX-LAGOPUS AND VULPES-VULPES, AND WOLVES,
+   CANIS-LUPUS, ON THE OFF-SHORE SEA ICE OF NORTHERN LABRADOR
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+C1 UNIV BRITISH COLUMBIA,FAC FORESTRY,VANCOUVER V6T 1W5,BC,CANADA.
+RP ANDRIASHEK, D, CANADIAN WILDLIFE SERV,5320-122 ST,EDMONTON T6H
+   3S5,ALBERTA,CANADA.
+NR 7
+TC 11
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PY 1985
+VL 99
+IS 1
+BP 86
+EP 89
+PG 4
+SC Biodiversity Conservation; Ecology
+GA AHC58
+UT ISI:A1985AHC5800013
+ER
+
+PT J
+AU DEKKER, D
+TI RESPONSES OF WOLVES, CANIS-LUPUS, TO SIMULATED HOWLING ON A HOMESITE
+   DURING FALL AND WINTER IN JASPER-NATIONAL-PARK, ALBERTA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+NR 6
+TC 5
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PY 1985
+VL 99
+IS 1
+BP 90
+EP 93
+PG 4
+SC Biodiversity Conservation; Ecology
+GA AHC58
+UT ISI:A1985AHC5800014
+ER
+
+PT J
+AU HAVKIN, Z
+   FENTRESS, JC
+TI THE FORM OF COMBATIVE STRATEGY IN INTERACTIONS AMONG WOLF PUPS
+   (CANIS-LUPUS)
+SO ZEITSCHRIFT FUR TIERPSYCHOLOGIE-JOURNAL OF COMPARATIVE ETHOLOGY
+LA English
+DT Article
+C1 DALHOUSIE UNIV,DEPT PSYCHOL,HALIFAX B3H 4J1,NS,CANADA.
+NR 38
+TC 13
+PU VERLAG PAUL PAREY
+PI HAMBURG 1
+PA SPITALERST. 12, D-2000 HAMBURG 1, GERMANY
+SN 0044-3573
+J9 Z TIERPSYCHOL-J COMP ETHOL
+PY 1985
+VL 68
+IS 3
+BP 177
+EP 200
+PG 24
+SC Behavioral Sciences; Zoology
+GA AEY46
+UT ISI:A1985AEY4600001
+ER
+
+PT J
+AU ASA, CS
+   PETERSON, EK
+   SEAL, US
+   MECH, LD
+TI DEPOSITION OF ANAL-SAC SECRETIONS BY CAPTIVE WOLVES (CANIS-LUPUS)
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Article
+C1 UNIV MINNESOTA,DEPT ANAT,MINNEAPOLIS,MN 55455.
+   VET ADM MED CTR,RES SERV,MINNEAPOLIS,MN 55417.
+   UNIV MINNESOTA,DEPT ENTOMOL FISHERIES & WILDLIFE,ST PAUL,MN 55108.
+   US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+RP ASA, CS, UNIV MINNESOTA,DEPT BIOCHEM,ST PAUL,MN 55108.
+NR 18
+TC 22
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PY 1985
+VL 66
+IS 1
+BP 89
+EP 93
+PG 5
+SC Zoology
+GA ACT56
+UT ISI:A1985ACT5600011
+ER
+
+PT J
+AU PACKARD, JM
+   SEAL, US
+   MECH, LD
+   PLOTKA, ED
+TI CAUSES OF REPRODUCTIVE FAILURE IN 2 FAMILY GROUPS OF WOLVES
+   (CANIS-LUPUS)
+SO ZEITSCHRIFT FUR TIERPSYCHOLOGIE-JOURNAL OF COMPARATIVE ETHOLOGY
+LA English
+DT Article
+C1 UNIV MINNESOTA,MINNEAPOLIS,MN 55455.
+   VET ADM MED CTR,MINNEAPOLIS,MN 55417.
+   US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+   MARSHFIELD MED FDN INC,MARSHFIELD,WI 54449.
+NR 35
+TC 45
+PU VERLAG PAUL PAREY
+PI HAMBURG 1
+PA SPITALERST. 12, D-2000 HAMBURG 1, GERMANY
+SN 0044-3573
+J9 Z TIERPSYCHOL-J COMP ETHOL
+PY 1985
+VL 68
+IS 1
+BP 24
+EP 40
+PG 17
+SC Behavioral Sciences; Zoology
+GA ACD59
+UT ISI:A1985ACD5900002
+ER
+
+PT J
+AU HOREJSI, BL
+   HORNBECK, GE
+   RAINE, RM
+TI WOLVES, CANIS-LUPUS, KILL FEMALE BLACK BEAR, URSUS-AMERICANUS, IN
+   ALBERTA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+RP HOREJSI, BL, WESTERN WILDLIFE ENVIRONM CONSULTING LTD,BOX 3129,STN
+   B,CALGARY T2M 4L7,ALBERTA,CANADA.
+NR 1
+TC 7
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PY 1984
+VL 98
+IS 3
+BP 368
+EP 369
+PG 2
+SC Biodiversity Conservation; Ecology
+GA TW570
+UT ISI:A1984TW57000012
+ER
+
+PT J
+AU MCNEILL, MA
+   RAU, ME
+   MESSIER, F
+TI HELMINTHS OF WOLVES (CANIS-LUPUS L) FROM SOUTHWESTERN QUEBEC
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Note
+C1 MCGILL UNIV,MACDONALD COLL,INST PARASITOL,ST ANNE BELLEVUE H9X 1C0,QUEBEC,CANADA.
+   UNIV BRITISH COLUMBIA,DEPT ANIM SCI,VANCOUVER V6T 1W5,BC,CANADA.
+NR 11
+TC 7
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PY 1984
+VL 62
+IS 8
+BP 1659
+EP 1660
+PG 2
+SC Zoology
+GA TH758
+UT ISI:A1984TH75800036
+ER
+
+PT J
+AU RAYMER, J
+   WIESLER, D
+   NOVOTNY, M
+   ASA, C
+   SEAL, US
+   MECH, LD
+TI VOLATILE CONSTITUENTS OF WOLF (CANIS-LUPUS) URINE AS RELATED TO GENDER
+   AND SEASON
+SO EXPERIENTIA
+LA English
+DT Note
+C1 INDIANA UNIV,DEPT CHEM,BLOOMINGTON,IN 47405.
+   VET ADM MED CTR,MINNEAPOLIS,MN 55417.
+   US FISH & WILDLIFE SERV,PATUXENT WILDLIFE RES CTR,LAUREL,MD 20708.
+NR 11
+TC 26
+PU BIRKHAUSER VERLAG AG
+PI BASEL
+PA PO BOX 133 KLOSTERBERG 23, CH-4010 BASEL, SWITZERLAND
+SN 0014-4754
+J9 EXPERIENTIA
+JI Experientia
+PY 1984
+VL 40
+IS 7
+BP 707
+EP 709
+PG 3
+SC Multidisciplinary Sciences
+GA TA390
+UT ISI:A1984TA39000016
+ER
+
+PT J
+AU AFIK, D
+   ALKON, PU
+TI MOVEMENTS OF A RADIO-COLLARED WOLF (CANIS-LUPUS-PALLIPES) IN THE NEGEV
+   HIGHLANDS, ISRAEL
+SO ISRAEL JOURNAL OF ZOOLOGY
+LA English
+DT Article
+C1 BEN GURION UNIV NEGEV,JACOB BLAUSTEIN INST DESERT RES,MITRANI DESERT ECOL CTR,IL-84990 SEDE BOQER,ISRAEL.
+   NAT RESERVES AUTHOR,IL-84990 SEDE BOQER,ISRAEL.
+NR 22
+TC 6
+PU LASER PAGES PUBL LTD
+PI JERUSALEM
+PA PO BOX 50257, JERUSALEM 91502, ISRAEL
+SN 0021-2210
+J9 ISR J ZOOL
+JI Isr. J. Zool.
+PY 1983
+VL 32
+IS 2-3
+BP 138
+EP 146
+PG 9
+SC Zoology
+GA SJ884
+UT ISI:A1983SJ88400006
+ER
+
+PT J
+AU BALLARD, WB
+   DAU, JR
+TI CHARACTERISTICS OF GRAY WOLF, CANIS-LUPUS, DEN AND RENDEZVOUS SITES IN
+   SOUTHCENTRAL ALASKA
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+RP BALLARD, WB, ALASKA DEPT FISH & GAME,POB 47,GLENNALLEN,AK 99588.
+NR 20
+TC 18
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PY 1983
+VL 97
+IS 3
+BP 299
+EP 302
+PG 4
+SC Biodiversity Conservation; Ecology
+GA SJ176
+UT ISI:A1983SJ17600007
+ER
+
+PT J
+AU BALLARD, WB
+   FARNELL, R
+   STEPHENSON, RO
+TI LONG-DISTANCE MOVEMENT BY GRAY WOLVES, CANIS-LUPUS
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+C1 YUKON GAME BRANCH,WHITEHORSE Y1A 2CA,YUKON TERR,CANADA.
+   ALASKA DEPT FISH & GAME,FAIRBANKS,AK 99701.
+RP BALLARD, WB, ALASKA DEPT FISH & GAME,POB 47,GLENNALLEN,AK 99588.
+NR 3
+TC 17
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PY 1983
+VL 97
+IS 3
+BP 333
+EP 333
+PG 1
+SC Biodiversity Conservation; Ecology
+GA SJ176
+UT ISI:A1983SJ17600020
+ER
+
+PT J
+AU WOBESER, G
+   RUNGE, W
+   STEWART, RR
+TI METORCHIS-CONJUNCTUS (COBBOLD, 1860) INFECTION IN WOLVES (CANIS-LUPUS),
+   WITH PANCREATIC INVOLVEMENT IN 2 ANIMALS
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+C1 DEPT TOURISM & RENEWABLE RESOURCES,PRINCE ALBERT S6V 1B5,SASKATCHEWAN,CANADA.
+   DEPT TOURISM & RENEWABLE RESOURCES,MELVILLE S0A 2P0,SASKATCHEWAN,CANADA.
+RP WOBESER, G, UNIV SASKATCHEWAN,WESTERN COLL VET MED,DEPT VET
+   PATHOL,SASKATOON S7N 0W0,SASKATCHEWAN,CANADA.
+NR 12
+TC 5
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PY 1983
+VL 19
+IS 4
+BP 353
+EP 356
+PG 4
+SC Veterinary Sciences
+GA RS667
+UT ISI:A1983RS66700013
+ER
+
+PT J
+AU SMITH, CA
+TI RESPONSES OF 2 GROUPS OF MOUNTAIN GOATS, OREAMNOS-AMERICANUS, TO A
+   WOLF, CANIS-LUPUS
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+RP SMITH, CA, ALASKA DEPT FISH & GAME,KETCHIKAN,AK 99901.
+NR 3
+TC 3
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PY 1983
+VL 97
+IS 1
+BP 110
+EP 110
+PG 1
+SC Biodiversity Conservation; Ecology
+GA RJ119
+UT ISI:A1983RJ11900022
+ER
+
+PT J
+AU COLMENARES, R
+TI SOCIAL-STRUCTURE OF AN IBERIAN WOLF PACK (CANIS-LUPUS-SIGNATUS) IN
+   CAPTIVITY - SOCIAL STRATEGIES AND SOCIAL NICHES
+SO BIOLOGY OF BEHAVIOUR
+LA French
+DT Article
+RP COLMENARES, R, UNIV COMPLUTENSE MADRID,FAC BIOL,DEPT ECOL,MADRID,SPAIN.
+NR 77
+TC 1
+PU MASSON EDITEUR
+PI PARIS 06
+PA 120 BLVD SAINT-GERMAIN, 75280 PARIS 06, FRANCE
+SN 0397-7153
+J9 BIOL BEHAV
+PY 1983
+VL 8
+IS 1
+BP 27
+EP 47
+PG 21
+SC Behavioral Sciences; Zoology
+GA QE753
+UT ISI:A1983QE75300003
+ER
+
+PT J
+AU ZIEGLER, JM
+   GUSTAVSON, CR
+   HOLZER, GA
+   GRUBER, D
+TI ANTHELMINTIC-BASED TASTE-AVERSIONS IN WOLVES (CANIS-LUPUS)
+SO APPLIED ANIMAL ETHOLOGY
+LA English
+DT Note
+C1 N DAKOTA STATE UNIV,DEPT PSYCHOL,FARGO,ND 58105.
+RP ZIEGLER, JM, N DAKOTA STATE UNIV,DEPT ZOOL,FARGO,ND 58105.
+NR 10
+TC 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-3762
+J9 APPL ANIM ETHOL
+PY 1983
+VL 9
+IS 3-4
+BP 373
+EP 377
+PG 5
+SC Zoology
+GA QB125
+UT ISI:A1983QB12500017
+ER
+
+PT J
+AU GUSTAVSON, CR
+TI AN EVALUATION OF TASTE-AVERSION CONTROL OF WOLF (CANIS-LUPUS) PREDATION
+   IN NORTHERN MINNESOTA
+SO APPLIED ANIMAL ETHOLOGY
+LA English
+DT Article
+RP GUSTAVSON, CR, N DAKOTA STATE UNIV,DEPT PSYCHOL,FARGO,ND 58105.
+NR 8
+TC 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-3762
+J9 APPL ANIM ETHOL
+PY 1982
+VL 9
+IS 1
+BP 63
+EP 71
+PG 9
+SC Zoology
+GA PR401
+UT ISI:A1982PR40100007
+ER
+
+PT J
+AU HELL, P
+   PAULE, L
+TI TAXONOMIC DATA ON THE WOLF (CANIS-LUPUS) FROM THE SLOVAKIAN CARPATHIANS
+SO FOLIA ZOOLOGICA
+LA German
+DT Article
+C1 UNIV FORESTRY & WOOD TECHNOL,CS-96053 ZVOLEN,CZECHOSLOVAKIA.
+RP HELL, P, RES INST FORESTRY,KARL MARX ST 22,CS-96092
+   ZVOLEN,CZECHOSLOVAKIA.
+NR 16
+TC 4
+PU INST VERTEBRATE ZOOLOGY
+PI BRNO
+PA KVETNA 8, BRNO, CZECH REPUBLIC 603 65
+SN 0139-7893
+J9 FOLIA ZOOL
+JI Folia Zool.
+PY 1982
+VL 31
+IS 3
+BP 255
+EP 270
+PG 16
+SC Zoology
+GA PM099
+UT ISI:A1982PM09900006
+ER
+
+PT J
+AU VOSBURGH, KM
+   BARBIERS, RB
+   SIKARSKIE, JG
+   ULLREY, DE
+TI A SOFT VERSUS HARD DIET AND ORAL HEALTH IN CAPTIVE TIMBER WOLVES
+   (CANIS-LUPUS)
+SO JOURNAL OF ZOO ANIMAL MEDICINE
+LA English
+DT Article
+C1 MICHIGAN STATE UNIV,DEPT ANIM SCI,E LANSING,MI 48824.
+RP VOSBURGH, KM, MICHIGAN STATE UNIV,COLL VET MED,E LANSING,MI 48824.
+NR 6
+TC 8
+PU AMER ASSOC Z00 VETERINARIANS
+PI MEDIA
+PA 6 NORTH PENNELL ROAD, MEDIA, PA 19063
+SN 0093-4526
+J9 J ZOO ANIM MED
+PY 1982
+VL 13
+IS 3
+BP 104
+EP 107
+PG 4
+SC Veterinary Sciences
+GA PK109
+UT ISI:A1982PK10900003
+ER
+
+PT J
+AU OLSEN, SJ
+   OLSEN, JW
+   QI, G
+TI THE POSITION OF CANIS-LUPUS VARIABILIS, FROM ZHOUKOUDIAN, IN THE
+   ANCESTRAL LINEAGE OF THE DOMESTIC DOG, CANIS-FAMILIARIS
+SO VERTEBRATA PALASIATICA
+LA Chinese
+DT Article
+C1 ACAD SINICA,INST VERTEBRATE PALEONTOL & PALEOANTHROPOL,BEIJING,PEOPLES R CHINA.
+RP OLSEN, SJ, UNIV ARIZONA,DEPT ANTHROPOL,TUCSON,AZ 85721.
+NR 17
+TC 1
+PU SCIENCE CHINA PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN 0042-4404
+J9 VERTEBR PALASIAT
+PY 1982
+VL 20
+IS 3
+BP 264
+EP &
+PG 0
+SC Zoology
+GA PF298
+UT ISI:A1982PF29800010
+ER
+
+PT J
+AU BALLARD, WB
+   FRANZMANN, AW
+   GARDNER, CL
+TI COMPARISON AND ASSESSMENT OF DRUGS USED TO IMMOBILIZE ALASKAN GRAY
+   WOLVES (CANIS-LUPUS) AND WOLVERINES (GULO-GULO) FROM A HELICOPTER
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+C1 ALASKA DEPT FISH & GAME,MOOSE RES CTR,SOLDOTNA,AK 99669.
+RP BALLARD, WB, ALASKA DEPT FISH & GAME,POB 47,GLENNALLEN,AK 99588.
+NR 12
+TC 16
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PY 1982
+VL 18
+IS 3
+BP 339
+EP 342
+PG 4
+SC Veterinary Sciences
+GA PB754
+UT ISI:A1982PB75400009
+ER
+
+PT J
+AU MORAN, G
+TI LONG-TERM PATTERNS OF AGONISTIC INTERACTIONS IN A CAPTIVE GROUP OF
+   WOLVES (CANIS-LUPUS)
+SO ANIMAL BEHAVIOUR
+LA English
+DT Article
+C1 DALHOUSIE UNIV,DEPT PSYCHOL,HALIFAX,NS,CANADA.
+NR 15
+TC 9
+PU ACADEMIC PRESS LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON, ENGLAND NW1 7DX
+SN 0003-3472
+J9 ANIM BEHAV
+JI Anim. Behav.
+PY 1982
+VL 30
+IS FEB
+BP 75
+EP 83
+PG 9
+SC Behavioral Sciences; Zoology
+GA NN876
+UT ISI:A1982NN87600010
+ER
+
+PT J
+AU FERGUSON, WW
+TI THE SYSTEMATIC POSITION OF CANIS-AUREUS-LUPASTER (CARNIVORA, CANIDAE)
+   AND THE OCCURRENCE OF CANIS-LUPUS IN NORTH-AFRICA, EGYPT AND SINAI
+SO MAMMALIA
+LA English
+DT Article
+RP FERGUSON, WW, TEL AVIV UNIV,DR GEORGE S WISE CTR LIFE SCI,DEPT ZOOL,TEL
+   AVIV,ISRAEL.
+NR 28
+TC 8
+PU MUSEUM NAT HIST NATURELLE
+PI PARIS
+PA 55 RUE DE BUFFON, 75005 PARIS, FRANCE
+SN 0025-1461
+J9 MAMMALIA
+JI Mammalia
+PY 1981
+VL 45
+IS 4
+BP 459
+EP 465
+PG 7
+SC Zoology
+GA NE595
+UT ISI:A1981NE59500006
+ER
+
+PT J
+AU LITVINOV, VP
+TI THE WOLF (CANIS-LUPUS) AND WILD BOAR (SUS-SCROFA) IN THE KYZYL-AGACH
+   STATE RESERVATION
+SO ZOOLOGICHESKY ZHURNAL
+LA Russian
+DT Note
+RP LITVINOV, VP, BEREZINA BIOSPHER STATE RESERVAT,BEREZINA,BESSR.
+NR 0
+TC 5
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0044-5134
+J9 ZOOL ZH
+JI Zool. Zhurnal
+PY 1981
+VL 60
+IS 10
+BP 1588
+EP 1591
+PG 4
+SC Zoology
+GA MM935
+UT ISI:A1981MM93500022
+ER
+
+PT J
+AU VYRYPAEV, VA
+TI ON HUNTING BEHAVIOR OF THE WOLF (CANIS-LUPUS) IN TIEN-SHAN
+SO ZOOLOGICHESKY ZHURNAL
+LA Russian
+DT Article
+RP VYRYPAEV, VA, TYAN SHAN PHYS GEOG STN,POKROVKA,KISSR.
+NR 8
+TC 1
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0044-5134
+J9 ZOOL ZH
+JI Zool. Zhurnal
+PY 1980
+VL 59
+IS 12
+BP 1870
+EP 1874
+PG 5
+SC Zoology
+GA KX380
+UT ISI:A1980KX38000013
+ER
+
+PT J
+AU SUMINSKI, P
+   KOBRYN, K
+TI ASSESSMENT OF THE USEFULNESS OF A DISCRIMINATION ANALYSIS METHOD OF SEX
+   DETERMINATION OF WOLF SKULLS (CANIS-LUPUS L 1758)
+SO ZEITSCHRIFT FUR JAGDWISSENSCHAFT
+LA German
+DT Article
+NR 9
+TC 3
+PU BLACKWELL WISSENSCHAFTS-VERLAG GMBH
+PI BERLIN
+PA KURFURSTENDAMM 57, D-10707 BERLIN, GERMANY
+SN 0044-2887
+J9 Z JAGDWISS
+JI Z. Jagdwiss.
+PY 1980
+VL 26
+IS 3
+BP 121
+EP 126
+PG 6
+SC Zoology
+GA KM358
+UT ISI:A1980KM35800001
+ER
+
+PT J
+AU PULLIAINEN, E
+TI THE STATUS, STRUCTURE AND BEHAVIOR OF POPULATIONS OF THE WOLF
+   (CANIS-L-LUPUS L) ALONG THE FENNO-SOVIET BORDER
+SO ANNALES ZOOLOGICI FENNICI
+LA English
+DT Article
+RP PULLIAINEN, E, UNIV OULU,DEPT ZOOL,SF-90100 OULU 10,FINLAND.
+NR 15
+TC 16
+PU FINNISH ZOOLOGICAL BOTANICAL PUBLISHING BOARD
+PI HELSINKI
+PA UNIV HELSINKI P O BOX 17 (P. RAUTATIEKATU 13), FIN-00014 HELSINKI,
+   FINLAND
+SN 0003-455X
+J9 ANN ZOOL FENN
+JI Ann. Zool. Fenn.
+PY 1980
+VL 17
+IS 2
+BP 107
+EP 112
+PG 6
+SC Ecology; Zoology
+GA KJ413
+UT ISI:A1980KJ41300003
+ER
+
+PT J
+AU FRITTS, SH
+   CAYWOOD, DD
+TI OSTEOARTHROSIS IN A WOLF (CANIS-LUPUS) RADIO-TRACKED IN MINNESOTA
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+C1 UNIV MINNESOTA,BELL MUSEUM NAT HIST,DEPT ECOL & BEHAV BIOL,MINNEAPOLIS,MN 55455.
+   UNIV MINNESOTA,COLL VET MED,DEPT SMALL ANIM CLIN SCI,ST PAUL,MN 55108.
+NR 13
+TC 2
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PY 1980
+VL 16
+IS 3
+BP 413
+EP 417
+PG 5
+SC Veterinary Sciences
+GA KE436
+UT ISI:A1980KE43600020
+ER
+
+PT J
+AU KRUSHINSKY, LV
+   DASHEVSKY, BA
+   SOTSKAYA, MN
+   DUDOLADOVA, LA
+   MYCHKO, EN
+   SHUBKINA, AV
+   ERMAKOVA, EV
+TI A STUDY OF ELEMENTARY REASONING IN WOLVES (CANIS-LUPUS L)
+SO ZOOLOGICHESKY ZHURNAL
+LA Russian
+DT Article
+C1 ACAD SCI USSR,INST ANIM EVOLUT MORPHOL & ECOL,MOSCOW V-71,USSR.
+RP KRUSHINSKY, LV, MV LOMONOSOV STATE UNIV,FAC BIOL,MOSCOW 117234,USSR.
+NR 12
+TC 0
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0044-5134
+J9 ZOOL ZH
+JI Zool. Zhurnal
+PY 1980
+VL 59
+IS 6
+BP 915
+EP 924
+PG 10
+SC Zoology
+GA JZ150
+UT ISI:A1980JZ15000014
+ER
+
+PT J
+AU KAZACOS, KR
+   DOUGHERTY, TJ
+TI NATURALLY-OCCURRING PRENATAL INFECTION WITH TOXOCARA-CANIS IN WOLF PUPS
+   (CANIS-LUPUS) BORN IN CAPTIVITY, WITH NOTES ON HOOKWORM INFECTION
+SO JOURNAL OF ZOO ANIMAL MEDICINE
+LA English
+DT Article
+C1 PURDUE UNIV,DEPT BIOL,HAMMOND,IN 46323.
+RP KAZACOS, KR, PURDUE UNIV,DEPT VET MICROBIOL PATHOL & PUBL HLTH,W
+   LAFAYETTE,IN 47907.
+NR 15
+TC 0
+PU AMER ASSOC Z00 VETERINARIANS
+PI MEDIA
+PA 6 NORTH PENNELL ROAD, MEDIA, PA 19063
+SN 0093-4526
+J9 J ZOO ANIM MED
+PY 1979
+VL 10
+IS 4
+BP 136
+EP 138
+PG 3
+SC Veterinary Sciences
+GA JT878
+UT ISI:A1979JT87800007
+ER
+
+PT J
+AU RYABOV, LS
+TI CANIS-LUPUS IN THE EAST OF THE VORONEZH DISTRICT
+SO ZOOLOGICHESKY ZHURNAL
+LA Russian
+DT Article
+RP RYABOV, LS, VORONEZH STATE TEACHERS INST,VORONEZH,USSR.
+NR 9
+TC 1
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0044-5134
+J9 ZOOL ZH
+JI Zool. Zhurnal
+PY 1979
+VL 58
+IS 4
+BP 564
+EP 569
+PG 6
+SC Zoology
+GA GS861
+UT ISI:A1979GS86100013
+ER
+
+PT J
+AU VANCAMP, J
+   GLUCKIE, R
+TI RECORD LONG-DISTANCE MOVE BY A WOLF (CANIS-LUPUS)
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Note
+C1 ALBERTA RECREAT PK & WILDLIFE,COLD LAKE T0A 0V0,ALBERTA,CANADA.
+RP VANCAMP, J, GOVT NW TERR,FISH & WILDLIFE SERV,FT SMITH X0E
+   0P0,NORTHWEST TERR,CANADA.
+NR 1
+TC 17
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PY 1979
+VL 60
+IS 1
+BP 236
+EP 237
+PG 2
+SC Zoology
+GA GK968
+UT ISI:A1979GK96800037
+ER
+
+PT J
+AU SAMUEL, WM
+   RAMALINGAM, S
+   CARBYN, LN
+TI HELMINTHS IN COYOTES (CANIS-LATRANS SAY), WOLVES (CANIS-LUPUS L) AND
+   RED FOXES (VULPES-VULPES L) OF SOUTHWESTERN MANITOBA
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Note
+C1 CANADIAN WILDLIFE SERV,EDMONTON T5J 1S6,ALBERTA,CANADA.
+RP SAMUEL, WM, UNIV ALBERTA,DEPT ZOOL,EDMONTON T6G 2E9,ALBERTA,CANADA.
+NR 22
+TC 17
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PY 1978
+VL 56
+IS 12
+BP 2614
+EP 2617
+PG 4
+SC Zoology
+GA GH572
+UT ISI:A1978GH57200017
+ER
+
+PT J
+AU CHILD, KN
+   FUJINO, KK
+   WARREN, MW
+TI GRAY WOLF (CANIS-LUPUS-COLUMBIANUS) AND STONE SHEEP (OVIS-DALLI-STONEI)
+   FATAL PREDATOR-PREY ENCOUNTER
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+RP CHILD, KN, MINIST RECREAT & CONSERVAT,FISH & WILDLIFE BRANCH,1777 3RD
+   AVE,PRINCE GEORGE V2L 3G7,BC,CANADA.
+NR 0
+TC 0
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PY 1978
+VL 92
+IS 4
+BP 399
+EP 401
+PG 3
+SC Biodiversity Conservation; Ecology
+GA GF705
+UT ISI:A1978GF70500014
+ER
+
+PT J
+AU SAMUEL, WM
+   CHALMERS, GA
+   GUNSON, JR
+TI ORAL PAPILLOMATOSIS IN COYOTES (CANIS-LATRANS) AND WOLVES (CANIS-LUPUS)
+   OF ALBERTA
+SO JOURNAL OF WILDLIFE DISEASES
+LA English
+DT Article
+RP SAMUEL, WM, UNIV ALBERTA,DEPT ZOOL,EDMONTON T6G 2E9,ALBERTA,CANADA.
+NR 0
+TC 9
+PU WILDLIFE DISEASE ASSN, INC
+PI LAWRENCE
+PA 810 EAST 10TH ST, LAWRENCE, KS 66044-8897
+SN 0090-3558
+J9 J WILDLIFE DIS
+JI J. Wildl. Dis.
+PY 1978
+VL 14
+IS 2
+BP 165
+EP 169
+PG 5
+SC Veterinary Sciences
+GA EX652
+UT ISI:A1978EX65200004
+ER
+
+PT J
+AU SKEEL, MA
+   CARBYN, LN
+TI MORPHOLOGICAL RELATIONSHIP OF GRAY WOLVES (CANIS-LUPUS) IN
+   NATIONAL-PARKS OF CENTRAL CANADA
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+C1 UNIV TORONTO,DEPT ZOOL,TORONTO M5S 1A1,ONTARIO,CANADA.
+   CANADIAN WILDLIFE SERV,EDMONTON,ALBERTA,CANADA.
+NR 21
+TC 10
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PY 1977
+VL 55
+IS 4
+BP 737
+EP 747
+PG 11
+SC Zoology
+GA DE284
+UT ISI:A1977DE28400013
+ER
+
+PT J
+AU SUMINSKI, P
+   WARSCHAU, WF
+TI CONTRIBUTION TO INVESTIGATION INTO FEEDING-HABITS OF WOLF (CANIS-LUPUS
+   L)
+SO ZEITSCHRIFT FUR JAGDWISSENSCHAFT
+LA German
+DT Article
+NR 0
+TC 3
+PU BLACKWELL WISSENSCHAFTS-VERLAG GMBH
+PI BERLIN
+PA KURFURSTENDAMM 57, D-10707 BERLIN, GERMANY
+SN 0044-2887
+J9 Z JAGDWISS
+JI Z. Jagdwiss.
+PY 1977
+VL 23
+IS 1
+BP 1
+EP 5
+PG 5
+SC Zoology
+GA DC808
+UT ISI:A1977DC80800001
+ER
+
+PT J
+AU BYMAN, D
+   VANBALLENBERGHE, V
+   SCHLOTTHAUER, JC
+   ERICKSON, AW
+TI PARASITES OF WOLVES, CANIS-LUPUS L, IN NORTHEASTERN MINNESOTA, AS
+   INDICATED BY ANALYSIS OF FECAL SAMPLES
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+C1 COLORADO STATE UNIV,DEPT ZOOL & ENTOMOL,FT COLLINS,CO 80523.
+   ALASKA DEPT FISH & GAME,ANCHORAGE,AK 99502.
+   UNIV MINNESOTA,COLL VET MED,ST PAUL,MN 55108.
+   UNIV WASHINGTON,COLL FISHERIES,SEATTLE,WA 98105.
+NR 27
+TC 5
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PY 1977
+VL 55
+IS 2
+BP 376
+EP 380
+PG 5
+SC Zoology
+GA CY227
+UT ISI:A1977CY22700018
+ER
+
+PT J
+AU ROCK, TW
+   HEDGER, HH
+TI BUFFALO WOLF (CANIS-LUPUS-NUBILUS) SKELETON DISCOVERED NEAR EYEBROW,
+   SASKATCHEWAN
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Note
+C1 SASKATCHEWAN DEPT TOURISM & RENEWABLE RESOURCES,WILDLIFE RES UNIT,SASKATOON,SASKATCHEWAN,CANADA.
+NR 0
+TC 0
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA PO BOX 35069, WESTGATE PO, OTTAWA ON K1Z 1A2, CANADA
+SN 0008-3550
+J9 CAN FIELD-NATUR
+JI Can. Field-Nat.
+PY 1976
+VL 90
+IS 4
+BP 496
+EP 496
+PG 1
+SC Biodiversity Conservation; Ecology
+GA CV013
+UT ISI:A1976CV01300029
+ER
+
+PT J
+AU HENSHAW, RE
+   STEPHENS.RO
+TI HOMING IN GRAY WOLF (CANIS-LUPUS)
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Note
+C1 PENN STATE UNIV,DEPT BIOL,UNIVERSITY PK,PA 16802.
+   ALASKA DEPT FISH & GAME,1300 COLL AVE,FAIRBANKS,AK 99701.
+NR 4
+TC 11
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PY 1974
+VL 55
+IS 1
+BP 234
+EP 237
+PG 4
+SC Zoology
+GA S6548
+UT ISI:A1974S654800030
+ER
+
+PT J
+AU CHOQUETT.LP
+   GIBSON, GG
+   KUYT, E
+   PEARSON, AM
+TI HELMINTHS OF WOLVES, CANIS-LUPUS L, IN YUKON AND NORTHWEST TERRITORIES
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+C1 CANADA DEPT ENVIRONM,CANADIAN WILDLIFE SERV,OTTAWA K1A OH3,ONTARIO,CANADA.
+NR 30
+TC 21
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PY 1973
+VL 51
+IS 10
+BP 1087
+EP 1091
+PG 5
+SC Zoology
+GA R8532
+UT ISI:A1973R853200012
+ER
+
+PT J
+AU LENTFER, JW
+   SANDERS, DK
+TI NOTES ON CAPTIVE WOLF (CANIS-LUPUS) COLONY, BARROW, ALASKA
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+LA English
+DT Article
+C1 ALASKA DEPT FISH & GAME,BARROW,AK.
+   USN,ARCTIC RES LAB,BARROW,AK.
+NR 21
+TC 11
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4301
+J9 CAN J ZOOL
+JI Can. J. Zool.-Rev. Can. Zool.
+PY 1973
+VL 51
+IS 6
+BP 623
+EP 627
+PG 5
+SC Zoology
+GA Q0829
+UT ISI:A1973Q082900009
+ER
+
+PT J
+AU FOX, MW
+TI SOCIAL SIGNIFICANCE OF GENITAL LICKING IN WOLF, CANIS-LUPUS
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Note
+NR 4
+TC 2
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PY 1972
+VL 53
+IS 3
+BP 637
+EP &
+PG 0
+SC Zoology
+GA N7050
+UT ISI:A1972N705000031
+ER
+
+PT J
+AU LAUER, BH
+   KUYT, E
+   BAKER, BE
+TI WOLF MILK .I. ARCTIC WOLF (CANIS LUPUS ARCTOS) AND HUSKY MILK - GROSS
+   COMPOSITION AND FATTY ACID CONSTITUTION
+SO CANADIAN JOURNAL OF ZOOLOGY
+LA English
+DT Article
+NR 21
+TC 8
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+J9 CAN J ZOOLOG
+PY 1969
+VL 47
+IS 1
+BP 99
+EP &
+PG 0
+SC Zoology
+GA C4591
+UT ISI:A1969C459100018
+ER
+
+PT J
+AU WILLIAMS, MW
+   BALDWIN, HA
+   WILLIAMS, CS
+TI BODY TEMPERATURE OBSERVATIONS ON A CAGED MEXICAN WOLF (CANIS LUPUS
+   BAILEYI) BY REMOTE TELEMETRY
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Note
+NR 0
+TC 0
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PY 1968
+VL 49
+IS 2
+BP 329
+EP &
+PG 0
+SC Zoology
+GA B1820
+UT ISI:A1968B182000029
+ER
+
+PT J
+AU LAWRENCE, B
+   BOSSERT, WH
+TI MULTIPLE CHARACTER ANALYSIS OF CANIS LUPUS LATRANS AND FAMILIARIS WITH
+   A DISCUSSION OF RELATIONSHIPS OF CANIS NIGER
+SO AMERICAN ZOOLOGIST
+LA English
+DT Meeting Abstract
+NR 12
+TC 49
+PU AMER SOC ZOOLOGISTS
+PI LAWRENCE
+PA 1041 NEW HAMPSHIRE ST, LAWRENCE, KS 66044
+SN 0003-1569
+J9 AMER ZOOL
+JI Am. Zool.
+PY 1967
+VL 7
+IS 2
+BP 223
+EP &
+PG 0
+SC Zoology
+GA 95850
+UT ISI:A19679585000117
+ER
+
+PT J
+AU THEBERG, JB
+   FALLS, JB
+TI DESCRIPTIVE STUDY OF HOWLING IN TIMBER WOLF (CANIS LUPUS)
+SO AMERICAN ZOOLOGIST
+LA English
+DT Meeting Abstract
+NR 0
+TC 0
+PU AMER SOC ZOOLOGISTS
+PI LAWRENCE
+PA 1041 NEW HAMPSHIRE ST, LAWRENCE, KS 66044
+SN 0003-1569
+J9 AMER ZOOL
+JI Am. Zool.
+PY 1966
+VL 6
+IS 3
+BP 334
+EP &
+PG 0
+SC Zoology
+GA 80803
+UT ISI:A19668080300146
+ER
+
+PT J
+AU JOLICOEUR, P
+TI MULTIVARIATE GEOGRAPHICAL VARIATION IN THE WOLF CANIS-LUPUS L
+SO EVOLUTION
+LA English
+DT Article
+NR 35
+TC 87
+PU SOC STUDY EVOLUTION
+PI LAWRENCE
+PA 810 E 10TH STREET, LAWRENCE, KS 66044
+SN 0014-3820
+J9 EVOLUTION
+JI Evolution
+PY 1959
+VL 13
+IS 3
+BP 283
+EP 299
+PG 17
+SC Ecology; Evolutionary Biology; Genetics & Heredity
+GA XE174
+UT ISI:A1959XE17400001
+ER
+
+PT J
+AU BANFIELD, AWF
+TI THE RANGE OF INDIVIDUAL TIMBER WOLVES (CANIS-LUPUS)
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Note
+NR 1
+TC 2
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PY 1953
+VL 34
+IS 3
+BP 389
+EP 390
+PG 2
+SC Zoology
+GA XS353
+UT ISI:A1953XS35300024
+ER
+
+PT J
+AU DEVOS, A
+TI TIMBER WOLVES (CANIS-LUPUS-LYCAON) KILLED BY CARS ON ONTARIO HIGHWAYS
+SO JOURNAL OF MAMMALOGY
+LA English
+DT Note
+NR 0
+TC 2
+PU AMER SOC MAMMALOGISTS
+PI PROVO
+PA BRIGHAM YOUNG UNIV, DEPT OF ZOOLOGY, PROVO, UT 84602
+SN 0022-2372
+J9 J MAMMAL
+JI J. Mammal.
+PY 1949
+VL 30
+IS 2
+BP 197
+EP 197
+PG 1
+SC Zoology
+GA XY153
+UT ISI:A1949XY15300021
+ER
+
+PT J
+AU Scott, HH
+TI Carcinoma of the tonsil in a common Wolf (Canis lupus).
+SO PROCEEDINGS OF THE ZOOLOGICAL SOCIETY OF LONDON
+LA English
+DT Article
+C1 Zool Soc, London, UK.
+NR 15
+TC 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0370-2774
+J9 P ZOOL SOC LOND
+JI Proc. Zool. Soc. Lond.
+PD APR
+PY 1928
+VL 1928
+PN Part 1
+BP 43
+EP +
+PG 8
+SC Zoology
+GA V06LN
+UT ISI:000200435500002
+ER
+
+EF
